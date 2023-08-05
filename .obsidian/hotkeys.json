@@ -4,8 +4,24 @@
       "modifiers": [
         "Mod"
       ],
+      "key": "P"
+    }
+  ],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
       "key": "K"
     }
   ],
-  "editor:insert-link": []
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": []
 }

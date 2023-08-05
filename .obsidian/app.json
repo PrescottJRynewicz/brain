@@ -2,5 +2,9 @@
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000 Brain",
+  "attachmentFolderPath": "222 Assets",
+  "showFrontmatter": true
 }

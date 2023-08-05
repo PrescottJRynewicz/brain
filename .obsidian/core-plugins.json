@@ -5,12 +5,13 @@
   "graph",
   "backlink",
   "canvas",
+  "tag-pane",
   "page-preview",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
   "bookmarks",
   "markdown-importer",
-  "word-count",
   "file-recovery"
 ]

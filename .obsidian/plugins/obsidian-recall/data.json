@@ -1,0 +1,7 @@
+{
+  "maxNewPerDay": 20,
+  "repeatItems": true,
+  "dataLocation": "In Vault Folder",
+  "locationPath": "",
+  "algorithm": "Leitner"
+}

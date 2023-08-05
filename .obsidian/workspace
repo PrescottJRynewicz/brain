@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "e6250779d30da8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "215f34692f05a67d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0ae08728b9133d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0d4e9ad75ac9024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bd41bfab35d9b44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ae00b166c25b70a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "du",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e788cf0b0bf50a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "784f5bc65dce6eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ca383c45467e61d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "215f34692f05a67d",
+  "lastOpenFiles": [
+    "Key Metrics.md",
+    "C4B Product Development Graph/Product Project Roadmap.md",
+    "User Table.md",
+    "C4B Product Development Graph/Business Table.md",
+    "C4B Product Development Graph/Users/User Table.md",
+    "C4B Product Development Graph/Users/Research.md",
+    "C4B Product Development Graph/Solution Hypothesis Table.md",
+    "Problem List.md",
+    "Solution Hypothesis.md",
+    "C4B Product Development Graph/Discovery Backlog.md"
+  ]
+}

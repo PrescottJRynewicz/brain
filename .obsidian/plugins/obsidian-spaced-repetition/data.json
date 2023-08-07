@@ -5,9 +5,10 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#flashcards",
-      "#science"
+      "#DefinitionCards",
+      "#FinanceCards"
     ],
-    "convertFoldersToDecks": true,
+    "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
     "showContextInCards": true,
@@ -39,7 +40,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-08-04",
+  "buryDate": "2023-08-06",
   "buryList": [],
-  "historyDeck": null
+  "historyDeck": "FinCards"
 }

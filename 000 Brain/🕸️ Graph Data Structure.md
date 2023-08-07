@@ -2,7 +2,7 @@
 Created On: 2023-08-05, 09:48
 Unique ID: 202308050948
 ---
-**Status:** #moc  #review #flashcards 
+**Status:** #moc  #review #DefinitionCards 
 **Tags:** [[Zettelkasten]]
 
 # Graph Data Structure 
@@ -13,6 +13,8 @@ A web of nodes and edges. Each node represents a data point in the graph. Edges 
 A node will contain some body of information, depending on the use case of the Graph. 
 
 An edge will at minimum connect two nodes, but can also contain information like direction, weight, and other metadata.
+
+
 
 
 

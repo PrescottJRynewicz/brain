@@ -2,7 +2,7 @@
 Created On: 2023-08-06, 15:01
 Unique ID: 202308061501
 ---
-**Status:** #thought #review #DefinitionCards 
+**Status:** #thought #DefinitionCards 
 
 **Tags:** [[📗 Optionality - Survive and Thrive]]  [[🤕 Pain Is The Feeling Of Accelerating Information]] [[Psychology]]
 
@@ -16,6 +16,7 @@ This has an interesting connection to universal truth that success cannot come w
 #### Flashcards
 
 **Survivorship Bias**:: We hear about success and not failure. It is is important to remember this when evaluating choices. What percentage are the survivors in? 25% is very different than .01%. 
+<!--SR:!2023-08-09,3,250-->
 
 
 

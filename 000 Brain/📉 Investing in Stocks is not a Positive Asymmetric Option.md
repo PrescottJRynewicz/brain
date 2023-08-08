@@ -2,7 +2,7 @@
 Created On: 2023-08-06, 15:14
 Unique ID: 202308061514
 ---
-**Status:** #thought #review #FinanceCards
+**Status:** #thought #FinanceCards
 
 **Tags:**  [[📗 Optionality - Survive and Thrive]] [[💹 Efficient Market Hypothesis]]
 
@@ -16,6 +16,7 @@ Because of the [[💹 Efficient Market Hypothesis]], it is extremely unlikely th
 **What type of outcome symmetry does stock market investing have**
 ?
 Index funds are a symmetric option - almost everyone from the lay person to the domain expert will have negative symmetric options with the risk of ruin when attempting to "game" the stock market. 
+<!--SR:!2023-08-09,2,230-->
 
 
 

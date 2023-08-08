@@ -1,6 +1,9 @@
 ---
 Created On: 2023-08-05, 09:48
 Unique ID: 202308050948
+sr-due: 2023-08-11
+sr-interval: 4
+sr-ease: 270
 ---
 **Status:** #moc  #review #DefinitionCards 
 **Tags:** [[Zettelkasten]]

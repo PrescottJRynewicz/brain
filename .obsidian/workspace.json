@@ -11,8 +11,12 @@
             "id": "cbc92c2419a24347",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "000 Brain/🪈 How Next.JS App Routing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "000 Brain/🪈 How Next.JS App Routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,19 @@
   },
   "active": "cbc92c2419a24347",
   "lastOpenFiles": [
+    "200 Assets/Pasted image 20230808152555.png",
+    "200 Assets/Pasted image 20230808152541.png",
+    "000 Brain/🖥️ Server Components Cannot use Context.md",
+    "000 Brain/🪈 How Next.JS App Routing.md",
+    "000 Brain/Next.JS.md",
+    "000 Brain/React.js.md",
+    "000 Brain/💻 React Server Components Can Not be Imported in Client Components.md",
+    "000 Brain/⌨️ Chrome Keyboard Shortcuts Are Hard to Get To.md",
+    "000 Brain/⚡️ Stale While Revalidate.md",
+    "200 Assets/Pasted image 20230807215944.png",
+    "000 Brain/Pasted image 20230807215903.png.md",
+    "Pasted image 20230807215903.png",
+    "900 Templates/🧠 Atomic Thought.md",
     "000 Brain/Financial Capital.md",
     "000 Brain/🕸️ Graph Data Structure.md",
     "000 Brain/🔔 Gaussian Bell Curve.md",
@@ -140,7 +158,6 @@
     "000 Brain/💸 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md",
     "000 Brain/ℹ️ Information Cascade.md",
     "000 Brain/🥇 Survivorship Bias.md",
-    "900 Templates/🧠 Atomic Thought.md",
     "000 Brain/🤕 Pain Is The Feeling Of Accelerating Information.md",
     "100 References/📗 Optionality - Survive and Thrive.md",
     "900 Templates/📗 Book.md",
@@ -150,18 +167,9 @@
     "000 Brain/Another test.md",
     "000 Brain/New Note.md",
     "000 Brain/What is Zettelkasten.md",
-    "000 Brain/Graph.md",
-    "000 Brain/New Thought.md",
-    "README.md",
     "100 References/Books",
-    "Brain/Testing.md",
-    "Brain/Untitled.md",
-    "Brain/Untitled 1.md",
-    "Brain/What the.md",
     "100 References",
     "900 Templates",
-    "Spaced Repition/Another Test SR.md",
-    "Spaced Repition/Testing Spaced Repitition.md",
     "200 Assets",
     "Brain/Permanent Notes",
     "000 Brain",

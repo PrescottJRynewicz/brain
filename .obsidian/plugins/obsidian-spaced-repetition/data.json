@@ -6,7 +6,8 @@
     "flashcardTags": [
       "#flashcards",
       "#DefinitionCards",
-      "#FinanceCards"
+      "#FinanceCards",
+      "#SoftwareCards"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -40,7 +41,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-08-06",
+  "buryDate": "2023-08-08",
   "buryList": [],
   "historyDeck": "FinCards"
 }

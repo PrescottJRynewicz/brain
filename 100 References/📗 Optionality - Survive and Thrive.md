@@ -3,7 +3,7 @@ Created On: 2023-08-05, 09:58
 Unique ID: 202308050958
 ---
 **Status:** #book
-**Tags:** [[Zettelkasten]] [[Optionality]]
+**Tags:** [[Zettelkasten]] [[Optionality]] #RandomFactCards
 **Title:** Optionality: Survive and Thrive in a Volatile World
 **Author:** [[Richard Meadows]]
 
@@ -62,7 +62,7 @@ This chapter discusses how to chart a course to benefit your current **and futur
 
 Delayed gratification is a skill that does not come naturally to our human evolution, we have to learn how to train it. 
 
-The rest of the chapter is an exploration of the effectiveness of goals, and how to use them sparingly to create optionality. Goals are astonishingly effective on our human psychology, but can also create blind spots, and be manipulated ([[📐 Goodhart's Law]])
+The rest of the chapter is an exploration of the effectiveness of goals, and how to use them sparingly to create optionality. Goals are astonishingly effective on our human psychology, but can also create blind spots , and be manipulated ([[📐 Goodhart's Law]])
 
 IMO: this was too long of a chapter. There were some contradicting thoughts about the positive and negative aspects of goals and not-so-clear definitions.
 
@@ -117,7 +117,62 @@ There is already a good summary of the chapter, which I won't repeat, on page 15
 
 The main item from this chapter is the [[🏋️‍♀️Barbell Strategy]]
 
-## Chapter 14: Asymmetries in Financial Capital
+## Chapter 14: Asymmetries in Health Capital
+This chapter is more direct than the last chapter. It does focus on asymmetries in health capital, and it was one of the more interesting chapters in the book (for me). 
+
+I have always had a strong connection to fitness and health, but have not given it a lot of strategic thought recently. This chapter outlined a few key insights for me. 
+
+First off:
+1. **Bad is much stronger than good in the health domain.** 
+2. **You cannot be SUPER healthy, like you can be SUPER smart or SUPER rich.**
+3. **Everything compounds**
+
+With these three assumptions, it is important to figure out a system that works for you to gain momentum with your physical, health, and then understand how to maintain that. 
+
+Richard argues that once you figure out that system, you would set it and forget it. I don't totally agree. I think variation in exercise type is important for both continued growth, and mental stimulation, to avoid the risk of gaining negative momentum. 
+
+Another key insight that I did not know is that *[[🏋️‍♂️ Heavy resistance training has a much higher ROI than cardio training]]* (see for more info).
+
+Interesting, this chapter also introduces the [[Lindy Effect]]
+
+
+## Chapter 15: Asymmetries in Social Capital
+Social capital is the domain that comes most naturally to me. The lessons in this chapter are good, but not surprising to me. Here are my key takeaways. 
+
+1. Relationships are conditional
+	1. Outside of the kids you choose to parent, all other relationships are up to your discretion. Toxic people should be cut out and avoided. Boundaries should be set.
+2. *A social support net is an insurance policy against black swans.*
+3. Invest in your oldest and most stable relationships first. 
+	1. Family and friends are [[Lindy Effect]] approved. 
+4. Investing in talented, underrated people is an interesting asymmetric option
+	1. Trying to become close with Beyonce will not work. The likelihood you can provide something valuable to her is almost zero.
+	2. Supporting and investing in your up-and-coming people, has a very small bounded downside for you, and an extremely large unbounded upside if you play your cards right and get lucky. (kind of like a [[Social Talent Scout]]). 
+
+
+## Chapter 16: Asymmetries in Knowledge Capital 
+##### According to Nielsen, how many hours of TV does the average American watch per week? 
+?
+34 hours 🤯
+10 weeks in a year
+
+This chapter is solid. It discusses the huge opportunity for unbounded upside in Knowledge Capital, and tactics to employ this. This chapter is the reason I am writing this down right now. 
+
+Here are a few key takeaways from this chapter. 
+
+1. [[Option Pricing Model]]
+2. There are non-negotiable knowledge capital skills
+	1. Physical Health
+	2. Self Care
+	3. Budgeting and net worth
+3. Talent Stacks
+	1. Using your inherent interests, you can invest in creating a unique talent stack for you that no one else can replicate
+	2. The real question is - how much is this talent stack worth
+4. Reading high-quality books is the cheapest asymmetric option in the knowledge domain.
+5. Compounding interest applies to learning
+	1. That is why this note exists - I am trying to get a compounding return on my unique thoughts
+
+
+
 
 
 ## Chapter 21: Investing for the Bone Idle

@@ -4,7 +4,7 @@ Unique ID: 202308111634
 ---
 **Status:** #thought 
 
-**Tags:** #review 
+**Tags:** #review [[Psychology]] 
 
 # 💪  Discipline = Freedom
 If you don't design an architecture of rules for your life that you subject yourself to, you will be subject to an architecture that somebody else created without you and mine. The most obvious example to me is working a 9-5 because that's what everyone else does. 

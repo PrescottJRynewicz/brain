@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0d86652ba28b0db6",
+        "id": "e72a85a97c1abbe2",
         "type": "split",
         "children": [
           {
@@ -15,22 +15,18 @@
                 "id": "cbc92c2419a24347",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "100 References/📗 Optionality - Survive and Thrive.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "graph",
+                  "state": {}
                 }
               }
             ]
           },
           {
-            "id": "3762282f81dac1b4",
+            "id": "b28698bf523d41b5",
             "type": "tabs",
             "children": [
               {
-                "id": "f4b3298d922022a8",
+                "id": "e5ea362027eaad62",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -59,7 +55,7 @@
                       },
                       "serial": {
                         "columns": 115,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\204\\271\\357\\270\\217 Information Cascade.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250\\357\\270\\217 Chrome Keyboard Shortcuts Are Hard to Get To.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\241\\357\\270\\217 Stale While Revalidate.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\273 React Server Components Can Not be Imported in Client Components.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\211 Investing in Stocks is not a Positive Asymmetric Option.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\245\\207 Survivorship Bias.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/Conspicuous Consumption.md\r\n\u001b[8C000 Brain/Finance.md\r\n\u001b[8C000 Brain/Min-Maxing.md\r\n\u001b[8C000 Brain/Optionality.md\r\n\u001b[8C000 Brain/Why Remix Isn't Using Server Component (yet, as of 2023).md\r\n\u001b[8C\"000 Brain/\\342\\206\\230\\357\\270\\217 The Law of Diminishing Returns.md\"\r\n\u001b[8C\"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\200\\357\\270\\217Hedonic Adoption.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\200\\357\\270\\217Barbell Strategy.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\221\\231 Lifestyle Inflation.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\222\\252  Discipline = Freedom.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\222\\260 How Money Relates to Happiness.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\223\\220 Goodhart's Law.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\231\\212 Capitalism uses our evolutional survival traits against ourselves.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\246\\215 We Are Social Creatures.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\252\\263 Bad is Stronger than Good.md\"\r\n\u001b[8C200 Assets/Pasted image 20230810214423.png\r\n\u001b[8C200 Assets/Pasted image 20230811144326.png\r\n\u001b[8C200 Assets/Pasted image 20230811145646.png\r\n\u001b[8C200 Assets/Pasted image 20230811152240.png\r\n\u001b[8C200 Assets/Pasted image 20230811152558.png\r\n\u001b[8C200 Assets/Pasted image 20230811153323.png\r\n\u001b[8C200 Assets/Pasted image 20230811154528.png\r\n\u001b[8C200 Assets/Pasted image 20230814093303.png\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git add .\r\nprescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n\u001b[8C\u001b[32mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cnew file:   000 Brain/Conspicuous Consumption.md\r\n\u001b[8Cnew file:   000 Brain/Finance.md\r\n\u001b[8Cnew file:   000 Brain/Min-Maxing.md\r\n\u001b[8Cnew file:   000 Brain/Optionality.md\r\n\u001b[8Cnew file:   000 Brain/Why Remix Isn't Using Server Component (yet, as of 2023).md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\204\\271\\357\\270\\217 Information Cascade.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Law of Diminishing Returns.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250\\357\\270\\217 Chrome Keyboard Shortcuts Are Hard to Get To.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\241\\357\\270\\217 Stale While Revalidate.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\200\\357\\270\\217Hedonic Adoption.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\200\\357\\270\\217Barbell Strategy.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\221\\231 Lifestyle Inflation.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\222\\252  Discipline = Freedom.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\222\\260 How Money Relates to Happiness.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\273 React Server Components Can Not be Imported in Client Components.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\211 Investing in Stocks is not a Positive Asymmetric Option.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\223\\220 Goodhart's Law.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\231\\212 Capitalism uses our evolutional survival traits against ourselves.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\245\\207 Survivorship Bias.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\246\\215 We Are Social Creatures.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cnew file:   \"000 Brain/\\360\\237\\252\\263 Bad is Stronger than Good.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230810214423.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230811144326.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230811145646.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230811152240.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230811152558.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230811153323.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230811154528.png\r\n\u001b[8Cnew file:   200 Assets/Pasted image 20230814093303.png\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mprescott@Prescotts-MacBook-Pro Brain % git ",
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % git add",
                         "rows": 23
                       }
                     }
@@ -185,16 +181,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4b3298d922022a8",
+  "active": "e5ea362027eaad62",
   "lastOpenFiles": [
     "100 References/📗 Optionality - Survive and Thrive.md",
+    "000 Brain/💪  Discipline = Freedom.md",
+    "000 Brain/Option Pricing Model.md",
+    "900 Templates/⬇ Toggle Warning.md",
+    "900 Templates/⬇ Toggle Info.md",
+    "000 Brain/Social Talent Scout.md",
+    "000 Brain/Lindy Effect.md",
+    "200 Assets/Pasted image 20230814114442.png",
+    "900 Templates/⬇ Toggle Error.md",
+    "900 Templates/🧠 Atomic Thought.md",
+    "900 Templates/𝌞 MOC.md",
+    "900 Templates/📗 Book.md",
+    "000 Brain/Testing.md",
+    "000 Brain/🏋️‍♂️ Heavy resistance training has a much higher ROI than cardio training.md",
     "000 Brain/🏋️‍♀️Barbell Strategy.md",
     "200 Assets/Pasted image 20230814093303.png",
     "000 Brain/Min-Maxing.md",
     "000 Brain/Optionality.md",
     "000 Brain/🦍 We Are Social Creatures.md",
     "000 Brain/🍾 Beware of Mimesis.md",
-    "000 Brain/💪  Discipline = Freedom.md",
     "000 Brain/🙊 Capitalism uses our evolutional survival traits against ourselves.md",
     "000 Brain/📐 Goodhart's Law.md",
     "200 Assets/Pasted image 20230811154528.png",
@@ -207,21 +215,10 @@
     "000 Brain/💰 How Money Relates to Happiness.md",
     "000 Brain/👙 Lifestyle Inflation.md",
     "000 Brain/🏃‍♀️Hedonic Adoption.md",
-    "000 Brain/⏰Timing when you retire matters.md",
-    "000 Brain/Conspicuous Consumption.md",
-    "000 Brain/Why Remix Isn't Using Server Component (yet, as of 2023).md",
     "200 Assets/Pasted image 20230811145646.png",
     "200 Assets/Pasted image 20230811144326.png",
-    "000 Brain/Finance.md",
-    "000 Brain/💸 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md",
-    "000 Brain/ℹ️ Information Cascade.md",
-    "000 Brain/Next.JS.md",
-    "000 Brain/React.js.md",
     "200 Assets/Pasted image 20230810214423.png",
-    "000 Brain/🪈 How Next.JS App Routing.md",
-    "000 Brain/🔔 Gaussian Bell Curve.md",
     "200 Assets/Pasted image 20230808152555.png",
-    "200 Assets/Pasted image 20230808152541.png",
     "100 References/Books",
     "100 References",
     "900 Templates",

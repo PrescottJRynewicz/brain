@@ -10,7 +10,7 @@ Unique ID: 202308061711
 
 #### What is a Gaussian Bell Curve
 ?
-A curve where values are grouped close to the average. It ends up looking like a bell? 
+A curve where values are grouped close to the average. It ends up looking like a bell.
 <!--SR:!2023-08-08,1,228-->
 
 #### What is the percentage for the first, second, and third standard deviations for a normal distribution?
@@ -25,7 +25,7 @@ A curve where values are grouped close to the average. It ends up looking like a
 ?
 $$σ^2=\Sigma(x_i−\mu)^2/N$$
 Basically, find the average of the squared distance from the mean.
-<!--SR:!2023-08-08,1,228-->
+<!--SR:!2023-08-10,1,208-->
 
 
 

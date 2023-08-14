@@ -7,7 +7,7 @@ sr-ease: 250
 ---
 **Status:** #thought #review
 
-**Tags:** [[📗 Optionality - Survive and Thrive]] [[Financial Capital]]
+**Tags:** [[📗 Optionality - Survive and Thrive]] [[Finance]]
 
 # 💸 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve
 

@@ -15,7 +15,7 @@ All information available to the stock market gets incorporated into asset price
 ##### Flashcards
 
 **Efficient Market Hypothesis**::Asset prices reflect all available information. Unless you have an edge (which is almost impossible to gain in the financial sector), you will not beat the mean market. 
-<!--SR:!2023-08-08,1,210-->
+<!--SR:!2023-08-10,1,190-->
 
 
 

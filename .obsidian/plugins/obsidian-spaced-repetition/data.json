@@ -44,11 +44,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-08-15",
-  "buryList": [
-    "13e9ec8a53c73f",
-    "26a04052cf7f8",
-    "16c794c6461865"
-  ],
+  "buryDate": "2023-08-16",
+  "buryList": [],
   "historyDeck": ""
 }

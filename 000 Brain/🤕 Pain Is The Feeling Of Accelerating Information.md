@@ -5,7 +5,7 @@ sr-due: 2023-08-10
 sr-interval: 3
 sr-ease: 250
 ---
-**Status:** #thought #review 
+**Status:** #thought 
 
 **Tags:** [[🥇 Survivorship Bias]]
 

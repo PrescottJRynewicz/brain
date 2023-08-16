@@ -154,12 +154,13 @@ Social capital is the domain that comes most naturally to me. The lessons in thi
 ?
 34 hours 🤯
 10 weeks in a year
+<!--SR:!2023-08-18,3,250-->
 
 This chapter is solid. It discusses the huge opportunity for unbounded upside in Knowledge Capital, and tactics to employ this. This chapter is the reason I am writing this down right now. 
 
 Here are a few key takeaways from this chapter. 
 
-1. [[Option Pricing Model]]
+1. [[🧮 Option Pricing Model]]
 2. There are non-negotiable knowledge capital skills
 	1. Physical Health
 	2. Self Care
@@ -173,11 +174,50 @@ Here are a few key takeaways from this chapter.
 
 
 
+## Chapter 17: A Fate Worse Than Debt
+Very short chapter with a simple message: debt is second only to death, and complete loss of health. 
+
+This is more nuanced in reality, but avoiding crushing debt is a must, and spiraling debt can lead to the risk of ruin. 
+
+## Chapter 18: The Peril and Promise of Leverage
+
+Leverage in investing is taking on debt to invest. When you buy a house and take an $800,000 loan from the Bank, that is leverage. The lower your down payment, the more leverage you have. 
+
+Leverage can give you huge multiply factors if you know what you're doing. For example, if you buy a million-dollar home with a 50K down payment, the bank lent you 950K. So you technically have 19x leverage on your down payment. If the housing markets sky rockets and your home is worth 1.5M, you just 10x your money, made 500K, without doing any work outside of taking on financial risk. 
+
+The opposite is also possible. This is what happened in the 2008 housing crash. Interests rates were so low, that many people were taking out high-leverage loans on houses, and people without the appropriate credit scores in income were getting loads. When housing prices began to fall, it meant these high-leverage loans were going to lose big. 
+
+
+## Chapter 19: The Risk of Ruin
+There are a wide array of known and unknown events that can ruin our lives - financially, socially, physically, etc...
+
+At all costs, we need to avoid this type of ruin. Although this is scary, especially unknown Black Swan events, there are a few simple strategies to avoid this. 
+
+1. Have all the insurance
+	1. Health
+	2. Travel
+	3. Loss of Income
+2. Have optionality 
+	1. If one of your options, even your largest one, is suddenly, obsolete, make sure you options have something else to fall back on.
+3. Emergency Funds
+	1. No matter, keep a few months of money in an easily accessible account if shit totally hits the fan.
+
+
+## Chapter 20: Nothing Ventured, Nothing Gained
+
+[[🔼 Making Exponential Growth Intuitive]]
+[[🐢 Why You Can't Store Money in a Static Account]]
+
+*Compound Interest is the most powerful force in the universe.*
+
 
 
 ## Chapter 21: Investing for the Bone Idle
 
 [[💹 Efficient Market Hypothesis]] 
+[[💵 Four Investing Factors]]
+[[🥇 Survivorship Bias]]
+
 
 ## Chapter 22: Black Swan Hunting
 

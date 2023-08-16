@@ -4,13 +4,13 @@ Unique ID: 202308061501
 ---
 **Status:** #thought #DefinitionCards 
 
-**Tags:** [[📗 Optionality - Survive and Thrive]]  [[🤕 Pain Is The Feeling Of Accelerating Information]] [[Psychology]]
+**Tags:** [[🤕 Pain Is The Feeling Of Accelerating Information]] [[Psychology]]
 
 # 🥇 Survivorship Bias
 
 We only hear about the success stories, because the failures are much to busy with other problems (especially financial failures). 
 
-This has an interesting connection to universal truth that success cannot come without failure.
+This has an interesting connection to the universal truth that success cannot come without failure.
 
 
 #### Flashcards
@@ -23,3 +23,4 @@ This has an interesting connection to universal truth that success cannot come w
 
 ---
 # References
+[[📗 Optionality - Survive and Thrive#Chapter 21 Investing for the Bone Idle]]

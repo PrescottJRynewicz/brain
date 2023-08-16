@@ -14,7 +14,7 @@ This is when we humans use data from other humans to make decisions in a snowbal
 ##### **This is especially dangerous when there was no initial truth, information, or understood assumptions.** 
 i.e. A runaway auction for a the contents of a secret box. 
 ##### **Takeaway**: If using info from other people, make sure to understand why they are doing what they are doing. Otherwise, you introduce inherit other peoples mistakes and assumptions
-<!--SR:!2023-08-14,5,230-->
+<!--SR:!2023-08-30,16,250-->
 
 
 

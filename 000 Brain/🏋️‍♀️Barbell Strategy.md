@@ -4,7 +4,7 @@ Unique ID: 202308140932
 ---
 **Status:** #thought 
 
-**Tags:** #review #DefinitionCards 
+**Tags:** #DefinitionCards 
 
 # 🏋️‍♀️Barbell Strategy
 #### What is the Barbell Strategy?
@@ -12,6 +12,7 @@ Unique ID: 202308140932
 It is originally a financial investing strategy.
 ![[Pasted image 20230814093303.png]]
 The strategy can also be applied to other domains.
+<!--SR:!2023-08-18,3,250-->
 
 
 

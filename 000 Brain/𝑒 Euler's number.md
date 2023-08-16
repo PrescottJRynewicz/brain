@@ -1,0 +1,19 @@
+---
+Created On: 2023-08-15, 10:28
+Unique ID: 202308151028
+---
+**Status:** #thought 
+
+**Tags:** #DefinitionCards  [[📶 Everything Compounds]] [[↘️ The Risk of Compounding Interest]] [[Mathematics]]
+# 𝑒 Euler's number
+
+#### What is Euler's Number?
+?
+$$ e = (1 + 1/n)^n = 2.71828$$
+![[Pasted image 20230815102851.png]]
+
+
+
+---
+# References
+https://en.wikipedia.org/wiki/E_(mathematical_constant)

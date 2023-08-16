@@ -4,7 +4,7 @@ Unique ID: 202308081111
 ---
 **Status:** #thought 
 
-**Tags:** #review #SoftwareCards [[Software Engineering]] [[Web Development]]
+**Tags:**  #SoftwareCards [[Software Engineering]] [[Web Development]]
 
 # Stale While Revalidate
 
@@ -14,7 +14,7 @@ It is a policy that says you can return the current stale cached result while re
 **Cache Options**
 max-age: How long a page can be cached for
 stale-while-revalidate: How long a stale page can be used before a fresh page must be created.
-<!--SR:!2023-08-11,2,230-->
+<!--SR:!2023-08-24,9,230-->
 
 
 

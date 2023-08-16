@@ -4,7 +4,7 @@ Unique ID: 202308141202
 ---
 **Status:** #thought 
 
-**Tags:** #review #FinanceCards 
+**Tags:** #FinanceCards 
 
 # Option Pricing Model
 #### How do you Calculate An Option Pricing Model?
@@ -14,6 +14,7 @@ Unique ID: 202308141202
 $$
 \text{Option Price} = (\text{Cost to Hire} - \text{Your own time value}) * \text{Expected Use} - \text{Upfront Cost}
 $$
+<!--SR:!2023-08-18,3,250-->
 
 
 

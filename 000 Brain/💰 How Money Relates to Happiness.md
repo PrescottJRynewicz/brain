@@ -4,7 +4,7 @@ Unique ID: 202308111500
 ---
 **Status:** #thought 
 
-**Tags:** #review #FinanceCards [[Psychology]]
+**Tags:**  #FinanceCards [[Psychology]]
 
 # How Money Relates to Happiness
 
@@ -12,7 +12,7 @@ Unique ID: 202308111500
 ?
 Logarithmic
 ![[Pasted image 20230811145646.png]]
-<!--SR:!2023-08-12,1,230-->
+<!--SR:!2023-08-19,5,230-->
 
 
 

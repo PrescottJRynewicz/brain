@@ -4,13 +4,14 @@ Unique ID: 202308102154
 ---
 **Status:** #thought 
 
-**Tags:** #review  #DefinitionCards 
+**Tags:**  #DefinitionCards 
 
 # Min-Maxing
 
-#### What is min maxing? 
+#### What is min-maxing? 
 ?
 Essentially, focus on one critically important area or domain, and ignore the rest. 
+<!--SR:!2023-08-18,3,250-->
 
 
 

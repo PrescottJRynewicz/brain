@@ -1,6 +1,9 @@
 ---
 Created On: 2023-08-11, 16:34
 Unique ID: 202308111634
+sr-due: 2023-08-19
+sr-interval: 4
+sr-ease: 270
 ---
 **Status:** #thought 
 

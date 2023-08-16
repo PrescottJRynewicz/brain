@@ -4,12 +4,13 @@ Unique ID: 202308111447
 ---
 **Status:** #thought 
 
-**Tags:** #review #DefinitionCards 
+**Tags:** #DefinitionCards 
 
 # Lifestyle Inflation
 #### What is lifestyle inflation?
 ?
 When your spending habits increase with your earnings and net worth. Especially when your social circles are following the same inflation.
+<!--SR:!2023-08-19,4,270-->
 
 
 ---

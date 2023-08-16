@@ -4,7 +4,7 @@ Unique ID: 202308111516
 ---
 **Status:** #thought 
 
-**Tags:** #review #DefinitionCards 
+**Tags:**  #DefinitionCards 
 
 # 📶 Everything Compounds
 
@@ -15,6 +15,7 @@ I see the Matthew effect as a metaphor for gravity. Having money helps you get m
 The reverse is also true
 Having debt creates more debt. Being in one toxic relationship can destroy other relationships in your life. Being out of shape effects your mental health, which in turns makes it harder to get into shape.
 ![[Pasted image 20230811152240.png]]
+<!--SR:!2023-08-18,3,250-->
 
 
 ---

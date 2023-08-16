@@ -4,7 +4,7 @@ Unique ID: 202308081507
 ---
 **Status:** #thought 
 
-**Tags:** #review #SoftwareCards [[React.js]] [[Software Engineering]] 
+**Tags:**  #SoftwareCards [[React.js]] [[Software Engineering]] 
 
 # 🖥️ Server Components Cannot use Context
 #### Can React Server Components use Context

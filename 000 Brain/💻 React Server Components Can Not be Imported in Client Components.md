@@ -2,7 +2,7 @@
 Created On: 2023-08-08, 15:00
 Unique ID: 202308081500
 ---
-**Status:** #thought #review 
+**Status:** #thought 
 
 **Tags:**  #SoftwareCards [[React.js]] [[Software Engineering]] 
 
@@ -58,7 +58,7 @@ export default function ExampleClientComponent({
   )
 }
 ```
-<!--SR:!2023-08-10,1,230-->
+<!--SR:!2023-08-22,7,230-->
 
 
 

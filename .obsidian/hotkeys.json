@@ -5,6 +5,12 @@
         "Mod"
       ],
       "key": "P"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
     }
   ],
   "editor:insert-link": [

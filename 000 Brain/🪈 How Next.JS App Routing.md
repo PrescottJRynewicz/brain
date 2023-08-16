@@ -4,7 +4,7 @@ Unique ID: 202308081515
 ---
 **Status:** #thought 
 
-**Tags:** #review [[Next.JS]] [[Software Engineering]] #SoftwareCards 
+**Tags:**  [[Next.JS]] [[Software Engineering]] #SoftwareCards 
 # Next.JS App Routing
 
 #### Does the `app` directory or `page` directory take priority?
@@ -15,14 +15,14 @@ The `app` router takes priority.
 #### What is the default type of components in the next.js `app` directory?
 ?
 Server components. But you can still use client components. 
-<!--SR:!2023-08-10,1,210-->
+<!--SR:!2023-08-16,1,190-->
 
 #### How does Next.js App Routing Define Routes
 ?
 With the folder structure. Special file names are used to describe specific react conventions, and these special files are nested within each other. 
 ![[Pasted image 20230808152541.png]]
 ![[Pasted image 20230808152555.png]]
-<!--SR:!2023-08-10,1,210-->
+<!--SR:!2023-08-16,1,190-->
 
 
 #### What is the difference between a Page and a Layout in Next.js? 
@@ -46,7 +46,7 @@ export default function DashboardLayout({
   )
 }
 ```
-<!--SR:!2023-08-10,1,223-->
+<!--SR:!2023-08-16,1,203-->
 
 
  

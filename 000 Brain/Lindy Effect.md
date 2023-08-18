@@ -11,7 +11,7 @@ Unique ID: 202308141040
 ?
 The longer an idea, technology, or institution has been around, the longer we should expect it to stick around in the future. 
 ![[Pasted image 20230814114442.png]]
-<!--SR:!2023-08-16,1,230-->
+<!--SR:!2023-08-20,3,230-->
 
 
 

@@ -10,7 +10,7 @@ Unique ID: 202308150926
 #### Why is it a horrible idea to store money in a static account, or under your mattress
 ??
 Inflation - if your money isn't making money, it's losing money at the rate of inflation.
-<!--SR:!2023-08-18,3,250!2023-08-18,3,250-->
+<!--SR:!2023-08-28,10,250!2023-08-18,3,250-->
 
 
 

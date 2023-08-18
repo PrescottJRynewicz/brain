@@ -9,7 +9,7 @@ Unique ID: 202308151028
 
 #### What is Euler's Number?
 ?
-$$ e = (1 + 1/n)^n = 2.71828$$
+$ e = (1 + 1/n!) = 2.71828$
 ![[Pasted image 20230815102851.png]]
 
 

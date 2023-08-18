@@ -154,7 +154,7 @@ Social capital is the domain that comes most naturally to me. The lessons in thi
 ?
 34 hours 🤯
 10 weeks in a year
-<!--SR:!2023-08-18,3,250-->
+<!--SR:!2023-08-24,6,250-->
 
 This chapter is solid. It discusses the huge opportunity for unbounded upside in Knowledge Capital, and tactics to employ this. This chapter is the reason I am writing this down right now. 
 

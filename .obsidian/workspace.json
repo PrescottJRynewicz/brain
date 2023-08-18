@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6fcf2f9632d61313",
+        "id": "4668d6531b461fa4",
         "type": "split",
         "children": [
           {
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "f021fd399a7fe316",
+            "id": "63ff7e2225dde34c",
             "type": "tabs",
             "children": [
               {
-                "id": "5f3da58af7128999",
+                "id": "869526be57f50a49",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -58,9 +58,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 207,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/telegram-sync/\r\n\u001b[8C000 Brain/New Thought.md\r\n\u001b[8C200 Assets/documents/\r\n\u001b[8C200 Assets/photos/\r\n\u001b[8C900 Templates/{{content}}.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % ",
-                        "rows": 33
+                        "columns": 115,
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .DS_Store\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Consumption.md\r\n\u001b[8Cmodified:   000 Brain/Lindy Effect.md\r\n\u001b[8Cmodified:   000 Brain/Min-Maxing.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Law of Diminishing Returns.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Risk of Compounding Interest.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\235\\221\\222 Euler's number.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\200\\357\\270\\217Hedonic Adoption.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\200\\357\\270\\217Barbell Strategy.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\202\\357\\270\\217 Heavy resistance training has a much higher ROI than cardio training.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\242 Why You Can't Store Money in a Static Account.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\265 Four Investing Factors.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\220 Goodhart's Law.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\274 Making Exponential Growth Intuitive.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\225\\270\\357\\270\\217 Graph Data Structure.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\245\\207 Survivorship Bias.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\247\\256 Option Pricing Model.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\u001b[8Cmodified:   900 Templates/{{content}}.md\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/.DS_Store\r\n\u001b[8C.obsidian/plugins/.DS_Store\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git add",
+                        "rows": 23
                       }
                     }
                   },
@@ -136,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "900 Templates/{{content}}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,12 +193,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c7c5cf62bf85859",
+  "active": "869526be57f50a49",
   "lastOpenFiles": [
+    "900 Templates/{{content}}.md",
     "000 Brain/New Thought.md",
     "900 Templates/🧠 Atomic Thought.md",
     "000 Brain/yeet skeet - 20230816130151000.md",
-    "900 Templates/{{content}}.md",
     "200 Assets/documents/IMG_7393 - 20230816130151000.jpeg",
     "200 Assets/documents",
     "000 Brain/Here is something very interes - 20230816125120000.md",

@@ -11,7 +11,7 @@ Unique ID: 202308140950
 #### What is the metabolic difference between muscle and fat?
 ?
 Muscle requires 2-5x more calories per day.
-<!--SR:!2023-08-18,3,250-->
+<!--SR:!2023-08-30,11,250-->
 
 #### What are some of the benefits of increasing muscle mass?
 ?

@@ -10,7 +10,8 @@
       "#SoftwareCards",
       "#PsychCards",
       "#PhysicalHealthCards",
-      "#RandomFactCards"
+      "#RandomFactCards",
+      ""
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -44,26 +45,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-08-18",
-  "buryList": [
-    "122cfa3b3bd339",
-    "6f9780d80478e",
-    "13a55f24be3152",
-    "1f036e215a8755",
-    "14aa4e8974df58",
-    "1a8e37f0752e6b",
-    "52a63a488e73",
-    "187b0e6bd6a80",
-    "f8f7cf2c9e4b6",
-    "1e22c1461d7cc8",
-    "121f96cefec242",
-    "6e4d12dd8e531",
-    "106cf88f2ae017",
-    "dfe548738e9c8",
-    "14a4926f490b03",
-    "1d09e6db2bf972",
-    "a9c7170cb478e",
-    "1d512b9f2b49e1"
-  ],
-  "historyDeck": "SoftwareCards"
+  "buryDate": "2023-08-19",
+  "buryList": [],
+  "historyDeck": ""
 }

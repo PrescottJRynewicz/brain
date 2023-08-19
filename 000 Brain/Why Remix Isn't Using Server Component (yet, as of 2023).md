@@ -1,9 +1,9 @@
 ---
 Created On: 2023-08-09, 21:59
 Unique ID: 202308092159
-sr-due: 2023-08-18
-sr-interval: 3
-sr-ease: 250
+sr-due: 2023-09-01
+sr-interval: 13
+sr-ease: 270
 ---
 **Status:** #thought #in-progress 
 

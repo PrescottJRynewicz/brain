@@ -78,7 +78,7 @@ We are creatures of habit. Once we have momentum, it is difficult to overcome in
 To avoid this, we can tie ourselves to the mast. For example:
 
 1. Screen out harmful stimuli
-	1. Don't keep sugary, processed snacks at home. You will eat them, every time. 
+	1. Don't keep sugary, processed snacks at home. You will eat them every time. 
 2. Create the right inconveniences
 	1. Don't save your CC in your computer, but a barrier between you and your unhealthy temptations. 
 3. Tie your hands
@@ -91,7 +91,7 @@ To avoid this, we can tie ourselves to the mast. For example:
 Because we are creatures of habit, *"once we have the right systems in place, kicking back and doing nothing isn't just a good strategy - it's the best strategy."*
 
 ## Chapter 10: Creatures of Habit
-IMO, this chapter is fairly empty. Richard discusses his dislike of trying to change habits, but, paradoxically, the importance of keystone habits, and then gives us a brief stint about his nutrition plan for exemplify how we can automate necessary choices in the possibility tree.  
+This chapter is fairly empty. Richard discusses his dislike of trying to change habits, but, paradoxically, the importance of keystone habits, and then gives us a brief stint about his nutrition plan for exemplify how we can automate necessary choices in the possibility tree.  
 
 There is one valuable quote To trade the constraints imposed upon you by others for constraints you impose upon yourself. Which is very similar to [[Jocko Willink]]'s *[[💪  Discipline = Freedom]]*
 

@@ -14,5 +14,6 @@
   "editor-status",
   "bookmarks",
   "markdown-importer",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]

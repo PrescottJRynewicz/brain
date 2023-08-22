@@ -12,7 +12,7 @@ Unique ID: 202308102132
 ?
 There are two types. **Traditional** and **Roth**. They differ slightly depending on how they interact with your taxable income. 
 Both are investment funds, typically made up of mutual funds and target-date funds. But they can also include more interesting items like [ICGs](https://www.investopedia.com/terms/g/guaranteedinvestmentcontract.asp) or company stock. 
-<!--SR:!2023-08-20,3,230-->
+<!--SR:!2023-08-29,8,230-->
 
 
 #### Why does timing matter for your Retirement? 

@@ -226,7 +226,7 @@ This chapter explores what a Black Swan is (briefly), and then discusses modern,
 Rich outlines these options on p226 for how to evaluate an investment
 1. How efficient is the market?
 2. Do we have an exploitable edge?
-3. Is there a large, unbounded upside? 
+3. Is there a significant, unbounded upside? 
 4. Is it an all-in bet, or can we take a portfolio opinion? 
 
 
@@ -241,14 +241,18 @@ These options are used to explore black swan events like
 
 After discussing these options, Rich describes his investing strategy. A barbell strategy where the majority of money is invested into cheap index funds, retirement funds, and cash, while the other end is in high-risk, Black Swan bets (start-ups, crypto, etc...)
 
-This is a good reference chapter to get a breakdown of one type of personal financial and investing model. 
+This is a good reference chapter to summarize one personal financial and investing model type. 
 
 ## Chapter 23: Beware of Geeks Bearing Formulas 
-The main point of this chapter is that historical data is not a good reference point for understanding future market performance. 
+The main point of this chapter is that there are better reference points for understanding future market performance than historical data. 
 
 Also, -> [[⏰Timing when you retire matters]].
 
-The info about retirement funds and individual truth of retirement accounts, but I agree with a closing Caveat Richard makes "The only truly safe strategy is to maintain diverse income streams, without relying on investment returns. Ideally, that means finding work you actively enjoy, and creating a life you don't need to retire from."
+The info about retirement funds and individual truth of retirement accounts, but I agree with Caveat Richard's closing: "The only truly safe strategy is to maintain diverse income streams, without relying on investment returns. Ideally, that means finding work you enjoy and creating a life you don't need to retire from."
 
 
+## Chapter 24: A Time to Explore and A Time To Exploit
+This chapter deeply satisfies my math brain. Richard lays out some simple charts for each domain of our life and how we want to maximize the area under the curve for each one. 
+
+Health and Social capital are easy to summarize into charts with integrals, but knowledge and finance are not (because they are susceptible to much more volatility.)
 

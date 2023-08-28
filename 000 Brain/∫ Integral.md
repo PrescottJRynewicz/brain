@@ -4,12 +4,13 @@ Unique ID: 202308220832
 ---
 **Status:** #thought 
 
-**Tags:** #review [[Calculus]] [[Mathematics]] #MathCards
+**Tags:**  [[Calculus]] [[Mathematics]] #MathCards
 
 # ∫ Integral
 #### What is a mathematical integral? 
 ?
-An integral is the area under a curve.
+An integral is the area under a curve. 
+For example: the definite integral of velocity will give you distance travelled. The definite integral of acceleration will give you the change in velocity over a period of time.
 ![[Pasted image 20230822083700.png|400]]
 <!--SR:!2023-08-24,1,230-->
 

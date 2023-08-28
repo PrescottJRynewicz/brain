@@ -11,7 +11,8 @@
       "#PsychCards",
       "#PhysicalHealthCards",
       "#RandomFactCards",
-      "#MathCards"
+      "#MathCards",
+      "#MentalHealthCards"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -45,20 +46,9 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-08-23",
+  "buryDate": "2023-08-28",
   "buryList": [
-    "17914e718ba6a8",
-    "4f4995cd2b954",
-    "c3b216c67470",
-    "170e9bae98a0b5",
-    "1d330fbd0a2f07",
-    "15238f5a3ea4ef",
-    "1962b5246e9b30",
-    "1cd58cf0c4e109",
-    "7242e72cf0a45",
-    "47a2434f947ce",
-    "5c1786fc22db9",
-    "a35ca6737a765"
+    "b54c0535046df"
   ],
-  "historyDeck": "SoftwareCards"
+  "historyDeck": "DefinitionCards"
 }

@@ -4,7 +4,7 @@ Unique ID: 202308220840
 ---
 **Status:** #thought 
 
-**Tags:** #review [[Mathematics]] #MathCards [[Calculus]]
+**Tags:**  [[Mathematics]] #MathCards [[Calculus]]
 
 # ⨏ Derivative
 #### What is a mathematical derivative?
@@ -15,7 +15,7 @@ i.e.
 2. Derivative of velocity with respect to time is acceleration.
 3. Derivative of acceleration with respect to time is jerk (and so on)
 ![[Pasted image 20230822084258.png|400]]
-<!--SR:!2023-08-26,3,250-->
+<!--SR:!2023-09-05,9,250-->
 
 
 

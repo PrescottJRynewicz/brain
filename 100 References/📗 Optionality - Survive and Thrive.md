@@ -154,7 +154,7 @@ Social capital is the domain that comes most naturally to me. The lessons in thi
 ?
 34 hours 🤯
 10 weeks in a year
-<!--SR:!2023-08-24,6,250-->
+<!--SR:!2023-09-14,18,250-->
 
 This chapter is solid. It discusses the huge opportunity for unbounded upside in Knowledge Capital, and tactics to employ this. This chapter is the reason I am writing this down right now. 
 
@@ -255,4 +255,21 @@ The info about retirement funds and individual truth of retirement accounts, but
 This chapter deeply satisfies my math brain. Richard lays out some simple charts for each domain of our life and how we want to maximize the area under the curve for each one. 
 
 Health and Social capital are easy to summarize into charts with integrals, but knowledge and finance are not (because they are susceptible to much more volatility.)
+
+[[🏃‍♂️ Exploring and Exploiting Health Capitol]]
+[[👯‍♀️ Exploring and Exploiting Social Capital]]
+
+## Chapter 25: A Time to Improvise and a Time To Exploit
+
+This chapter has a similar thesis to [[🔩 Linchpin]], but argues that optionality is the best solution to a volatile world, instead of "artistry". I think both solutions end up being somewhat similar, and require us to be much more creative and explorative than our previous generations. 
+
+[[Stable Employment for life with a government pension in retirement is no longer a safe bet]]
+[[Effectuation]]
+
+
+## Chapter 26: A Time to Take Risks and A Time To Play It Safe
+
+This is the chapter where the plane starts lining up for the runway. I would argue that most people reading this book are motivated by the idea of asymmetric outcomes: playing smarter, not harder. 
+
+This chapter discusses a few specific strategies to create opportunities for outsized upside. 
 

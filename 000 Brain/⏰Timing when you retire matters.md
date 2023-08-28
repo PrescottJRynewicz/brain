@@ -22,7 +22,7 @@ Because your 401K is an investment fund, if the market tanks the year you retire
 This is not an issue with other accounts where money is held and you keep adding to it. Theoretically, a crash is good, because when you invest during a crash you will earn a killing when the market recovers. 
 Here is an example image of how the same retirement account could perform depending on the year you retired
 ![[Pasted image 20230810214423.png]]
-<!--SR:!2023-08-25,7,250-->
+<!--SR:!2023-09-19,23,250-->
 
 
 My actual thoughts on this is that the typical retirement plan is out of date. It is much more worthwhile to take multiple mini-retirements while continuing to find work that you love as you mature and age. 

@@ -15,14 +15,14 @@ The `app` router takes priority.
 #### What is the default type of components in the next.js `app` directory?
 ?
 Server components. But you can still use client components. 
-<!--SR:!2023-08-25,4,170-->
+<!--SR:!2023-09-05,9,170-->
 
 #### How does Next.js App Routing Define Routes
 ?
 With the folder structure. Special file names are used to describe specific react conventions, and these special files are nested within each other. 
 ![[Pasted image 20230808152541.png]]
 ![[Pasted image 20230808152555.png]]
-<!--SR:!2023-08-27,6,190-->
+<!--SR:!2023-09-07,11,190-->
 
 
 #### What is the difference between a Page and a Layout in Next.js? 

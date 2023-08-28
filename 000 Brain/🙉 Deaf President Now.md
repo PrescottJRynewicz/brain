@@ -4,7 +4,7 @@ Unique ID: 202308201054
 ---
 **Status:** #thought 
 
-**Tags:** #review #DefinitionCards 
+**Tags:** #DefinitionCards 
 
 # 🙉 Deaf President Now
 
@@ -12,9 +12,9 @@ Unique ID: 202308201054
 ?
 A movement and protest in 1988 to appoint the first deaf president to Gallaudet University (the world's first deaf university.)
 The protest was a success and a precursor to the Americans with Disabilities Act. 
-<!--SR:!2023-08-24,3,250-->
+<!--SR:!2023-09-08,12,250-->
 
 
 ---
 # References
-[[True Biz]]
+[[🙉 True Biz]]

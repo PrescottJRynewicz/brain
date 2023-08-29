@@ -273,3 +273,25 @@ This is the chapter where the plane starts lining up for the runway. I would arg
 
 This chapter discusses a few specific strategies to create opportunities for outsized upside. 
 
+[[⚖️ Scalable vs Non-Scalable Careers]]
+
+
+## Chapter 27: A Time to Obey and a Time to Rebel
+[[Better to reign in hell than serve in heaven.]]
+
+This chapter starts with a summary of [[💪  Discipline = Freedom]]. We have a high fulfillment potential when we create our own constraints, but our lives can quickly be ruined by living under other people's constraints. i.e. slavery versus choosing to found a vineyard. 
+
+[[💸 Fuck-You Money]]
+
+
+## Chapter 28: A Time to Open Options And A Time To Give Them Away
+
+This chapter is a deeper exploration of [[💪  Discipline = Freedom]], and how our modern world is creating a unique trend towards Workism - quoting [[Derek Thompson]]. 
+
+Richard talks about how "Work is... good, actually?", and how successful people with the means not to work choose to work more because they love it. 
+
+There is also a discussion on [[🪁 Escapism]] for the people who have not found a form of work that aligns with their core motivations and brings them deep satisfaction. 
+
+Paid vs. Unpaid work: Career vs. Retirement. 
+
+[[🖥️ Why do we like working?]]

@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ec80407ce09765f3",
+        "id": "898673ee09121e6f",
         "type": "split",
         "children": [
           {
             "id": "4295ea818860df0a",
             "type": "tabs",
+            "dimension": 31.851851851851855,
             "children": [
               {
                 "id": "6c7c5cf62bf85859",
@@ -26,11 +27,12 @@
             ]
           },
           {
-            "id": "2cb1ef7c6582402a",
+            "id": "aa8d02d978483c06",
             "type": "tabs",
+            "dimension": 68.14814814814815,
             "children": [
               {
-                "id": "5bec7cd813df4c59",
+                "id": "339c33192444e1c1",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -59,8 +61,8 @@
                       },
                       "serial": {
                         "columns": 148,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    000 Brain/Blog series__1. Start up learn - 2023082384744000.md\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Consumption.md\r\n\u001b[8Cdeleted:    000 Brain/Deaf President Now ___What is  - 20230820105252000.md\r\n\u001b[8Cmodified:   000 Brain/Min-Maxing.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Law of Diminishing Returns.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Risk of Compounding Interest.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\210\\253 Integral.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\241\\357\\270\\217 Stale While Revalidate.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\250\\217 Derivative.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\252 HTTP Cookies.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\265 Four Investing Factors.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\211 Investing in Stocks is not a Positive Asymmetric Option.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\274 Making Exponential Growth Intuitive.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\231\\211 Deaf President Now.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\247\\256 Option Pricing Model.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cdeleted:    100 References/True Biz.md\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230807215944.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230808152541.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230808152555.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230810214423.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230811144326.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230811145646.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230811152240.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230811152558.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230811153323.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230811154528.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230814093303.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230814114442.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230815101500.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230815101521.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230815102851.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230822083700.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230822084258.png\r\n\u001b[8Cdeleted:    200 Assets/Pasted image 20230822084810.png\r\n\u001b[8Cdeleted:    200 Assets/videos/video - 20230820105252000.mp4\r\n\u001b[8Cdeleted:    200 Assets/voices/voice_6329234252_5 - 20230819115924000.oga\r\n\u001b[8Cdeleted:    900 Templates/Line in Spaces.md\r\n\u001b[8Cmodified:   \"900 Templates/\\360\\237\\247\\240 Atomic Thought.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/Blog Series Ideas.md\r\n\u001b[8C000 Brain/Coping with associative regression.md\r\n\u001b[8C000 Brain/Dunbar's Number.md\r\n\u001b[8C000 Brain/Effectuation.md\r\n\u001b[8C000 Brain/Essential Skills.md\r\n\u001b[8C000 Brain/Life in review.md\r\n\u001b[8C000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md\r\n\u001b[8C000 Brain/Untitled.md\r\n\u001b[8C000 Brain/You are not a Boss.md\r\n\u001b[8C\"000 Brain/\\342\\214\\250 Writing is Learning.md\"\r\n\u001b[8C\"000 Brain/\\342\\230\\240\\357\\270\\217 Managing Difficult or Toxic Relationships.md\"\r\n\u001b[8C\"000 Brain/\\342\\234\\215\\357\\270\\217 You Suck At Writing.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\202\\357\\270\\217 Exploring and Exploiting Health Capitol.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\220\\231 The Multi-Armed Bandit Problem.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\221\\257\\342\\200\\215\\342\\231\\200\\357\\270\\217 Exploring and Exploiting Social Capital.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\227\\272\\357\\270\\217 Why Exploring is Crucial to Maximize our Knowledge and Financial Capital.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\246\\242 Black Swan Events.md\"\r\n\u001b[8C\"100 References/\\360\\237\\222\\202\\342\\200\\215\\342\\231\\200\\357\\270\\217 The Good Enough Job.md\"\r\n\u001b[8C\"100 References/\\360\\237\\224\\251 Linchpin.md\"\r\n\u001b[8C\"100 References/\\360\\237\\231\\211 True Biz.md\"\r\n\u001b[8C800 Assets/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git ad",
-                        "rows": 23
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    000 Brain/Life in review.md\r\n\u001b[8Cmodified:   000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\222\\202\\342\\200\\215\\342\\231\\200\\357\\270\\217 The Good Enough Job.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m\"000 Brain/Life in review - How to get \\\"fuck-you\\\" money before 30.md\"\r\n\u001b[8C000 Brain/Untitled 1.md\r\n\u001b[8C\"000 Brain/\\342\\232\\226\\357\\270\\217 Scalable vs Non-Scalable Careers.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\214\\200The benefits of skill diversity.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\222\\270 Fuck-You Money.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\224\\213 Power Law Distribution.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\252\\201 Escapism.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\252\\251 Steal His Look.md\"\r\n\u001b[8C100 References/Quotes/\r\n\u001b[8C100 References/The Power Of Full Engagement.md\r\n\u001b[8C800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a 1.heic\r\n\u001b[8C800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a.heic\r\n\u001b[8C800 Assets/Pasted image 20230829080946.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-29 at 8.11.54 AM.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-29 at 8.19.37 AM.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-29 at 8.19.58 AM.png\r\n\u001b[8C\"900 Templates/\\360\\237\\222\\254 Quote.md\"\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git add .",
+                        "rows": 34
                       }
                     }
                   },
@@ -194,12 +196,32 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "5bec7cd813df4c59",
+  "active": "339c33192444e1c1",
   "lastOpenFiles": [
     "100 References/📗 Optionality - Survive and Thrive.md",
-    "100 References/💂‍♀️ The Good Enough Job.md",
-    "100 References/🙉 True Biz.md",
+    "000 Brain/🖥️ Why do we like working?.md",
+    "000 Brain/🪩 Steal His Look.md",
+    "000 Brain/Untitled 1.md",
+    "000 Brain/🌀The benefits of skill diversity.md",
+    "000 Brain/🪁 Escapism.md",
+    "100 References/The Power Of Full Engagement.md",
+    "000 Brain/💸 Fuck-You Money.md",
+    "000 Brain/🔋 Power Law Distribution.md",
+    "000 Brain/Life in review - How to get \"fuck-you\" money before 30.md",
+    "000 Brain/💪  Discipline = Freedom.md",
+    "100 References/Quotes/Better to reign in hell than serve in heaven..md",
+    "900 Templates/💬 Quote.md",
+    "100 References/Quotes",
     "100 References/🔩 Linchpin.md",
+    "100 References/💂‍♀️ The Good Enough Job.md",
+    "000 Brain/⚖️ Scalable vs Non-Scalable Careers.md",
+    "800 Assets/Screenshot 2023-08-29 at 8.19.58 AM.png",
+    "800 Assets/Screenshot 2023-08-29 at 8.19.37 AM.png",
+    "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a 1.heic",
+    "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a.heic",
+    "800 Assets/Screenshot 2023-08-29 at 8.11.54 AM.png",
+    "800 Assets/Pasted image 20230829080946.png",
+    "100 References/🙉 True Biz.md",
     "000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md",
     "000 Brain/Effectuation.md",
     "000 Brain/Untitled.md",
@@ -220,28 +242,8 @@
     "800 Assets/EB6D79A4-C6AF-4B37-A2C8-BF576AB777F5_1_105_c.jpeg",
     "000 Brain/⌨ Writing is Learning.md",
     "000 Brain/You are not a Boss.md",
-    "000 Brain/Blog Idea.md",
-    "900 Templates/🧠 Atomic Thought.md",
-    "900 Templates/{{content}}.md",
-    "000 Brain/☠️ Managing Difficult or Toxic Relationships.md",
-    "000 Brain/✍️ You Suck At Writing.md",
-    "000 Brain/Coping with associative regression.md",
-    "000 Brain/Life in review.md",
-    "000 Brain/Blog Series Ideas.md",
-    "000 Brain/Dunbar's Number.md",
-    "000 Brain/🦢 Black Swan Events.md",
-    "800 Assets/Screenshot 2023-08-27 at 7.09.11 PM.png",
     "800 Assets/Photo.pdf",
     "800 Assets/IMG_7468.heic",
-    "800 Assets/5DF10EAD-F30E-4B33-B869-4F4A0AD38EFF_1_105_c.jpeg",
-    "800 Assets/49092773-5F10-41BA-899E-28BADF360EFF_1_105_c.jpeg",
-    "800 Assets/983DA9CD-BF13-497B-8BBF-7CB006D838ED_1_105_c.jpeg",
-    "000 Brain/🏋️‍♂️ Heavy resistance training has a much higher ROI than cardio training.md",
-    "000 Brain/Social and Health Capitol are Stable Domains.md",
-    "README.md",
-    "800 Assets/videos/video - 20230820105252000.mp4",
-    "800 Assets/videos",
-    "800 Assets/voices/voice_6329234252_5 - 20230819115924000.oga",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

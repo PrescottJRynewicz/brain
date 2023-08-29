@@ -25,10 +25,10 @@ Talk about
 1. Getting bored during time off
 2. Desire to find out if I want to do the same or different things
 3. Feeling secure after saving 100K - i.e., having fuck you money. Why didn’t I invest in a property even though I felt pressure too? 
-4. How this book was the perfect book to read at this time, and how it positively impacted my view on this period of my life, and that I plan to double down on knowledge capitol. 
+4. How this book was the perfect book to read at this time, how it positively impacted my view on this period of my life, and that I plan to double down on knowledge capital. 
 
 
-Five years ago, I would have said that “fuck-you money” is “having do much money that <x>  mesningful-dollars to a middle class first world be irrelevant to me” - i.e. watch me blow $1000 dollars on bottle service because I can. 
+Five years ago, I would have said that “fuck-you money” is “having so much money that <x> meaningful-dollars to a middle-class first world be irrelevant to me” - i.e. watch me blow $1000 dollars on bottle service because I can. 
 
 This is an amusing thought, and potentially validating to the financially insecure (me five years ago), but incomplete. 
 

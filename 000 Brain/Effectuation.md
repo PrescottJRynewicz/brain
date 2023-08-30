@@ -9,8 +9,9 @@ Unique ID: 202308280910
 # Effectuation
 #### What is Effectuation and How is Different than Causation?
 ?
-Effectuation is a process to take advantage of the resources you have now to create new opportunities - a bottoms up approach. Causation says "If I do this, I will get this outcome", and it a top down approach.
+Effectuation is a process to take advantage of the resources you have now to create new opportunities - a bottoms up approach. Causation says, "If I do this, I will get this outcome", and it a top-down approach.
 Effectuation is a much better strategy when working with unstable problems, and vice versa. 
+<!--SR:!2023-09-02,3,250-->
 
 
 #### What are the tenants of Effectuation?
@@ -19,6 +20,7 @@ Effectuation is a much better strategy when working with unstable problems, and 
 **Lemonade Principle**: Unknowns are inevitable - use them to look for opportunities.
 **Crazy Quilt**: New partnerships can bring new funds and directions.
 **Affordable Loss**: You should only invest as much as you are willing to lose.
+<!--SR:!2023-08-31,1,230-->
 
 
 

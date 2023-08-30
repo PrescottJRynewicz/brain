@@ -295,3 +295,21 @@ There is also a discussion on [[🪁 Escapism]] for the people who have not foun
 Paid vs. Unpaid work: Career vs. Retirement. 
 
 [[🖥️ Why do we like working?]]
+
+
+## Telos: Introduction
+[[There is no meaning of life, only meaning in life]]
+
+[[Optionality#What is Richard Meadows Theory of Optionality]]
+
+
+## Chapter 29: Selfish Selflessness
+[[Selfish Selflessness]]
+
+[[Effective Altruism]]
+
+
+## Chapter 30: Status Games
+
+[[Status Games]]
+

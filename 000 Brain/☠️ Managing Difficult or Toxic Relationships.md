@@ -1,8 +1,8 @@
 ---
 Created On: 2023-08-27, 17:30
 Unique ID: 202308271730
-sr-due: 2023-08-30
-sr-interval: 2
+sr-due: 2023-09-04
+sr-interval: 5
 sr-ease: 249
 ---
 **Status:** #review 
@@ -49,7 +49,7 @@ Here are some examples that trigger my anxiety
 3. Bring S/Os on the trips with us.
 4. Have a conversation with everyone in the group to let them know how I feel. 
 	1. It will be very difficult, but it would be worth scheduling some time with everybody to let them know how I feel. 
-<!--SR:!2023-08-28,1,230-->
+<!--SR:!2023-08-31,1,210-->
 
 
 

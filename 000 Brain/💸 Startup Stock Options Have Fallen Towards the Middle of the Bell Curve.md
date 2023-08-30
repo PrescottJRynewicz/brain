@@ -29,7 +29,7 @@ I didn't research many numbers for this (I don't have internet right now). This 
 Growth capital is a fairly recent change to the Venture world. **The longer a company stays private, the more valuable it becomes.** Money that would have gone to employees and wall street now goes to the VCs and Growth Investors.
 **BUT:** this means it takes much longer for a company to go public and reach a liquid event.
 ![[Pasted image 20230815101500.png]]
-<!--SR:!2023-08-28,7,230-->
+<!--SR:!2023-09-28,29,250-->
 
 #### What is Reverse Vesting?
 ?

@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "898673ee09121e6f",
+        "id": "ce136421ad8056a4",
         "type": "split",
         "children": [
           {
-            "id": "4295ea818860df0a",
+            "id": "75a4b5d810fbf9c7",
             "type": "tabs",
-            "dimension": 31.851851851851855,
             "children": [
               {
-                "id": "6c7c5cf62bf85859",
+                "id": "1d083e3ad856e708",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "100 References/📗 Optionality - Survive and Thrive.md",
+                    "file": "000 Brain/Status Games.md",
                     "mode": "source",
                     "source": false
                   }
@@ -27,12 +26,11 @@
             ]
           },
           {
-            "id": "aa8d02d978483c06",
+            "id": "d92bc6525209f69b",
             "type": "tabs",
-            "dimension": 68.14814814814815,
             "children": [
               {
-                "id": "339c33192444e1c1",
+                "id": "a97259dd51c34183",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -60,9 +58,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 148,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cdeleted:    000 Brain/Life in review.md\r\n\u001b[8Cmodified:   000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\222\\202\\342\\200\\215\\342\\231\\200\\357\\270\\217 The Good Enough Job.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m\"000 Brain/Life in review - How to get \\\"fuck-you\\\" money before 30.md\"\r\n\u001b[8C000 Brain/Untitled 1.md\r\n\u001b[8C\"000 Brain/\\342\\232\\226\\357\\270\\217 Scalable vs Non-Scalable Careers.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\214\\200The benefits of skill diversity.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\222\\270 Fuck-You Money.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\224\\213 Power Law Distribution.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\252\\201 Escapism.md\"\r\n\u001b[8C\"000 Brain/\\360\\237\\252\\251 Steal His Look.md\"\r\n\u001b[8C100 References/Quotes/\r\n\u001b[8C100 References/The Power Of Full Engagement.md\r\n\u001b[8C800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a 1.heic\r\n\u001b[8C800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a.heic\r\n\u001b[8C800 Assets/Pasted image 20230829080946.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-29 at 8.11.54 AM.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-29 at 8.19.37 AM.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-29 at 8.19.58 AM.png\r\n\u001b[8C\"900 Templates/\\360\\237\\222\\254 Quote.md\"\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git add .",
-                        "rows": 34
+                        "columns": 115,
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % git ",
+                        "rows": 23
                       }
                     }
                   },
@@ -180,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +193,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "339c33192444e1c1",
+  "active": "a97259dd51c34183",
   "lastOpenFiles": [
+    "000 Brain/Status Games.md",
+    "000 Brain/Coping with associative regression.md",
     "100 References/📗 Optionality - Survive and Thrive.md",
+    "000 Brain/Effective Altruism.md",
+    "000 Brain/Selfish Selflessness.md",
+    "000 Brain/Optionality.md",
+    "100 References/Quotes/There is no meaning of life, only meaning in life.md",
+    "000 Brain/Effectuation.md",
+    "000 Brain/☠️ Managing Difficult or Toxic Relationships.md",
+    "000 Brain/🍪 HTTP Cookies.md",
+    "000 Brain/⏰Timing when you retire matters.md",
+    "000 Brain/All Companies Become Evil.md",
+    "000 Brain/To read - butts - from mo.md",
     "000 Brain/🖥️ Why do we like working?.md",
     "000 Brain/🪩 Steal His Look.md",
     "000 Brain/Untitled 1.md",
@@ -213,35 +222,23 @@
     "900 Templates/💬 Quote.md",
     "100 References/Quotes",
     "100 References/🔩 Linchpin.md",
-    "100 References/💂‍♀️ The Good Enough Job.md",
-    "000 Brain/⚖️ Scalable vs Non-Scalable Careers.md",
     "800 Assets/Screenshot 2023-08-29 at 8.19.58 AM.png",
     "800 Assets/Screenshot 2023-08-29 at 8.19.37 AM.png",
     "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a 1.heic",
     "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a.heic",
     "800 Assets/Screenshot 2023-08-29 at 8.11.54 AM.png",
     "800 Assets/Pasted image 20230829080946.png",
-    "100 References/🙉 True Biz.md",
-    "000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md",
-    "000 Brain/Effectuation.md",
-    "000 Brain/Untitled.md",
     "800 Assets/Screenshot 2023-08-28 at 8.57.56 AM.png",
-    "000 Brain/🗺️ Why Exploring is Crucial to Maximize our Knowledge and Financial Capital.md",
-    "000 Brain/🐙 The Multi-Armed Bandit Problem.md",
     "800 Assets/Screenshot 2023-08-28 at 8.31.28 AM.png",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 4.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 3.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 2.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 1.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a.heic",
-    "000 Brain/👯‍♀️ Exploring and Exploiting Social Capital.md",
-    "000 Brain/🏃‍♂️ Exploring and Exploiting Health Capitol.md",
     "800 Assets/A973F1D8-7B6A-4071-9B1F-90ACA1083E64_1_105_c 1.jpeg",
     "800 Assets/A973F1D8-7B6A-4071-9B1F-90ACA1083E64_1_105_c.jpeg",
     "800 Assets/F001E0A7-8685-4AA9-973E-A25D446AE8C0_1_105_c.jpeg",
     "800 Assets/EB6D79A4-C6AF-4B37-A2C8-BF576AB777F5_1_105_c.jpeg",
-    "000 Brain/⌨ Writing is Learning.md",
-    "000 Brain/You are not a Boss.md",
     "800 Assets/Photo.pdf",
     "800 Assets/IMG_7468.heic",
     "Untitled.canvas",

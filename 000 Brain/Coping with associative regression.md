@@ -7,7 +7,7 @@ sr-ease: 250
 ---
 **Status:** #thought 
 
-**Tags:** #review #blogIdea [[Blog Series Ideas]]
+**Tags:** #review #blogIdea [[Blog Series Ideas]] [[Psychology]]
 
 # Coping with associative regression
 

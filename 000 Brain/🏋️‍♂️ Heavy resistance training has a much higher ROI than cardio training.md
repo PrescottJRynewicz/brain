@@ -11,7 +11,7 @@ Unique ID: 202308140950
 #### What is the metabolic difference between muscle and fat?
 ?
 Muscle requires 2-5x more calories per day.
-<!--SR:!2023-08-30,11,250-->
+<!--SR:!2023-08-31,1,230-->
 
 #### What are some of the benefits of increasing muscle mass?
 ?
@@ -23,7 +23,7 @@ Muscle requires 2-5x more calories per day.
 	2. This is why athletes will drink soda during performance activities - the sugar is actually good
 3. Muscle Memory
 	1. Unlike cardio training (unfortunately), once you develop muscle memory, it's there for life. 
-<!--SR:!2023-08-30,9,230-->
+<!--SR:!2023-09-21,22,230-->
 
 
 

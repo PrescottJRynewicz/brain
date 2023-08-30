@@ -12,7 +12,14 @@ Unique ID: 202308102132
 ?
 There are two types. **Traditional** and **Roth**. They differ slightly depending on how they interact with your taxable income. 
 Both are investment funds, typically made up of mutual funds and target-date funds. But they can also include more interesting items like [ICGs](https://www.investopedia.com/terms/g/guaranteedinvestmentcontract.asp) or company stock. 
-<!--SR:!2023-08-29,8,230-->
+<!--SR:!2023-09-20,21,230-->
+
+#### What are the two types of 401K, and how are they different?
+?
+Traditional and Roth. 
+**Roth:** You contribute **after-tax** dollars. When you take money out, it is not taxable income
+**Traditional:** You contribute **pre-tax** dollars, and when money taken out, it is treated as taxable income. 
+<!--SR:!2023-09-01,2,248-->
 
 
 #### Why does timing matter for your Retirement? 

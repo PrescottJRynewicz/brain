@@ -13,7 +13,7 @@ The psychology theory is that every person is pre-programmed to a level of happi
 ![[Pasted image 20230811144326.png]]
 I believe this theory in broad strokes. A new and unique event will make me extremely happy. After I have done that event 100s of times, it will become less novel, and I will crave something more or different to capture that previous feeling I had. In reverse, enough time after a traumatic breakup, and you forgot how that breakup ever felt. 
 **I prefer the more liberal interpretation**: Nothing will be endlessly novel - we all become accustomed to the good and bad things in our life. 
-<!--SR:!2023-08-29,8,230-->
+<!--SR:!2023-09-19,20,230-->
 
 
 

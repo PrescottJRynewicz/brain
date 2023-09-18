@@ -14,7 +14,7 @@ Unique ID: 202308141202
 $$
 \text{Option Price} = (\text{Cost to Hire} - \text{Your own time value}) * \text{Expected Use} - \text{Upfront Cost}
 $$
-<!--SR:!2023-09-15,19,250-->
+<!--SR:!2023-11-01,47,250-->
 
 
 

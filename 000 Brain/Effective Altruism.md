@@ -1,20 +1,15 @@
-
 ---
-Created On: 2023-08-30, 09:15
-Unique ID: 202308300915
+Created On: 2023-09-05, 09:35
+Unique ID: 202309050935
 ---
-**Status:** #review 
-
-**Tags:** [[Philosophy]] 
+**Tags:** [[Philosophy]] #PhilosophyCards 
 
 # Effective Altruism
 
 ## What is Effective Altruism?
 ?
 **using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis**
-
-
-
+<!--SR:!2023-09-28,14,230-->
 
 ---
 # References

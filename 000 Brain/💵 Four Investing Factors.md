@@ -13,7 +13,7 @@ Unique ID: 202308150931
 **Timeframe:** When do you need to get the money back?
 **Diversification**: Divvying up investments into multiple buckets
 **Expenses:** How much is being lost to expenses?
-<!--SR:!2023-09-09,13,210-->
+<!--SR:!2023-09-22,8,210-->
 
 
 

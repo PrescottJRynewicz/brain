@@ -16,7 +16,6 @@ The strategy can also be applied to other domains.
 
 
 
-
 ---
 # References
 

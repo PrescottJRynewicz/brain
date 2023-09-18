@@ -1,10 +1,13 @@
 ---
 Created On: 2023-08-24, 09:59
 Unique ID: 202308240959
+sr-due: 2023-09-23
+sr-interval: 12
+sr-ease: 270
 ---
-**Status:** #thought 
+**Status:** #review 
 
-**Tags:** #review #blogIdea [[Leadership]]
+**Tags:** #blogIdea [[Leadership]]
 
 # You are not a Boss
 
@@ -22,7 +25,9 @@ Clear and honest communication wins.
 
 Equal opportunity wins.
 
-Clear decision making, and low thrash execution wins.
+Clear decision-making, and low thrash execution wins.
 
 ---
 # References
+
+[[🔩 Linchpin]]

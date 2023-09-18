@@ -154,7 +154,7 @@ Social capital is the domain that comes most naturally to me. The lessons in thi
 ?
 34 hours 🤯
 10 weeks in a year
-<!--SR:!2023-09-14,18,250-->
+<!--SR:!2023-10-28,44,250-->
 
 This chapter is solid. It discusses the huge opportunity for unbounded upside in Knowledge Capital, and tactics to employ this. This chapter is the reason I am writing this down right now. 
 
@@ -310,6 +310,14 @@ Paid vs. Unpaid work: Career vs. Retirement.
 
 
 ## Chapter 30: Status Games
-
 [[Status Games]]
+[[Game Theory]]
 
+This chapter attempts to demonstrate that 
+1. Our biology requires us to play status games.
+2. If we have to play games, don't play negative sum games. 
+	1. Even though the pool of status is fixed, there are many mini-games inside of the pool that may not be negative sum.
+3. Human cooperation (our ability to feel empathy) allows to coordinate for the greater good. This coordination does not always create positive-sum outputs, but if we can develop more strategies for positive-sum coordination, we can leave the world a better place than we found it.
+
+
+## Chapter 31: Conspicuous Simplicity 

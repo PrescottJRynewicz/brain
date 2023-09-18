@@ -12,7 +12,7 @@ Unique ID: 202308201054
 ?
 A movement and protest in 1988 to appoint the first deaf president to Gallaudet University (the world's first deaf university.)
 The protest was a success and a precursor to the Americans with Disabilities Act. 
-<!--SR:!2023-09-08,12,250-->
+<!--SR:!2023-09-25,8,210-->
 
 
 ---

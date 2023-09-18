@@ -5,7 +5,7 @@ Unique ID: 202308280912
 **Status:** #book
 **Tags:** 
 **Title:** 
-**Author:** 
+**Author:** [[Seth Godin]]
 
 
 # 🔩 Linchpin

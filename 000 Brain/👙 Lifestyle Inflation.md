@@ -10,7 +10,7 @@ Unique ID: 202308111447
 #### What is lifestyle inflation?
 ?
 When your spending habits increase with your earnings and net worth. Especially when your social circles are following the same inflation.
-<!--SR:!2023-08-31,12,270-->
+<!--SR:!2023-10-15,45,290-->
 
 
 ---

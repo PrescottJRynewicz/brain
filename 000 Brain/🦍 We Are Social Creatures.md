@@ -5,9 +5,7 @@ sr-due: 2023-09-03
 sr-interval: 15
 sr-ease: 290
 ---
-**Status:** #thought 
 
-**Tags:** #review 
 
 # We Are Social Creatures
 

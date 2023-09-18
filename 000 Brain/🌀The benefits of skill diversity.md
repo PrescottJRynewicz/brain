@@ -1,6 +1,9 @@
 ---
 Created On: 2023-08-28, 22:21
 Unique ID: 202308282221
+sr-due: 2023-09-24
+sr-interval: 13
+sr-ease: 270
 ---
 **Status:** #review 
 
@@ -12,6 +15,8 @@ Talk about the benefits of skill diversity, and how it has benefited my life.
 1. More malleable for a fast-changing economy 
 2. Much more resistant to black swan events
 3. Diversified self-esteem 
+
+Most recently, getting laid off from Cameo didn't impact my ego, self worth, or career explorations in almost any way.
 
 
 Examples from my life 

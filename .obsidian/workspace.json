@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ce136421ad8056a4",
+        "id": "fe7378c49341f2d4",
         "type": "split",
         "children": [
           {
@@ -17,20 +17,57 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "000 Brain/Status Games.md",
+                    "file": "000 Brain/My Best Days in 2022.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "38c1481effd09301",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 References/🙉 True Biz.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1af7ea2d44d1e54b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "100 References/📗 Optionality - Survive and Thrive.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aaf10dcb93f5585a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 Brain/True Biz Flashcard.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
-            "id": "d92bc6525209f69b",
+            "id": "c194a8d1f9a1c9ba",
             "type": "tabs",
             "children": [
               {
-                "id": "a97259dd51c34183",
+                "id": "0014f99a8f9c1f08",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -59,7 +96,7 @@
                       },
                       "serial": {
                         "columns": 115,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git ",
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/core-plugins-migration.json\r\n\u001b[8Cmodified:   .obsidian/core-plugins.json\r\n\u001b[8Cmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   000 Brain/All Companies Become Evil.md\r\n\u001b[8Cmodified:   000 Brain/Blog Series Ideas.md\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Consumption.md\r\n\u001b[8Cdeleted:    000 Brain/Coping with associative regression.md\r\n\u001b[8Cmodified:   000 Brain/Dunbar's Number.md\r\n\u001b[8Cmodified:   000 Brain/Effective Altruism.md\r\n\u001b[8Cmodified:   000 Brain/Effectuation.md\r\n\u001b[8Cmodified:   \"000 Brain/Life in review - How to get \\\"fuck-you\\\" money before 30.md\"\r\n\u001b[8Cmodified:   000 Brain/Lindy Effect.md\r\n\u001b[8Cmodified:   000 Brain/Min-Maxing.md\r\n\u001b[8Cmodified:   000 Brain/Optionality.md\r\n\u001b[8Cmodified:   000 Brain/Selfish Selflessness.md\r\n\u001b[8Cmodified:   000 Brain/Social Talent Scout.md\r\n\u001b[8Cmodified:   000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md\r\n\u001b[8Cmodified:   000 Brain/Status Games.md\r\n\u001b[8Cmodified:   000 Brain/Why Remix Isn't Using Server Component (yet, as of 2023).md\r\n\u001b[8Cmodified:   000 Brain/You are not a Boss.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Law of Diminishing Returns.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250 Writing is Learning.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250\\357\\270\\217 Chrome Keyboard Shortcuts Are Hard to Get To.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\230\\240\\357\\270\\217 Managing Difficult or Toxic Relationships.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\226\\357\\270\\217 Scalable vs Non-Scalable Careers.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\234\\215\\357\\270\\217 You Suck At Writing.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\250\\217 Derivative.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\235\\221\\222 Euler's number.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\214\\200The benefits of skill diversity.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\252 HTTP Cookies.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\202\\357\\270\\217 Exploring and Exploiting Health Capitol.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\200\\357\\270\\217Barbell Strategy.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\202\\357\\270\\217 Heavy resistance training has a much higher ROI than cardio training.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\231 The Multi-Armed Bandit Problem.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\221\\231 Lifestyle Inflation.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\221\\257\\342\\200\\215\\342\\231\\200\\357\\270\\217 Exploring and Exploiting Social Capital.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\252  Discipline = Freedom.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\260 How Money Relates to Happiness.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\265 Four Investing Factors.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Fuck-You Money.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\273 React Server Components Can Not be Imported in Client Components.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\220 Goodhart's Law.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\213 Power Law Distribution.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\225\\270\\357\\270\\217 Graph Data Structure.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\227\\272\\357\\270\\217 Why Exploring is Crucial to Maximize our Knowledge and Financial Capital.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\231\\211 Deaf President Now.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\231\\212 Capitalism uses our evolutional survival traits against ourselves.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\245\\207 Survivorship Bias.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\246\\215 We Are Social Creatures.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\246\\242 Black Swan Events.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\247\\256 Option Pricing Model.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\201 Escapism.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\251 Steal His Look.md\"\r\n\u001b[8Cmodified:   100 References/Quotes/There is no meaning of life, only meaning in life.md\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\224\\251 Linchpin.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\231\\211 True Biz.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/brain/\r\n\u001b[8C.obsidian/plugins/companion/\r\n\u001b[8C000 Brain/Bicycle - The Worlds Greatest Invention.md\r\n\u001b[8C\"000 Brain/Buying expensive things means you won\\342\\200\\231t be able to use them.md\"\r\n\u001b[8C000 Brain/Calculus.md\r\n\u001b[8C000 Brain/Conspicuous Simplicity.md\r\n\u001b[8C000 Brain/Game Theory.md\r\n\u001b[8C\"000 Brain/I don\\342\\200\\231t want that much money.md\"\r\n\u001b[8C000 Brain/Love letter to Los Angeles.md\r\n\u001b[8C000 Brain/My Best Days in 2022.md\r\n\u001b[8C000 Brain/Potential baby names - Xanadu.md\r\n\u001b[8C000 Brain/Reasons why people clicked on  - 20230914224919000.md\r\n\u001b[8C000 Brain/Seth Godin.md\r\n\u001b[8C000 Brain/The 2008 Housing Crisis.md\r\n\u001b[8C000 Brain/True Biz Flashcard.md\r\n\u001b[8C000 Brain/Untitled 2.md\r\n\u001b[8C000 Brain/Why You Should Say No More Often.md\r\n\u001b[8C\"000 Brain/\\360\\237\\214\\276 Post-Scarcity.md\"\r\n\u001b[8C800 Assets/Screenshot 2023-08-31 at 8.02.16 AM.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-31 at 8.33.53 AM.png\r\n\u001b[8C800 Assets/Screenshot 2023-08-31 at 8.34.18 AM.png\r\n\u001b[8Cvectorstore.pkl\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git add .\r\nprescott@Prescotts-MacBook-Pro Brain % git commit -a -m \"saving before upgrading to new version of obsidian\"",
                         "rows": 23
                       }
                     }
@@ -99,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fuck-you",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,6 +210,16 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "90077139308705d8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -193,35 +241,39 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a97259dd51c34183",
+  "active": "0014f99a8f9c1f08",
   "lastOpenFiles": [
-    "000 Brain/Status Games.md",
-    "000 Brain/Coping with associative regression.md",
-    "100 References/📗 Optionality - Survive and Thrive.md",
-    "000 Brain/Effective Altruism.md",
-    "000 Brain/Selfish Selflessness.md",
-    "000 Brain/Optionality.md",
-    "100 References/Quotes/There is no meaning of life, only meaning in life.md",
-    "000 Brain/Effectuation.md",
-    "000 Brain/☠️ Managing Difficult or Toxic Relationships.md",
-    "000 Brain/🍪 HTTP Cookies.md",
-    "000 Brain/⏰Timing when you retire matters.md",
-    "000 Brain/All Companies Become Evil.md",
-    "000 Brain/To read - butts - from mo.md",
-    "000 Brain/🖥️ Why do we like working?.md",
-    "000 Brain/🪩 Steal His Look.md",
-    "000 Brain/Untitled 1.md",
-    "000 Brain/🌀The benefits of skill diversity.md",
-    "000 Brain/🪁 Escapism.md",
-    "100 References/The Power Of Full Engagement.md",
+    "000 Brain/True Biz Flashcard.md",
+    "000 Brain/Reasons why people clicked on  - 20230914224919000.md",
     "000 Brain/💸 Fuck-You Money.md",
-    "000 Brain/🔋 Power Law Distribution.md",
     "000 Brain/Life in review - How to get \"fuck-you\" money before 30.md",
-    "000 Brain/💪  Discipline = Freedom.md",
-    "100 References/Quotes/Better to reign in hell than serve in heaven..md",
-    "900 Templates/💬 Quote.md",
-    "100 References/Quotes",
+    "100 References/🙉 True Biz.md",
+    "000 Brain/Untitled 2.md",
+    "000 Brain/Why You Should Say No More Often.md",
+    "000 Brain/The 2008 Housing Crisis.md",
+    "000 Brain/My Best Days in 2022.md",
+    "000 Brain/💹 Efficient Market Hypothesis.md",
+    "000 Brain/Bicycle - The Worlds Greatest Invention.md",
+    "100 References/📗 Optionality - Survive and Thrive.md",
+    "000 Brain/Blog Series Ideas.md",
+    "000 Brain/another test - 20230911140723000.md",
+    "000 Brain/yeet boi - 20230911140704000.md",
+    "000 Brain/All Companies Become Evil.md",
+    "000 Brain/You are not a Boss.md",
+    "000 Brain/Seth Godin.md",
     "100 References/🔩 Linchpin.md",
+    "000 Brain/⌨ Writing is Learning.md",
+    "000 Brain/🌀The benefits of skill diversity.md",
+    "000 Brain/🗺️ Why Exploring is Crucial to Maximize our Knowledge and Financial Capital.md",
+    "000 Brain/✍️ You Suck At Writing.md",
+    "000 Brain/👯‍♀️ Exploring and Exploiting Social Capital.md",
+    "000 Brain/🪁 Escapism.md",
+    "000 Brain/Love letter to Los Angeles.md",
+    "vectorstore.pkl",
+    "800 Assets/Screenshot 2023-08-31 at 8.34.18 AM.png",
+    "800 Assets/Screenshot 2023-08-31 at 8.33.53 AM.png",
+    "800 Assets/Screenshot 2023-08-31 at 8.02.16 AM.png",
+    "100 References/Quotes",
     "800 Assets/Screenshot 2023-08-29 at 8.19.58 AM.png",
     "800 Assets/Screenshot 2023-08-29 at 8.19.37 AM.png",
     "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a 1.heic",
@@ -236,11 +288,7 @@
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 1.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a.heic",
     "800 Assets/A973F1D8-7B6A-4071-9B1F-90ACA1083E64_1_105_c 1.jpeg",
-    "800 Assets/A973F1D8-7B6A-4071-9B1F-90ACA1083E64_1_105_c.jpeg",
-    "800 Assets/F001E0A7-8685-4AA9-973E-A25D446AE8C0_1_105_c.jpeg",
-    "800 Assets/EB6D79A4-C6AF-4B37-A2C8-BF576AB777F5_1_105_c.jpeg",
     "800 Assets/Photo.pdf",
-    "800 Assets/IMG_7468.heic",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

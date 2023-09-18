@@ -1,0 +1,23 @@
+{
+  "provider": "openai-chatgpt",
+  "model": "gpt-3.5-turbo",
+  "enable_by_default": true,
+  "keybind": "Tab",
+  "delay_ms": 0,
+  "accept": {
+    "splitter_regex": "\\.",
+    "display_splitter_regex": "\\.",
+    "completion_completeness_regex": ".*[^d]$",
+    "min_accept_length": 4,
+    "min_display_length": 50,
+    "retrigger_threshold": 128
+  },
+  "provider_settings": {
+    "openai-chatgpt": {
+      "settings": "{\"api_key\":\"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\"}",
+      "models": {}
+    }
+  },
+  "presets": [],
+  "fallback": null
+}

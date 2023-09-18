@@ -5,14 +5,12 @@ sr-due: 2023-09-04
 sr-interval: 16
 sr-ease: 290
 ---
-**Status:** #thought 
 
-**Tags:** #review [[Psychology]] 
+**Tags:** [[Psychology]] 
 
 # 💪  Discipline = Freedom
+
 If you don't design an architecture of rules for your life that you subject yourself to, you will be subject to an architecture that somebody else created without you and mine. The most obvious example to me is working a 9-5 because that's what everyone else does. 
-
-
 
 
 ---

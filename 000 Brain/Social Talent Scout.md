@@ -7,7 +7,7 @@ sr-ease: 290
 ---
 **Status:** #thought 
 
-**Tags:** #review 
+**Tags:** #careerIdea
 
 # Social Talent Scout
 Supporting and investing in talented up-and-coming people has a very small bounded downside for you, and an extremely large unbounded upside if you pick the right people and get lucky. 

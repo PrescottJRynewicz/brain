@@ -17,4 +17,4 @@ By purchasing and owning very expensive things, you played yourself acquiring mu
 # References
 
 [[I don’t want that much money]]
-[[Life in review - How to get "fuck-you" money before 30]]
+[[Life in review - How to earn "fuck-you" money before 30]]

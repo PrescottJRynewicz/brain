@@ -22,3 +22,5 @@ Conspicuous Simplicity refers to the concept of intentionally designing products
 
 ---
 # References
+
+[[📗 Optionality - Survive and Thrive]]

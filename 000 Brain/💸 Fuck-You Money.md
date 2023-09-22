@@ -2,7 +2,7 @@
 Created On: 2023-08-29, 08:35
 Unique ID: 202308290835
 ---
-**Tags:** [[Life in review - How to get "fuck-you" money before 30]] #CareerCards 
+**Tags:** [[Life in review - How to earn "fuck-you" money before 30]] #CareerCards 
 
 # 💸 Fuck-You Money
 

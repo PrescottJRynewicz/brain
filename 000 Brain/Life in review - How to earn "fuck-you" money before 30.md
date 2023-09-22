@@ -1,6 +1,6 @@
 ---
 Created On: 2023-08-24, 18:15
-Unique ID: 202308241815
+Unique ID: 202308241841
 ---
 **Status:**  [Blog Post](https://www.notion.so/prescottjr/How-To-Earn-Fuck-You-Money-Before-Age-30-795c86c4d9c94cd091f489d1961d5e81)
 

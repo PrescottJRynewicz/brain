@@ -15,7 +15,7 @@ The `app` router takes priority.
 #### What is the default type of components in the next.js `app` directory?
 ?
 Server components. But you can still use client components. 
-<!--SR:!2023-09-19,14,170-->
+<!--SR:!2023-10-13,24,170-->
 
 #### How does Next.js App Routing Define Routes
 ?

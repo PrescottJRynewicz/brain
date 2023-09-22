@@ -1,0 +1,72 @@
+---
+Created On: 2023-09-12, 15:31
+Unique ID: 202309121531
+sr-due: 2023-09-22
+sr-interval: 1
+sr-ease: 228
+---
+**Status:** #review 
+
+**Tags:** #blogIdea 
+
+### Ideas / Stories to Tell
+## Research 
+
+See if there is a fun anecdote from the vacuum world to go with the title.  
+# Why You Should Say No More Often
+
+This is a very common topic in work improvement culture. There are [plenty](https://www.youtube.com/watch?v=RexdAmTVGh4&ab_channel=TimFerriss) of good articles about why you say no more often. 
+
+This advice usually applies to managers, leaders, and people whose time is stressed. I would argue that this applies to all people. 
+
+All of our best ideas come when we are not working, and when we have created space for diffuse thinking. This is especially true for uniquely creative ideas, that cannot be replicated by others. (Add quote from Full Engagement). 
+
+If you want to be good at following the rules and having others created systems for your life, then this is not important. But if you want to accept the challenge to create your own rules to live by, and have the potential for unbounded growth that somebody else can define or restrain you to, you have to learn when and how to say no. This applies for everyone: CEOs and entry level sales people. 
+
+## Examples of non-obvious information - A lunch story
+
+When I was laid off a few months ago, I observed something very interesting within hours of my unemployment. 
+
+Food tasted amazing. Not just one meal, but everything I hate for weeks and months after my unemployment. 
+
+At first, I thought this was a release of stress. But this wasn't true. I wasn't very stressed at work, and had the freedom to diversify my interests and types of healthy stress I was exposed to. 
+
+What actually happened, was that it was the first time I had the space to aware how delicious food is. Even though I had the free space to use (a luxury many people don't have in high pressure work), I chose to fill it with anything and everything (sometimes, all at once, which is a panic attack). 
+
+This is a flaw of mine. I have anxiety, and it is difficult to turn off the flood of thoughts that are never constant, only ever gaining or losing momentum. 
+
+Work filled a high percentage of my attention, but also caused me to hyper-focus on my leisure activities even more, allowing no free space to come about. 
+
+This is why I only would perform a few creative acts a year. Singing a song, writing a post, etc... Usually these happened after some sort of traumatic event, or after I let space be empty. 
+
+Here is a very direct and specific example of this practice of making space. 
+
+I had the idea for this passage while sitting at 34.061946, -118.444205. I was listening to Rick Ruben's new book. Serendipitously, he discussed the idea of creating a vacuum that I had written about the week before. I was inspired by the first few chapters of his book, and the practices he discusses for listening to what's in and around you. 
+
+After finishing my workout, I picked up a Sandwich, and sat down. I usually watch 15 minutes of my favorite daily show while eating as a form of decompression and entertainment. Inspired by Rick, I chose to sit, and do nothing instead of watch. 
+
+While eating, I noticed more than I had in a long time. That my Sandwich artist put the cheese on the bottom of the sandwich. That Jersey Mike's slices their meat really, really thin. That trader joe's is selling a fun new color scheme of potted plants. 
+
+Before attempting this practice of awareness, I had a moment of anxiety. I literally got scared of doing nothing, because I am so accustomed to absorbing so much information at one time, and change is scary. 
+
+In this practice of awareness, I took a deeply delicious bite of my sandwich (thank you tomato and mayonnaise). While marveling at my bite's deliciousness, I felt a pinhole poke into my vacuum. This pinhole soon burst into a waterfall. The empty space I created was flooded with a deep ecstasy. I don't know why, it just did. 
+
+I cried on my club and had the idea about this passage at the same time, all because I chose to do nothing. 
+
+
+**Rules**
+If you work for an organization that doesn't value this - don't work there. It is better to spend the time finding a job that does value this instead of working towards prestige or other vanity metrics. 
+
+Diffuse thinking can have a schedule - but that schedule must exclude interrupting activities. Walking, reading, working out etc... are all good examples. My most valuable ideas usually come after intense interval or weight training. For example, I wrote the speech for my best friends wedding at the top of a mountain in the middle of a cycling workout. I had no intention to write this, but at the peak of my adrenaline high, I had to choice to stop my ride, and put down my thoughts. It was one of the most emotional and creative performances I have ever had, and it wouldn't have happened if I hadn't taken a break to ride my bike, rest my brain, and stress my body. 
+
+Pre-load related info. And then let it go. 
+
+Don’t analyze during this time. See Ruben’s the creative act - 
+
+
+
+
+---
+# References
+
+[[The Power Of Full Engagement]]

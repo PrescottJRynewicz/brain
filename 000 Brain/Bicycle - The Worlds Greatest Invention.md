@@ -1,8 +1,8 @@
 ---
 Created On: 2023-09-05, 21:17
 Unique ID: 202309052117
-sr-due: 2023-09-14
-sr-interval: 2
+sr-due: 2023-09-29
+sr-interval: 10
 sr-ease: 230
 ---
 **Status:** #review 
@@ -20,8 +20,6 @@ Site the actual study, and where we are.
 Dive into the vs total energy/power used, and how the bicycle create la an amazing tool for us to see the world. 
 
 Olympic cyclists and toaster. 
-
-
 
 
 

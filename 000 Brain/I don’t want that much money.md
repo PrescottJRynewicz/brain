@@ -18,4 +18,4 @@ But this doesn't happen in the real world. Every choice for increasing wealth co
 
 ---
 # References
-[[Life in review - How to get "fuck-you" money before 30]]
+[[Life in review - How to earn "fuck-you" money before 30]]

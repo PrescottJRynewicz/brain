@@ -25,7 +25,7 @@ A curve where values are grouped close to the average. It ends up looking like a
 ?
 $$σ^2=\Sigma(x_i−\mu)^2/N$$
 Basically, find the average of the squared distance from the mean.
-<!--SR:!2023-09-19,8,188-->
+<!--SR:!2023-10-03,14,188-->
 
 
 

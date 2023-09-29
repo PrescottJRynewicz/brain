@@ -1,8 +1,8 @@
 ---
 Created On: 2023-08-28, 22:21
 Unique ID: 202308282221
-sr-due: 2023-09-24
-sr-interval: 13
+sr-due: 2023-11-03
+sr-interval: 38
 sr-ease: 270
 ---
 **Status:** #review 
@@ -21,16 +21,16 @@ Most recently, getting laid off from Cameo didn't impact my ego, self worth, or 
 
 Examples from my life 
 1. Loving to ski
-2. Learning web dev while at l Lockheed 
-3. Learning C++ and robotics while at Chemetry
+2. Learning web development while at l Lockheed 
+3. Learning C++ and robotics while at Chemistry
 4. Learning cycling 
 5. Cooking 
 
 All of these Diversifications create new opportunities, and chances for [[Effectuation]] to take place. They are also fun. 
 
-Down side: learning how to balance, and not be bad at 6 things at once. 
+Downside: learning how to balance, and not be bad at 6 things at once. 
 
-
+Also - adding diversity to your life increases the subliminal primordial goop available for you to access.
 
 
 

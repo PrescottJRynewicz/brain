@@ -20,7 +20,7 @@ Effectuation is a much better strategy when working with unstable problems, and 
 **Lemonade Principle**: Unknowns are inevitable - use them to look for opportunities.
 **Crazy Quilt**: New partnerships can bring new funds and directions.
 **Affordable Loss**: You should only invest as much as you are willing to lose.
-<!--SR:!2023-09-26,13,230-->
+<!--SR:!2023-10-25,29,230-->
 
 
 

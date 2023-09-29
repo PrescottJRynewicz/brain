@@ -11,7 +11,7 @@ Unique ID: 202309191514
 #### What is Chesterton’s Fence
 ?
 Understanding why something is the way it is before trying to change it.
-<!--SR:!2023-09-24,3,230-->
+<!--SR:!2023-10-14,18,250-->
 
 
 ---

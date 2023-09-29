@@ -4,20 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "91f7435a821513d9",
+        "id": "ac70fd86415950cc",
         "type": "split",
         "children": [
           {
-            "id": "feb4056df3b310ca",
+            "id": "6afcdf5eea79547f",
             "type": "tabs",
             "children": [
               {
-                "id": "6a0d7abcc34e092a",
+                "id": "64a15c6115fd4afc",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "000 Brain/Why You Should Say No More Often - Create a Vacuum - Crying on my club sandwich.md",
+                    "file": "000 Brain/Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9ba8d0ae022f94a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 Brain/Talent Stack.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +38,11 @@
             ]
           },
           {
-            "id": "158dac06515e6ebb",
+            "id": "89ccce9d968fb91e",
             "type": "tabs",
             "children": [
               {
-                "id": "57438dd79bc86743",
+                "id": "97419fe60ab4945d",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -59,7 +71,7 @@
                       },
                       "serial": {
                         "columns": 115,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   000 Brain/Bicycle - The Worlds Greatest Invention.md\r\n\u001b[8Cmodified:   \"000 Brain/Buying expensive things means you won\\342\\200\\231t be able to use them.md\"\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Simplicity.md\r\n\u001b[8Cmodified:   \"000 Brain/I don\\342\\200\\231t want that much money.md\"\r\n\u001b[8Cdeleted:    \"000 Brain/Life in review - How to get \\\"fuck-you\\\" money before 30.md\"\r\n\u001b[8Cmodified:   000 Brain/Love letter to Los Angeles.md\r\n\u001b[8Cdeleted:    000 Brain/My Best Days in 2022.md\r\n\u001b[8Cmodified:   000 Brain/Potential baby names - Xanadu.md\r\n\u001b[8Cdeleted:    000 Brain/Reasons why people clicked on  - 20230914224919000.md\r\n\u001b[8Cmodified:   000 Brain/The 2008 Housing Crisis.md\r\n\u001b[8Cmodified:   000 Brain/True Biz Flashcard.md\r\n\u001b[8Cdeleted:    000 Brain/Why You Should Say No More Often.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Risk of Compounding Interest.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\200\\357\\270\\217Hedonic Adoption.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\202\\357\\270\\217 Heavy resistance training has a much higher ROI than cardio training.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\221\\257\\342\\200\\215\\342\\231\\200\\357\\270\\217 Exploring and Exploiting Social Capital.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Fuck-You Money.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\274 Making Exponential Growth Intuitive.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\251 Steal His Look.md\"\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\224\\251 Linchpin.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/CSS Box Shadow.md\r\n\u001b[8C000 Brain/CSS `rem`.md\r\n\u001b[8C\"000 Brain/Chesterton\\342\\200\\231s Fence.md\"\r\n\u001b[8C000 Brain/Donald Bradman.md\r\n\u001b[8C000 Brain/Know Your Job's Worth.md\r\n\u001b[8C000 Brain/Krulak's Law.md\r\n\u001b[8C\"000 Brain/Life in review - How to earn \\\"fuck-you\\\" money before 30.md\"\r\n\u001b[8C000 Brain/The dangers of flow state.md\r\n\u001b[8C000 Brain/The gift is to the giver, and comes back to him ....md\r\n\u001b[8C000 Brain/Why You Should Say No More Often - Create a Vacuum - Crying on my club sandwich.md\r\n\u001b[8C000 Brain/Why You Should Say No More Often - The Art of Vacuum Manufacturing - I cried on my turkey club.md\r\n\u001b[8C000 Brain/Work Kinks.md\r\n\u001b[8C\"000 Brain/\\360\\237\\220\\215 Cobra Effect.md\"\r\n\u001b[8C100 References/Quotes/Things that are remarkable never meet spec, because that would make them standard, and not worth talking about..md\r\n\u001b[8C100 References/The Scout Mindset.md\r\n\u001b[8C800 Assets/Screenshot 2023-09-22 at 10.44.01 AM.png\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git ad",
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % git ad",
                         "rows": 23
                       }
                     }
@@ -99,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#thought",
+                "query": "Talent Stack",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +128,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,35 +216,37 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "57438dd79bc86743",
+  "active": "97419fe60ab4945d",
   "lastOpenFiles": [
-    "000 Brain/Why You Should Say No More Often - Create a Vacuum - Crying on my club sandwich.md",
-    "000 Brain/The gift is to the giver, and comes back to him ....md",
-    "100 References/Quotes/Things that are remarkable never meet spec, because that would make them standard, and not worth talking about..md",
-    "100 References/Quotes/There is no meaning of life, only meaning in life.md",
-    "100 References/Quotes/Better to reign in hell than serve in heaven..md",
-    "000 Brain/Donald Bradman.md",
-    "800 Assets/Screenshot 2023-09-22 at 10.44.01 AM.png",
-    "000 Brain/Krulak's Law.md",
-    "000 Brain/🐍 Cobra Effect.md",
-    "000 Brain/Know Your Job's Worth.md",
-    "000 Brain/⚡️ Stale While Revalidate.md",
-    "000 Brain/Bicycle - The Worlds Greatest Invention.md",
-    "000 Brain/Conspicuous Simplicity.md",
+    "000 Brain/Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average.md",
+    "000 Brain/Most of the time, we're doing non-linchpin work, doing someone else's work instead of our art. That's fine, as long as there's a balance, as long as you leave enough time for the work that matters..md",
+    "000 Brain/Know Your Superpower.md",
+    "100 References/Quotes/To Know Thyself is the beginning of wisdom.md",
+    "000 Brain/Talent Stack.md",
+    "100 References/📗 Optionality - Survive and Thrive.md",
+    "000 Brain/The abilities of a Linchpin.md",
     "100 References/🔩 Linchpin.md",
+    "100 References/Quotes/Your Product Should Match Your Marketing.md",
+    "000 Brain/Graph of Passionate and Attachment.md",
+    "800 Assets/Screenshot 2023-09-28 at 10.22.43 AM.png",
+    "000 Brain/Prajna.md",
+    "000 Brain/Why do artists give gifts?.md",
+    "000 Brain/Culture of Gifting.md",
+    "000 Brain/Three Tribal Circles.md",
+    "000 Brain/Avoid Asymptotes.md",
+    "000 Brain/Why don't you interview me.md",
     "900 Templates/🧠 Atomic Thought.md",
-    "000 Brain/Why You Should Say No More Often - The Art of Vacuum Manufacturing - I cried on my turkey club.md",
-    "900 Templates/{{content}}.md",
-    "000 Brain/CSS `rem`.md",
-    "000 Brain/Why You Should Say No More Often.md",
-    "000 Brain/Work Kinks.md",
-    "000 Brain/CSS Box Shadow.md",
-    "000 Brain/My Best Days in 2022.md",
-    "000 Brain/The 2008 Housing Crisis.md",
-    "000 Brain/Reasons why people clicked on  - 20230914224919000.md",
-    "000 Brain/Chesterton’s Fence.md",
-    "000 Brain/🪩 Steal His Look.md",
-    "000 Brain/Love letter to Los Angeles.md",
+    "000 Brain/Creating art for yourself is very different than creating it for others..md",
+    "000 Brain/Large Groups Move Slow.md",
+    "000 Brain/The Lizard Brain and Their Friends.md",
+    "000 Brain/PERL.md",
+    "000 Brain/Pareto Principle.md",
+    "000 Brain/Law of Linchpin Leverage.md",
+    "000 Brain/All Companies Become Evil.md",
+    "000 Brain/Know Your Worth.md",
+    "000 Brain/🔔 Gaussian Bell Curve.md",
+    "800 Assets/Screenshot 2023-09-27 at 9.09.47 AM.png",
+    "800 Assets/Screenshot 2023-09-22 at 10.44.01 AM.png",
     "vectorstore.pkl",
     "800 Assets/Screenshot 2023-08-31 at 8.34.18 AM.png",
     "800 Assets/Screenshot 2023-08-31 at 8.33.53 AM.png",
@@ -243,8 +258,6 @@
     "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a.heic",
     "800 Assets/Screenshot 2023-08-29 at 8.11.54 AM.png",
     "800 Assets/Pasted image 20230829080946.png",
-    "800 Assets/Screenshot 2023-08-28 at 8.57.56 AM.png",
-    "800 Assets/Screenshot 2023-08-28 at 8.31.28 AM.png",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 4.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 3.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 2.heic",

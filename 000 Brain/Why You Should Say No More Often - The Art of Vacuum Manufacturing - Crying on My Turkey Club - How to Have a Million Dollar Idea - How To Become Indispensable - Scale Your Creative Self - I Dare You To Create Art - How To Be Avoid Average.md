@@ -1,8 +1,8 @@
 ---
 Created On: 2023-09-12, 15:31
 Unique ID: 202309121531
-sr-due: 2023-09-22
-sr-interval: 1
+sr-due: 2023-10-04
+sr-interval: 6
 sr-ease: 228
 ---
 **Status:** #review 
@@ -10,17 +10,13 @@ sr-ease: 228
 **Tags:** #blogIdea 
 
 ### Ideas / Stories to Tell
+1. We are all artists
+2. The people we look up to most are creative people - rarely do we look up to people who follow an existing playbook.
+3. The base-level expectations of professional information workers are absurd - here is how you can excel in any job. 
 
+## Research 
+See if there is a fun anecdote from the vacuum world to go with the title.  
 
-# Why You Should Say No More Often
-
-This is a very common topic in work improvement culture. There are [plenty](https://www.youtube.com/watch?v=RexdAmTVGh4&ab_channel=TimFerriss) of good articles about why you say no more often. 
-
-This advice usually applies to managers, leaders, and people whose time is stressed. I would argue that this applies to all people. 
-
-All of our best ideas come when we are not working, and when we have created space for diffuse thinking. This is especially true for uniquely creative ideas, that cannot be replicated by others. (Add quote from Full Engagement). 
-
-If you want to be good at following the rules and having others created systems for your life, then this is not important. But if you want to accept the challenge to create your own rules to live by, and have the potential for unbounded growth that somebody else can define or restrain you to, you have to learn when and how to say no. This applies for everyone: CEOs and entry level sales people. 
 
 ## Examples of non-obvious information - A story from my lunch
 
@@ -53,23 +49,37 @@ In this practice of awareness, I took a deeply delicious bite of my sandwich (th
 I cried on my club and had the idea about this passage at the same time, all because I chose to do nothing. It was the most rewarding experience of my week, and I hope it inspires something in you, and you create something else to put into the universe. 
 
 
-
-
 ## **Rules**
+
+**Ship at all costs.**
+The inertia of art is extremely high. Releasing your art to be judged by the world is horrifying. There is a reason why public speaking is our most common fear. We have evolved as social creatures - exposing our soft underbelly to be judged by our peers is antithetical to our strongest instincts. 
+
+**Don't Be Held Down**
 If you work for an organization that doesn't value this - don't work there. It is better to spend the time finding a job that does value this instead of working towards prestige or other vanity metrics. 
-
-Diffuse thinking can have a schedule - but that schedule must exclude interrupting activities. Walking, reading, working out etc... are all good examples. My most valuable ideas usually come after intense interval or weight training. For example, I wrote the speech for my best friends wedding at the top of a mountain in the middle of a cycling workout. I had no intention to write this, but at the peak of my adrenaline high, I had to choice to stop my ride, and put down my thoughts. It was one of the most emotional and creative performances I have ever had, and it wouldn't have happened if I hadn't taken a break to ride my bike, rest my brain, and stress my body. 
-
-Pre-load related info. And then let it go. 
-
-Don’t analyze during this time, just be aware. See Ruben’s *The Creative Act* - chapter on awareness. 
 
 
 ## Strategies
 
+**Say No More Often**
+
+This is a very common topic in work improvement culture. There are [plenty](https://www.youtube.com/watch?v=RexdAmTVGh4&ab_channel=TimFerriss) of good articles about why you say no more often. 
+
+This advice usually applies to managers, leaders, and people whose time is stressed. I would argue that this applies to all people. 
+
+All of our best ideas come when we are not working and when we have created space for diffuse thinking. This is especially true for uniquely creative ideas that cannot be replicated by others. (Add quote from Full Engagement). 
+
+If you want to be good at following the rules and having others created systems for your life, then this is not important. But if you want to accept the challenge to create your own rules to live by, and have the potential for unbounded growth that somebody else can define or restrain you to, you have to learn when and how to say no. This applies for everyone: CEOs and entry level sales people. 
+
 Don't expect to master the craft of vacuum manufacturing, and when you do, don't expect to be constantly bombarded with epiphanies. You may only have one moment like this a day, week, or month, but that moment is the moment when you create the majority of your value. 
 
 > *The law of Linchpin Leverage: The more value you create in your job, the fewer minutes of labor you actually spend creating that value*. 
+
+
+### Sprinting and Crawling
+> *Sprinting* has been adopted as a tool for building products and technologies using the tenants of effectuation. Ship quickly, iterate, learn, etc... 
+> *Sprint* is an apt description for the majority of the cycle. But I want to make a few distinctions. Sprinting occurs when you are executing, which is the majority of the time. Executing means using a skilled craft to translate an idea into a shareable asset. 
+> But, the much more important and valuable part of effectuation is awareness, reflection, and creativity. This should be done slowly, and space must be preserved for this critical thinking. 
+
 
 
 Pareto principle, when you start edging towards perfection, you will hit diminishing returns. But, because you have momentum, it is easy to stay on this path and continue perfectly. Much harder to break the cycle, and go back to an empty canvas. But the empty canvas is the only place where you can make another breakthrough.  
@@ -88,8 +98,18 @@ This simple formula bothers me for two reasons:
 - Linchpin
 ```
 
+
+
+Diffuse thinking can have a schedule - but that schedule must exclude interrupting activities. Walking, reading, working out etc... are all good examples. My most valuable ideas usually come after intense interval or weight training. For example, I wrote the speech for my best friends wedding at the top of a mountain in the middle of a cycling workout. I had no intention to write this, but at the peak of my adrenaline high, I had to choice to stop my ride, and put down my thoughts. It was one of the most emotional and creative performances I have ever had, and it wouldn't have happened if I hadn't taken a break to ride my bike, rest my brain, and stress my body. 
+
+Pre-load related info. And then let it go. 
+
+Don’t analyze during this time, just be aware. See Ruben’s *The Creative Act* - chapter on awareness. 
+
+
 ---
 # References
-
 [[The Power Of Full Engagement]]
+[[🔩 Linchpin]]
 
+[[Law of Linchpin Leverage]]

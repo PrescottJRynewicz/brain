@@ -48,17 +48,19 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2023-09-21",
+  "buryDate": "2023-09-28",
   "buryList": [
-    "aa7885c4f6a86",
-    "1a9d55b06faa49",
-    "8d9c2339a3767",
-    "df6608d425b2f",
-    "34bcd255a457e",
-    "1650215ffca095",
-    "16cfeccbe875d1",
-    "1c986bf3d4f6ea",
-    "a2b2069dea511"
+    "d2da5df550adb",
+    "1933ca0b3c0d07",
+    "63182e920f92f",
+    "112ca64c8d70d2",
+    "2ec628335a540",
+    "124692d0a8651d",
+    "3a4b796757755",
+    "a61dfb067bb5f",
+    "d9da96c77027f",
+    "1b89abafaceba9",
+    "1354b945662991"
   ],
-  "historyDeck": "SoftwareCards"
+  "historyDeck": ""
 }

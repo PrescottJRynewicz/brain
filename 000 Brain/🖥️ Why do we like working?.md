@@ -16,6 +16,21 @@ Unique ID: 202308290913
 <!--SR:!2023-10-16,25,250-->
 
 
+#### As per author Richard Flora, what are the top ten reasons people enjoy their work?
+?
+1. ﻿﻿﻿Challenge and responsibility
+2. ﻿﻿﻿Flexibility
+3. ﻿﻿﻿A stable work environment
+4. ﻿﻿﻿Money
+5. ﻿﻿﻿Professional development
+6. ﻿﻿﻿Peer recognition
+7. ﻿﻿﻿Stimulating colleagues and bosses
+8. ﻿﻿﻿Exciting job content
+9. ﻿﻿﻿Organizational culture
+10. ﻿﻿﻿﻿Location and community
+<!--SR:!2023-09-29,1,230-->
+
+
 
 ---
 # References

@@ -1,8 +1,8 @@
 ---
 Created On: 2023-09-07, 22:57
 Unique ID: 202309072257
-sr-due: 2023-09-22
-sr-interval: 1
+sr-due: 2023-10-06
+sr-interval: 10
 sr-ease: 250
 ---
 **Status:** #review 
@@ -31,8 +31,9 @@ Format ideas
 - Start with a bunch of complaints about Los Angeles, and then tell stories about how despite all of this, Los Angeles is still an amazing place
 	- Too Big
 	- Too much traffic
-	- Streets are run down, and don't make sense
-	- 
+	- Streets are run down and don't make sense
+	- Parking is impossible
+	- People are shallow and only care about your network
 
 ---
 # References

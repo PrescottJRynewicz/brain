@@ -165,7 +165,7 @@ Here are a few key takeaways from this chapter.
 	1. Physical Health
 	2. Self Care
 	3. Budgeting and net worth
-3. Talent Stacks
+3. [[Talent Stack]]
 	1. Using your inherent interests, you can invest in creating a unique talent stack for you that no one else can replicate
 	2. The real question is - how much is this talent stack worth
 4. Reading high-quality books is the cheapest asymmetric option in the knowledge domain.

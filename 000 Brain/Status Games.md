@@ -12,12 +12,12 @@ Status is the primary currency of social animals. Why do we care so much about e
 #### What type of currency does Social Status have?
 ?
 **Positional:** Unlike wealth, health, or learning, status is purely positional. The pie size is fixed, and everyone's out to get a slice of it.
-<!--SR:!2023-09-23,10,230-->
+<!--SR:!2023-10-15,22,230-->
 
 #### What type of sum game is Status?
 ?
 Zero-sum. Because status is positional, we can only gain status at someone else's expense and vice versa. 
-<!--SR:!2023-09-23,12,250-->
+<!--SR:!2023-10-24,31,250-->
 
 #### What are examples of positive-sum status games?
 ?

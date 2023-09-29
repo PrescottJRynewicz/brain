@@ -31,7 +31,7 @@ Devote areas of complete focus to either exploring or exploiting.
 ?
 The starving artist. Trying to jump directly to the high-risk end of the spectrum without creating a safety net, diversified skills, etc...
 Some people may disagree with this, saying that you will only succeed in something truly spectacular with a safety net. But I believe this opinion is subject to [[🥇 Survivorship Bias]], and the fact that for most people, a life spent comfortably exploring, even if they don't experience a positive black swan event, is still a life worth living. It would be amazing to have an inspired marketer co-worker who wrote a full-length book on the American political divide and founded a non-profit. 
-<!--SR:!2023-09-28,17,248-->
+<!--SR:!2023-11-26,59,268-->
 
 
 ---

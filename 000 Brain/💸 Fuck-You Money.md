@@ -15,7 +15,7 @@ Having enough reserve funds to cover 1-2 years of expenses, so you always have t
 #### What is Fuck-you frugality?
 ?
 It is better to live simply than to betray your principles. It always means that you need much less money to achieve fuck-you money
-<!--SR:!2023-10-06,23,250-->
+<!--SR:!2023-12-30,84,270-->
 
 
 #### What is fuck-you career capital?

@@ -1,11 +1,11 @@
 ---
 Created On: 2023-09-25, 09:34
 Unique ID: 202309250934
-sr-due: 2023-09-29
-sr-interval: 3
+sr-due: 2023-10-18
+sr-interval: 14
 sr-ease: 250
 ---
-**Status:** #review 
+**Status:** #review Can review this once I add notes from the Power of Full Engagement
 
 **Tags:** #blogIdea 
 

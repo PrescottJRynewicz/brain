@@ -2,9 +2,9 @@
 Created On: 2023-09-28, 09:53
 Unique ID: 202309280953
 ---
-**Status:** #review 
+**Status:** 
 
-**Tags:** 
+**Tags:** #DefinitionCards 
 
 # Three Tribal Circles
 
@@ -13,6 +13,7 @@ Unique ID: 202309280953
 **First Circle:** Friends and family. You give gifts to these people purely because you love them. You do not expect to get anything back, and you only do it because you want your tribe to be stronger.
 **Second Circle:** Commerce acquaintances. They respect your craft and pay you for your services. 
 **Third Circle:** The Internet. i.e. **friendlies.** This is a relatively new class that you are able to give gifts to. By giving gifts to the third circle, you increase the people in the second circle and become more indispensable. 
+<!--SR:!2023-10-28,12,230-->
 
 
 

@@ -31,7 +31,7 @@ The internet has accelerated the race to the bottom. Now, you don't have to orga
 ![[Screenshot 2023-09-27 at 9.09.47 AM.png]]
 
 
-[[Know Your Worth]]
+[[Know Your Job Worth]]
 
 
 ## Thinking About Your Worth
@@ -49,16 +49,16 @@ Woodrow Wilson
 
 The factory model shaped education. 
 
-[[Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average]]
+[[Indispensable Day Dreaming]]
 
 The well-known anecdote is that the most influential and remarkable people never finished their higher education (Mark Zuckerburg dropping out of Harvard). We place importance on the heroic people in this situation, not the fact that most schools were designed for us to be factory workers and compliant with a system of rules. 
 
 
 ## Becoming the Linchpin
 
-[[Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average]]
+[[Indispensable Day Dreaming]]
 [[Law of Linchpin Leverage]] 
-[[Know Your Worth]]
+[[Know Your Job Worth]]
 
 Mastering a craft and having deep domain knowledge does not make you a linchpin. Being able to see the reality of the situation, and come up with creative solutions to meet a shared mission is how can become a linchpin. This is why some of the most valuable executives and leaders don't have any formal or technical skills. 
 
@@ -86,7 +86,7 @@ The only purpose of starting is to finish, so that you can start again.
 
 [[The Lizard Brain and Their Friends]] 
 
-[[Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average#Sprinting and Crawling]]
+[[Indispensable Day Dreaming#Sprinting and Crawling]]
 
 
 ## The Powerful Culture of Gifts
@@ -106,7 +106,7 @@ If you give a valuable enough gift, one that nobody will ever be able to repay y
 
 Overall, there is good background info about how it is all creators job to define their own map, but not a lot of good strategies. As Seth states, that is the crux of the problem. You have to create your own map. 
 
-I think [[The Scout Mindset]] and [[The Power Of Full Engagement]] have more info about skills to practice to get better at knowing what map you want to make, and how to create it.
+I think [[The Scout Mindset]] and [[🔋 The Power Of Full Engagement]] have more info about skills to practice to get better at knowing what map you want to make, and how to create it.
 
 
 [[Prajna]]

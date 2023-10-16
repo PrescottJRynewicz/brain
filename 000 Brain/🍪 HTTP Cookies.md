@@ -29,17 +29,17 @@ In your web server (or any server a client is interaction with), you respond wit
 #### What is the `Secure` cookie attribute?
 ?
 This means cookies will only be sent over SSL-verified (`https`) connections.
-<!--SR:!2023-10-01,27,270-->
+<!--SR:!2024-01-25,113,290-->
 
 #### What is the `HttpOnly` cookie attribute?
 ?
 This means that the cookie is not accessible to the `Document.cookie` Javascript API.
-<!--SR:!2023-10-01,18,210-->
+<!--SR:!2023-11-13,40,210-->
 
 #### What is the `Domain` cookie attribute?
 ?
 This specifies which domains can receive a cookie.
-<!--SR:!2023-10-16,39,270-->
+<!--SR:!2024-03-11,147,290-->
 
 #### What is the Path cookie attribute?
 ?
@@ -50,7 +50,7 @@ This attribute specifies a path that must exist for the cookie to be sent.
 #### What is the `SameSite` cookie attribute?
 ?
 This attribute will only send cookies if the cookie is from the origin site.
-<!--SR:!2023-10-02,17,210-->
+<!--SR:!2023-12-03,60,230-->
 
 #### What are the options for the `SameSite` cookie attribute?
 ?

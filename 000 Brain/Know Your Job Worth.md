@@ -1,9 +1,9 @@
 ---
 Created On: 2023-09-22, 09:08
 Unique ID: 202309220908
-sr-due: 2023-10-01
-sr-interval: 3
-sr-ease: 230
+sr-due: 2023-10-11
+sr-interval: 4
+sr-ease: 210
 ---
 **Status:** #review 
 
@@ -16,7 +16,6 @@ If you can't calculate how you've affected the bottom line of the team you're on
 Some roles have very clear expectations and criteria, sales, for example. You are a good salesperson if you hit your quota, and you know exactly how much money you brought into the company from your hard work, and crafted communication skills.
 
 Most other positions are difficult though. Marketing, higher management, technical positions, research, etc...
-
 
 I challenge you to work with yourself, and your boss to figure out why you are worth being paid. If you can do this, it will give you hyper clear focus for how to continue to add value, and open up creative avenues to improve the value you are adding. 
 

@@ -22,4 +22,4 @@ Ideally, you are able to find an intersection of your art where it satisfies per
 
 [[🔩 Linchpin#Is it Possible to Do Hard Work in a Cubicle?]]
 
-[[Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average]]
+[[Indispensable Day Dreaming]]

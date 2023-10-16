@@ -18,14 +18,14 @@ A curve where values are grouped close to the average. It ends up looking like a
 **First Deviation**: 68%
 **Second Deviation:** 95%
 **Third Deviation:**: 99.7%
-<!--SR:!2023-09-29,2,208-->
+<!--SR:!2023-10-18,11,208-->
 
 
 #### How do you calculate the standard deviation for a gaussian distribution?
 ?
 $$σ^2=\Sigma(x_i−\mu)^2/N$$
 Basically, find the average of the squared distance from the mean.
-<!--SR:!2023-10-03,14,188-->
+<!--SR:!2023-11-01,28,188-->
 
 
 

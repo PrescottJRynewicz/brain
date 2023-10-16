@@ -19,7 +19,7 @@ Both are investment funds, typically made up of mutual funds and target-date fun
 Traditional and Roth. 
 **Roth:** You contribute **after-tax** dollars. When you take money out, it is not taxable income
 **Traditional:** You contribute **pre-tax** dollars, and when money taken out, it is treated as taxable income. 
-<!--SR:!2023-10-12,21,228-->
+<!--SR:!2024-01-05,81,248-->
 
 
 #### Why does timing matter for your Retirement? 

@@ -13,4 +13,4 @@ The meaning of life is to reproduce: that is all. But we are lucky enough to hav
 #### What is the meaning of life?
 ?
 Nothing. There is no meaning *of* life. But we have the opportunity and challenge to find meaning *in* life.
-<!--SR:!2023-10-10,23,250-->
+<!--SR:!2023-12-06,57,250-->

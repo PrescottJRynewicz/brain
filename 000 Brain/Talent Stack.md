@@ -2,13 +2,12 @@
 Created On: 2023-09-28, 10:36
 Unique ID: 202309281036
 ---
-**Status:** #review 
+**Status:** 
 
 **Tags:** 
 
 # Talent Stack
-
-
+The eventually unique combination of every person's natural talent's. 
 
 
 ---

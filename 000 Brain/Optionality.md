@@ -16,4 +16,4 @@ Unique ID: 202308111647
 #### What is [[Richard Meadows]] Theory of Optionality
 ?
 A life well lived is a life full of high-quality options to choose from. Options are a much better metric than money or happiness, but they are still not an end unto itself. The ultimate point of the exercise is to deliberately sacrifice options. We all have to worship something, it might as well be something empathetic. Constraining ourselves for the betterment of those around us, while still enjoying our own lives. Selfish selflessness. 
-<!--SR:!2023-09-29,18,250-->
+<!--SR:!2023-11-15,46,250-->

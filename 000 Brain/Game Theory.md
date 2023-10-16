@@ -11,12 +11,12 @@ Unique ID: 202308310756
 #### What does the outcome grid look like for two-player games in game theory?
 ?
 ![[Screenshot 2023-08-31 at 8.02.16 AM.png|400]]
-<!--SR:!2023-10-07,22,250-->
+<!--SR:!2023-12-04,58,250-->
 
 
 #### What is the best strategy for winning a negative-sum game?
 ?
 Not playing at all. The best case is that you end up even, so why would you spend your time playing? 
-<!--SR:!2023-10-12,25,250-->
+<!--SR:!2024-01-26,102,270-->
 
 

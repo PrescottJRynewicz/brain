@@ -1,9 +1,9 @@
 ---
 Created On: 2023-09-19, 14:12
 Unique ID: 202309191412
-sr-due: 2023-10-02
-sr-interval: 6
-sr-ease: 230
+sr-due: 2023-10-12
+sr-interval: 3
+sr-ease: 190
 ---
 **Status:** #review 
 
@@ -40,4 +40,4 @@ When the fix was a one-line change in the tsconfig file.
 ---
 # References
 
-[[Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average]] - these could be combined into one article 
+[[Indispensable Day Dreaming]] - these could be combined into one article 

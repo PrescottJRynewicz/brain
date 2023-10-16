@@ -20,11 +20,11 @@ Unique ID: 202308290802
 The goal is to spend as much time being an artist as possible. Exploring work you love to do, and using [[Effectuation]] to take advantage of opportunities as they are presented to do art. The hard part is that it is usually very time and energy-intensive to do this, and you won't get paid upfront. So we need a method to give ourselves this freedom to explore, without increasing the chances of ruining ourselves now or later. 
 ##### Barbell Strategy
 Continue exploring while having a day job. Ideally, the day job is mundane and leaves the majority of your creative resources available for your nonworking hours. The best option for this would probably be a high-paying part-time gig, like a profiled security guard working a few nights a week.
-![[Screenshot 2023-08-29 at 8.19.37 AM.png]]
+![[Screenshot 2023-08-29 at 8.19.37 AM.png|400]]
 ##### Serial Barbell Strategy
 Devote areas of complete focus to either exploring or exploiting. 
-![[Screenshot 2023-08-29 at 8.19.58 AM.png]]
-<!--SR:!2023-10-14,26,250-->
+![[Screenshot 2023-08-29 at 8.19.58 AM.png|400]]
+<!--SR:!2023-12-23,68,250-->
 
 
 #### What is the failure mode when creating a scalable career?

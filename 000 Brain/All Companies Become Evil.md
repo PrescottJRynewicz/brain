@@ -1,9 +1,9 @@
 ---
 Created On: 2023-08-30, 08:19
 Unique ID: 202308300819
-sr-due: 2023-09-29
-sr-interval: 1
-sr-ease: 250
+sr-due: 2023-10-25
+sr-interval: 21
+sr-ease: 270
 ---
 **Status:** #review 
 

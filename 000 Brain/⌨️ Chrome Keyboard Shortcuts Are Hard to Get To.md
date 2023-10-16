@@ -12,8 +12,8 @@ Unique ID: 202308072157
 ?
 They are just in an unintuitive place
 You have to go to chrome://extensions/, and then from the left menu - there is a keyboard shortcuts settings. 
-![[Pasted image 20230807215944.png]]
-<!--SR:!2023-10-02,28,210-->
+![[Pasted image 20230807215944.png|400]]
+<!--SR:!2023-12-09,63,210-->
 
 
 

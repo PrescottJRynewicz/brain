@@ -44,7 +44,7 @@ It is when the founders of a company receive all their stock ownership upfront. 
 2. Because companies stay private longer and have a higher FMV while private, the cost of exercising your options can easily outweigh the risk.
 3. Founders have the option to cash out early with their Restricted Stock, which breaks apart the motivation system and does put founders and employees on common footing. 
 ![[Pasted image 20230815101521.png]]
-<!--SR:!2023-09-30,25,210-->
+<!--SR:!2023-11-25,56,210-->
 
 
 ---

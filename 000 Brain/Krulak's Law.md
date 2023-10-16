@@ -11,7 +11,7 @@ Unique ID: 202309221037
 #### What is Krulak's Law?
 ??
 The experience people have with your brand is in the hands of the person you pay the least. (especially in the internet age)
-<!--SR:!2023-10-04,8,250!2023-09-30,3,250-->
+<!--SR:!2023-10-23,19,250!2023-11-03,25,250-->
 
 
 ---

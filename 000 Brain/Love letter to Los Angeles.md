@@ -1,8 +1,8 @@
 ---
 Created On: 2023-09-07, 22:57
 Unique ID: 202309072257
-sr-due: 2023-10-06
-sr-interval: 10
+sr-due: 2023-11-02
+sr-interval: 26
 sr-ease: 250
 ---
 **Status:** #review 
@@ -28,12 +28,16 @@ Format ideas
 	- The public golf courses
 	- How beautiful neighborhoods are tucked behind historic streets
 	- How different and diverse every neighborhood is
-- Start with a bunch of complaints about Los Angeles, and then tell stories about how despite all of this, Los Angeles is still an amazing place
+- Start with a bunch of complaints about Los Angeles, and then tell stories about how despite all of this, Los Angeles is still an amazing place. Can intro with the map reference, and how Los Angeles initially looks like a 10,000 piece jig saw puzzle. 
 	- Too Big
 	- Too much traffic
 	- Streets are run down and don't make sense
 	- Parking is impossible
 	- People are shallow and only care about your network
+
+
+### Ideas 
+1. My map reference of Los Angeles. 
 
 ---
 # References

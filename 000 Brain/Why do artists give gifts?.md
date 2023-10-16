@@ -2,7 +2,7 @@
 Created On: 2023-09-28, 09:58
 Unique ID: 202309280958
 ---
-**Status:** #review 
+**Status:** 
 
 **Tags:** #PhilosophyCards 
 
@@ -11,6 +11,7 @@ Unique ID: 202309280958
 #### Why do Artists give gifts?
 ?
 They give gifts to affect others. They do it for respect, connection, and to cause change.
+<!--SR:!2023-11-25,40,270-->
 
 
 ---

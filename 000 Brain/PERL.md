@@ -12,7 +12,7 @@ Unique ID: 202309270900
 ??
 Percentage of easily replaced laborers.
 Essentially, creating a huge supply, driving price down for factory owners.
-<!--SR:!2023-10-01,3,250-->
+<!--SR:!2023-10-21,14,250!2023-10-17,13,270-->
 
 
 

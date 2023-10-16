@@ -11,7 +11,7 @@ Unique ID: 202309211122
 #### What is the reserved keyword `rem` in CSS?
 ?
 Rem (short for “root-em”) units **dictate an element's font size relative to the size of the root element**. By default, most browsers use a font size value of 16px. So, if the root element is 16px, an element with the value 1rem will also equal 16px
-<!--SR:!2023-10-01,5,230-->
+<!--SR:!2023-10-19,15,230-->
 
 
 ---

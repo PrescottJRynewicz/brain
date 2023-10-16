@@ -8,12 +8,12 @@ Unique ID: 202308111543
 
 # 📐 Goodhart's Law
 #### What is Goodhart's Law? 
-??
+?
 *When a measure becomes a target, it's no longer a good measure*. 
 This is an important principle to know when setting goals. *Measures of effectiveness* are much better goals than *Measures of Performance*, yet much harder to define and measure. 
 The glass-half-full version of Goodhart's law is *What gets measured gets done.*
 ![[Pasted image 20230811154528.png]]
-<!--SR:!2023-10-30,42,230!2023-10-06,38,290-->
+<!--SR:!2023-10-30,42,230-->
 
 
 

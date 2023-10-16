@@ -12,7 +12,7 @@ Unique ID: 202309221042
 ?
 He is considered to be the best sportsperson of all time (by some). His Cricket batting average was so much higher than everyone else's, that he was much better at cricket than MJ was at basketball. His batting average was almost double that of the next-best person.
 ![[Screenshot 2023-09-22 at 10.44.01 AM.png|400]]
-<!--SR:!2023-10-05,9,250-->
+<!--SR:!2023-11-03,27,250-->
 
 
 ---

@@ -13,7 +13,16 @@ Given a set of competing or alternative choices with unknown outcomes and the ab
 i.e., how valuable is the "exploration" of a choice vs. the "exploitation" of a choice.
 Suppose a gambler only plays one slot machine in the casino. In that case, they are increasing the likelihood of success on that machine but throwing out the possibility of finding a machine with a much higher payout period. If they play every machine only once, they have almost no chance of leveraging the machine with the highest payout.
 There are optimal statistical solutions to the problem, but the real-life implementation (i.e. choosing a job) of this problem introduces enough volatility such that **it is impossible to find an optimal solution.** 
-<!--SR:!2023-11-27,54,250-->
+<!--SR:!2024-04-11,135,250-->
+
+
+Opinions about the problem
+
+1. It is impossible to have complete information in real life 
+2. It takes courage to choose an option to exploit, but decisive exploitation can also lead to more options to experiment
+3. You learn the most during the exploitation phase
+4. Example - people don’t take exit row seats on southwest flights. 
+
 
 ---
 # References

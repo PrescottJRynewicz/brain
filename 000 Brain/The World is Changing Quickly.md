@@ -10,11 +10,13 @@ Unique ID: 202310041631
 
 #### What are the five revolutions in the modern era?
 ?
+**AITSI**
 1. Agricultural 1600-1740
 2. Industrial: 1780-1840
 3. Technical: 1870-1920
 4. Scientific: 1940-1970
 5. Information: 1975-2021
+<!--SR:!2023-12-21,1,250-->
 
 <!--SR:!2023-10-30,14,250!2023-10-12,3,250-->
 

@@ -29,13 +29,13 @@ I didn't research many numbers for this (I don't have internet right now). This 
 Growth capital is a fairly recent change to the Venture world. **The longer a company stays private, the more valuable it becomes.** Money that would have gone to employees and wall street now goes to the VCs and Growth Investors.
 **BUT:** this means it takes much longer for a company to go public and reach a liquid event.
 ![[Pasted image 20230815101500.png]]
-<!--SR:!2023-12-10,73,250-->
+<!--SR:!2024-08-07,215,250-->
 
 #### What is Reverse Vesting?
 ?
 It is when the founders of a company receive all their stock ownership upfront. There is still a vesting period, so if the founder leaves before they have finished vesting, the company can buy back the stock at a cheap or free rate. 
 ![[Pasted image 20230815101521.png]]
-<!--SR:!2023-11-14,52,230-->
+<!--SR:!2024-05-01,169,250-->
 
 #### Why are Startup Stock Options less valuable now than it was a few decades ago? 
 ?
@@ -44,7 +44,7 @@ It is when the founders of a company receive all their stock ownership upfront. 
 2. Because companies stay private longer and have a higher FMV while private, the cost of exercising your options can easily outweigh the risk.
 3. Founders have the option to cash out early with their Restricted Stock, which breaks apart the motivation system and does put founders and employees on common footing. 
 ![[Pasted image 20230815101521.png]]
-<!--SR:!2023-11-25,56,210-->
+<!--SR:!2024-05-22,176,230-->
 
 
 ---

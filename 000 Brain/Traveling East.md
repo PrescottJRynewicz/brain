@@ -41,5 +41,7 @@ Use a visual of Palos Verdes. It’s a magical cove, that appears to trail off i
 
 ![[IMG_7671.jpeg]]
 
+I always think of John when I’m here. 
+
 ---
 # References

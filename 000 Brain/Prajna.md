@@ -11,7 +11,7 @@ Unique ID: 202309281019
 #### What is Prajna and the Scout Mindset?
 ?
 The ability to see the world as it is, now as we would like it to be.
-<!--SR:!2023-11-28,43,270-->
+<!--SR:!2024-03-23,116,270-->
 
 
 

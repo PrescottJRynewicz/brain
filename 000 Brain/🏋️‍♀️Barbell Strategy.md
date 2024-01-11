@@ -12,7 +12,7 @@ Unique ID: 202308140932
 It is originally a financial investing strategy.
 ![[Pasted image 20230814093303.png]]
 The strategy can also be applied to other domains.
-<!--SR:!2024-01-03,98,270-->
+<!--SR:!2025-01-16,377,290-->
 
 
 

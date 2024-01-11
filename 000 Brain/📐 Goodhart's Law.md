@@ -12,8 +12,8 @@ Unique ID: 202308111543
 *When a measure becomes a target, it's no longer a good measure*. 
 This is an important principle to know when setting goals. *Measures of effectiveness* are much better goals than *Measures of Performance*, yet much harder to define and measure. 
 The glass-half-full version of Goodhart's law is *What gets measured gets done.*
-![[Pasted image 20230811154528.png]]
-<!--SR:!2023-10-30,42,230-->
+![[Pasted image 20230811154528.png|400]]
+<!--SR:!2024-03-15,137,250-->
 
 
 

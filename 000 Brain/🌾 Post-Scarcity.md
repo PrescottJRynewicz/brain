@@ -9,7 +9,7 @@ Unique ID: 202308310817
 #### What is Post-Scarcity
 ?
 A theoretical economic situation where the world's basic needs are met. We have the tools to create and distribute food, water, clothing, and shelter so that all humans have these needs met.
-<!--SR:!2023-11-06,41,270-->
+<!--SR:!2024-04-12,157,290-->
 
 
 ---

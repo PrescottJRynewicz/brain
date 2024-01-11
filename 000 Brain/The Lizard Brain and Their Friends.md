@@ -18,7 +18,7 @@ The Lizard brain is the oldest and strongest part of our brain. It keeps us safe
 **Brain Stem:** breathing and other unconscious survival functions
 ﻿**Cerebellum:** coordination and motor control 
 ﻿**Cerebrum:** the newest and most sophisticated part of our brain. Logic, learning, emotional regulation. Is always overruled by the other three parts.
-<!--SR:!2023-10-17,1,230-->
+<!--SR:!2024-01-06,1,210-->
 
 ---
 # References

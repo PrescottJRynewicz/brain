@@ -149,12 +149,13 @@ Social capital is the domain that comes most naturally to me. The lessons in thi
 	2. Supporting and investing in your up-and-coming people, has a very small bounded downside for you, and an extremely large unbounded upside if you play your cards right and get lucky. (kind of like a [[Social Talent Scout]]). 
 
 
-## Chapter 16: Asymmetries in Knowledge Capital 
+## Chapter 16: Asymmetries in Knowledge Capital
+
 ##### According to Nielsen, how many hours of TV does the average American watch per week? 
 ?
 34 hours 🤯
 10 weeks in a year
-<!--SR:!2023-10-28,44,250-->
+<!--SR:!2024-04-27,176,270-->
 
 This chapter is solid. It discusses the huge opportunity for unbounded upside in Knowledge Capital, and tactics to employ this. This chapter is the reason I am writing this down right now. 
 

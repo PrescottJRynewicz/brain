@@ -11,7 +11,7 @@ Unique ID: 202308150914
 #### Provide an example of Linear vs. Exponential Growth
 ?
 If I take 30 linear steps, I will get across the street. If I take 30 exponential steps I end up 10 trillion meters away.
-<!--SR:!2023-12-18,88,270-->
+<!--SR:!2024-08-16,240,270-->
 
 
 ---

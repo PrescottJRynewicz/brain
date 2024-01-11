@@ -10,13 +10,13 @@ Unique ID: 202308300906
 #### What is Selfish Selflessness
 ?
 Using the right incentive structures, we can simultaneously do good for ourselves and those around us. 
-<!--SR:!2023-10-31,35,230-->
+<!--SR:!2024-02-27,118,250-->
 
 #### What are some examples of Selfish Selflessness?
 ?
 **Having a kid:** It's a bit grim, but the fact that 99.99% of the population doesn't kill themselves means that they enjoy life more than not. And parents make a huge sacrifice to have their kids, but everyone still chooses to do it.
 **Charity:** It's somewhat universal that charity or giving gifts actually makes the giver feel good too. 
-<!--SR:!2023-11-29,56,250-->
+<!--SR:!2024-06-17,200,270-->
 
 
 

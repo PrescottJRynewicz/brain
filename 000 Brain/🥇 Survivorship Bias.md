@@ -16,7 +16,7 @@ This has an interesting connection to the universal truth that success cannot co
 #### Flashcards
 
 **Survivorship Bias**:: We hear about success and not failure. It is is important to remember this when evaluating choices. What percentage are the survivors in? 25% is very different than .01%. 
-<!--SR:!2023-12-29,106,290-->
+<!--SR:!2025-04-04,455,310-->
 
 
 

@@ -19,7 +19,7 @@ Unique ID: 202309120825
 6. Investors are getting big returns, so more investors want to buy these
 7. Banks run out of mortgages, so they start giving out loans to people with bad credit, and continue selling the mortgage bundles to investors
 8. The bad loans start to default, and home prices drop as the supply of homes exceeds the demand
-<!--SR:!2023-10-24,26,250-->
+<!--SR:!2024-01-28,95,270-->
 
 
 

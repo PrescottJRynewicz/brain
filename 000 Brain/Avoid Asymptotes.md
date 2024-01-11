@@ -15,7 +15,7 @@ We can break games into two categories. Limited and unlimited. Both can be fun t
 ?
 An asymptote is just another word for a ceiling. If we make choices with limited upside, it will be very difficult to stay motivated to keep working towards that investment (and we obviously will not be able to benefit from as much upside if it is capped).
 Some areas will always have limited upside (our social network, our physical health), but other choices related to our personal knowledge and career choices are much less limited.
-<!--SR:!2023-11-27,42,270-->
+<!--SR:!2024-05-08,162,290-->
 
 
 ---

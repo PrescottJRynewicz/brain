@@ -16,4 +16,4 @@ What is technical creativity? How do we apply the creative process to creating s
 
 ---
 # References
-[[The Creative Act]] 
+[[🧘 The Creative Act]] 

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f9fe71019bf66fd8",
+        "id": "b9ac0ac665209516",
         "type": "split",
         "children": [
           {
-            "id": "6afcdf5eea79547f",
+            "id": "6c5e4414b8aae32b",
             "type": "tabs",
             "children": [
               {
-                "id": "33f58ed83ea7438b",
+                "id": "8ec25a0456f8a3c3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "000 Brain/Learning VIM Keybindings.md",
+                    "file": "000 Brain/Love letter to Los Angeles.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "177d7da674942236",
+            "id": "c201d3543f48adef",
             "type": "tabs",
             "children": [
               {
-                "id": "d5f026972ba11b59",
+                "id": "1733fab1ad4e5e7a",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -58,9 +58,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 207,
-                        "data": "git \u001b[7;1m%\u001b[0m                                                                                                                                                                                                          \r\nprescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .DS_Store\r\n\u001b[8Cmodified:   .obsidian/app.json\r\n\u001b[8Cmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   000 Brain/All Companies Become Evil.md\r\n\u001b[8Cmodified:   000 Brain/Anxiety Has Great Momentum.md\r\n\u001b[8Cmodified:   000 Brain/Avoid Asymptotes.md\r\n\u001b[8Cmodified:   000 Brain/Bicycle - The Worlds Greatest Invention.md\r\n\u001b[8Cmodified:   000 Brain/CSS Box Shadow.md\r\n\u001b[8Cmodified:   000 Brain/CSS `rem`.md\r\n\u001b[8Cmodified:   \"000 Brain/Chesterton\\342\\200\\231s Fence.md\"\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Simplicity.md\r\n\u001b[8Cmodified:   000 Brain/Creating art for yourself is very different than creating it for others..md\r\n\u001b[8Cdeleted:    000 Brain/Culture of Gifting.md\r\n\u001b[8Cmodified:   000 Brain/Donald Bradman.md\r\n\u001b[8Cmodified:   000 Brain/Effectuation.md\r\n\u001b[8Cmodified:   000 Brain/Game Theory.md\r\n\u001b[8Cmodified:   000 Brain/Graph of Passionate and Attachment.md\r\n\u001b[8Cmodified:   000 Brain/Know Your Superpower.md\r\n\u001b[8Cdeleted:    000 Brain/Know Your Worth.md\r\n\u001b[8Cmodified:   000 Brain/Krulak's Law.md\r\n\u001b[8Cmodified:   000 Brain/Large Groups Move Slow.md\r\n\u001b[8Cmodified:   000 Brain/Law of Linchpin Leverage.md\r\n\u001b[8Cmodified:   000 Brain/Lindy Effect.md\r\n\u001b[8Cmodified:   000 Brain/Love letter to Los Angeles.md\r\n\u001b[8Cmodified:   000 Brain/Optionality.md\r\n\u001b[8Cmodified:   000 Brain/PERL.md\r\n\u001b[8Cmodified:   000 Brain/Pareto Principle.md\r\n\u001b[8Cmodified:   000 Brain/Performance Advice for the Professional Information Worker.md\r\n\u001b[8Cmodified:   000 Brain/Prajna.md\r\n\u001b[8Cmodified:   000 Brain/Selfish Selflessness.md\r\n\u001b[8Cmodified:   000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md\r\n\u001b[8Cmodified:   000 Brain/Status Games.md\r\n\u001b[8Cmodified:   000 Brain/Talent Stack.md\r\n\u001b[8Cmodified:   000 Brain/The Lizard Brain and Their Friends.md\r\n\u001b[8Cmodified:   000 Brain/The abilities of a Linchpin.md\r\n\u001b[8Cmodified:   000 Brain/The dangers of flow state.md\r\n\u001b[8Cmodified:   000 Brain/Three Tribal Circles.md\r\n\u001b[8Cdeleted:    000 Brain/Why You Should Say No More Often - The Art of Vacuum Manufacturing - Crying on My Turkey Club - How to Have a Million Dollar Idea - How To Become Indispensable - Scale Your Creative Self - I Dare You To Create Art - How To Be Avoid Average.md\r\n\u001b[8Cmodified:   000 Brain/Why do artists give gifts?.md\r\n\u001b[8Cmodified:   000 Brain/Why don't you interview me.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\204\\271\\357\\270\\217 Information Cascade.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250 Writing is Learning.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250\\357\\270\\217 Chrome Keyboard Shortcuts Are Hard to Get To.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\226\\357\\270\\217 Scalable vs Non-Scalable Careers.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\250\\217 Derivative.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\235\\221\\222 Euler's number.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\214\\200The benefits of skill diversity.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\252 HTTP Cookies.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\202\\357\\270\\217 Heavy resistance training has a much higher ROI than cardio training.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\215 Cobra Effect.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\231 The Multi-Armed Bandit Problem.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\242 Why You Can't Store Money in a Static Account.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\221\\231 Lifestyle Inflation.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\221\\257\\342\\200\\215\\342\\231\\200\\357\\270\\217 Exploring and Exploiting Social Capital.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\260 How Money Relates to Happiness.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\265 Four Investing Factors.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Fuck-You Money.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\220 Goodhart's Law.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\213 Power Law Distribution.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\227\\272\\357\\270\\217 Why Exploring is Crucial to Maximize our Knowledge and Financial Capital.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\231\\211 Deaf President Now.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\201 Escapism.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\263 Bad is Stronger than Good.md\"\r\n\u001b[8Cmodified:   100 References/Quotes/There is no meaning of life, only meaning in life.md\r\n\u001b[8Cdeleted:    100 References/The Power Of Full Engagement.md\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\224\\251 Linchpin.md\"\r\n\u001b[8Cmodified:   \"900 Templates/\\360\\237\\247\\240 Atomic Thought.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/A message to extroverts.md\r\n\u001b[8C000 Brain/An Argument for Space.md\r\n\u001b[8C000 Brain/Annie and prescott sports podcast idea.md\r\n\u001b[8C000 Brain/Haze is like an airy marshmallow.md\r\n\u001b[8C000 Brain/Indispensable Day Dreaming.md\r\n\u001b[8C000 Brain/Know Your Job Worth.md\r\n\u001b[8C000 Brain/Learning VIM Keybindings.md\r\n\u001b[8C000 Brain/Low Thrash Decision-Making.md\r\n\u001b[8C000 Brain/Meaningful Collaboration.md\r\n\u001b[8C000 Brain/My First Love - Music.md\r\n\u001b[8C000 Brain/Polyglot.md\r\n\u001b[8C000 Brain/Post Key West Family Journaling.md\r\n\u001b[8C000 Brain/Technical Creativity.md\r\n\u001b[8C000 Brain/The World is Changing Quickly.md\r\n\u001b[8C000 Brain/Things That Scare Me About New York.md\r\n\u001b[8C000 Brain/To Be there.md\r\n\u001b[8C000 Brain/Traveling East.md\r\n\u001b[8C000 Brain/Unexpected Connections.md\r\n\u001b[8C000 Brain/Untitled 3.md\r\n\u001b[8C100 References/The Creative Act.md\r\n\u001b[8C100 References/The Storied Life Of AJ Fikry.md\r\n\u001b[8C\"100 References/\\360\\237\\224\\213 The Power Of Full Engagement.md\"\r\n\u001b[8C800 Assets/.DS_Store\r\n\u001b[8C800 Assets/IMG_7671.jpeg\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git ",
-                        "rows": 33
+                        "columns": 148,
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % ls\r\n000 Brain\u001b[15C800 Assets\u001b[14CREADME.md\u001b[15Cvectorstore.pkl\r\n100 References\u001b[10C900 Templates\u001b[11Ctracked_files.json\r\nprescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/graph.json\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   000 Brain/Avoid Asymptotes.md\r\n\u001b[8Cmodified:   000 Brain/CSS Box Shadow.md\r\n\u001b[8Cmodified:   000 Brain/CSS `rem`.md\r\n\u001b[8Cmodified:   \"000 Brain/Chesterton\\342\\200\\231s Fence.md\"\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Consumption.md\r\n\u001b[8Cmodified:   000 Brain/Conspicuous Simplicity.md\r\n\u001b[8Cmodified:   000 Brain/Donald Bradman.md\r\n\u001b[8Cmodified:   000 Brain/Dunbar's Number.md\r\n\u001b[8Cmodified:   000 Brain/Effective Altruism.md\r\n\u001b[8Cmodified:   000 Brain/Effectuation.md\r\n\u001b[8Cmodified:   000 Brain/Game Theory.md\r\n\u001b[8Cmodified:   000 Brain/Graph of Passionate and Attachment.md\r\n\u001b[8Cmodified:   000 Brain/Know Your Superpower.md\r\n\u001b[8Cmodified:   000 Brain/Krulak's Law.md\r\n\u001b[8Cmodified:   000 Brain/Large Groups Move Slow.md\r\n\u001b[8Cmodified:   000 Brain/Law of Linchpin Leverage.md\r\n\u001b[8Cmodified:   000 Brain/Learning VIM Keybindings.md\r\n\u001b[8Cmodified:   000 Brain/Lindy Effect.md\r\n\u001b[8Cmodified:   000 Brain/Love letter to Los Angeles.md\r\n\u001b[8Cmodified:   000 Brain/Min-Maxing.md\r\n\u001b[8Cmodified:   000 Brain/Optionality.md\r\n\u001b[8Cmodified:   000 Brain/PERL.md\r\n\u001b[8Cmodified:   000 Brain/Pareto Principle.md\r\n\u001b[8Cmodified:   000 Brain/Polyglot.md\r\n\u001b[8Cmodified:   000 Brain/Prajna.md\r\n\u001b[8Cmodified:   000 Brain/Selfish Selflessness.md\r\n\u001b[8Cmodified:   000 Brain/Stable Employment for life with a government pension in retirement is no longer a safe bet.md\r\n\u001b[8Cmodified:   000 Brain/Status Games.md\r\n\u001b[8Cmodified:   000 Brain/Technical Creativity.md\r\n\u001b[8Cmodified:   000 Brain/The 2008 Housing Crisis.md\r\n\u001b[8Cmodified:   000 Brain/The Lizard Brain and Their Friends.md\r\n\u001b[8Cmodified:   000 Brain/The World is Changing Quickly.md\r\n\u001b[8Cmodified:   000 Brain/The abilities of a Linchpin.md\r\n\u001b[8Cmodified:   000 Brain/Three Tribal Circles.md\r\n\u001b[8Cmodified:   000 Brain/Traveling East.md\r\n\u001b[8Cmodified:   000 Brain/Why do artists give gifts?.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Law of Diminishing Returns.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\206\\230\\357\\270\\217 The Risk of Compounding Interest.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\210\\253 Integral.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\214\\250\\357\\270\\217 Chrome Keyboard Shortcuts Are Hard to Get To.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\217\\260Timing when you retire matters.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\230\\240\\357\\270\\217 Managing Difficult or Toxic Relationships.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\226\\357\\270\\217 Scalable vs Non-Scalable Careers.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\232\\241\\357\\270\\217 Stale While Revalidate.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\250\\217 Derivative.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\235\\221\\222 Euler's number.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\214\\276 Post-Scarcity.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\252 HTTP Cookies.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\200\\357\\270\\217Hedonic Adoption.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\202\\357\\270\\217 Exploring and Exploiting Health Capitol.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\200\\357\\270\\217Barbell Strategy.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\213\\357\\270\\217\\342\\200\\215\\342\\231\\202\\357\\270\\217 Heavy resistance training has a much higher ROI than cardio training.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\215 Cobra Effect.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\231 The Multi-Armed Bandit Problem.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\221\\257\\342\\200\\215\\342\\231\\200\\357\\270\\217 Exploring and Exploiting Social Capital.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\260 How Money Relates to Happiness.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\265 Four Investing Factors.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Fuck-You Money.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\270 Startup Stock Options Have Fallen Towards the Middle of the Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\273 React Server Components Can Not be Imported in Client Components.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\211 Investing in Stocks is not a Positive Asymmetric Option.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\220 Goodhart's Law.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\223\\266 Everything Compounds.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\213 Power Law Distribution.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\274 Making Exponential Growth Intuitive.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\225\\270\\357\\270\\217 Graph Data Structure.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\231\\211 Deaf President Now.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\245\\207 Survivorship Bias.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\246\\242 Black Swan Events.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\247\\256 Option Pricing Model.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\201 Escapism.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\252\\210 How Next.JS App Routing.md\"\r\n\u001b[8Cmodified:   100 References/Quotes/There is no meaning of life, only meaning in life.md\r\n\u001b[8Cdeleted:    100 References/The Creative Act.md\r\n\u001b[8Cmodified:   \"100 References/\\360\\237\\223\\227 Optionality - Survive and Thrive.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/2024 Career Options.md\r\n\u001b[8C000 Brain/A Short History of LLMs.md\r\n\u001b[8C000 Brain/CSS Flex.md\r\n\u001b[8C000 Brain/CSS Grid Layouts.md\r\n\u001b[8C000 Brain/Chasing the dragon.md\r\n\u001b[8C000 Brain/Dial-up Internet.md\r\n\u001b[8C000 Brain/Extending the Dev Container Standard.md\r\n\u001b[8C000 Brain/Full Time With Superbud.md\r\n\u001b[8C000 Brain/Independent Contracting.md\r\n\u001b[8C000 Brain/Invest in Tandem.md\r\n\u001b[8C000 Brain/Start My Own Company.md\r\n\u001b[8C000 Brain/The Great Event Log.md\r\n\u001b[8C000 Brain/Work at The Browser Company.md\r\n\u001b[8C\"100 References/\\360\\237\\247\\230 The Creative Act.md\"\r\n\u001b[8C800 Assets/Screenshot 2023-10-30 at 10.12.01 AM.png\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git ",
+                        "rows": 23
                       }
                     }
                   },
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "What are some strategi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,7 +189,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,35 +205,36 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "d5f026972ba11b59",
+  "active": "1733fab1ad4e5e7a",
   "lastOpenFiles": [
+    "000 Brain/Love letter to Los Angeles.md",
+    "000 Brain/🔔 Gaussian Bell Curve.md",
+    "000 Brain/Universal Rules to Live By.md",
+    "000 Brain/CSS Flex.md",
+    "000 Brain/A Short History of LLMs.md",
+    "000 Brain/CSS Grid Layouts.md",
+    "000 Brain/📐 Goodhart's Law.md",
+    "800 Assets/Screenshot 2023-10-30 at 10.12.01 AM.png",
+    "000 Brain/The Lizard Brain and Their Friends.md",
+    "100 References/🧘 The Creative Act.md",
+    "000 Brain/Dial-up Internet.md",
+    "100 References/Quotes/Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you've got something to say, say it, and think well of yourself while you're learning to say it better..md",
+    "000 Brain/The Great Event Log.md",
+    "000 Brain/Extending the Dev Container Standard.md",
+    "000 Brain/Chasing the dragon.md",
+    "000 Brain/Low Thrash Decision-Making.md",
+    "000 Brain/Work at The Browser Company.md",
+    "000 Brain/2024 Career Options.md",
+    "000 Brain/Independent Contracting.md",
+    "000 Brain/Start My Own Company.md",
+    "000 Brain/Invest in Tandem.md",
+    "000 Brain/Full Time With Superbud.md",
     "000 Brain/Learning VIM Keybindings.md",
     "000 Brain/⚖️ Scalable vs Non-Scalable Careers.md",
     "000 Brain/Untitled 3.md",
     "000 Brain/Know Your Superpower.md",
     "000 Brain/My First Love - Music.md",
-    "000 Brain/Low Thrash Decision-Making.md",
-    "100 References/🔋 The Power Of Full Engagement.md",
-    "900 Templates/🧠 Atomic Thought.md",
     "800 Assets/IMG_7671.jpeg",
-    "000 Brain/Meaningful Collaboration.md",
-    "000 Brain/Things That Scare Me About New York.md",
-    "000 Brain/Bicycle - The Worlds Greatest Invention.md",
-    "000 Brain/The dangers of flow state.md",
-    "000 Brain/Indispensable Day Dreaming.md",
-    "000 Brain/Post Key West Family Journaling.md",
-    "000 Brain/An Argument for Space.md",
-    "000 Brain/Haze is like an airy marshmallow.md",
-    "000 Brain/A message to extroverts.md",
-    "000 Brain/Annie and prescott sports podcast idea.md",
-    "000 Brain/To Be there.md",
-    "000 Brain/Traveling East.md",
-    "000 Brain/Unexpected Connections.md",
-    "000 Brain/Run ideas.md",
-    "000 Brain/Love letter to Los Angeles.md",
-    "000 Brain/⌨ Writing is Learning.md",
-    "000 Brain/🌀The benefits of skill diversity.md",
-    "000 Brain/Know Your Job Worth.md",
     "800 Assets/Screenshot 2023-09-28 at 10.22.43 AM.png",
     "800 Assets/Screenshot 2023-09-27 at 9.09.47 AM.png",
     "800 Assets/Screenshot 2023-09-22 at 10.44.01 AM.png",
@@ -245,7 +247,6 @@
     "800 Assets/Screenshot 2023-08-29 at 8.19.37 AM.png",
     "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a 1.heic",
     "800 Assets/B18197EE-71CC-4BCD-BA74-1AF756471449_1_201_a.heic",
-    "800 Assets/Screenshot 2023-08-29 at 8.11.54 AM.png",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 4.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 3.heic",
     "800 Assets/1A289A03-D229-4425-9710-66AB603B55A7_1_201_a 2.heic",

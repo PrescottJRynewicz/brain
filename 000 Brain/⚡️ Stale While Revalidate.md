@@ -14,7 +14,7 @@ It is a policy that says you can return the current stale cached result while re
 **Cache Options**
 max-age: How long a page can be cached for
 stale-while-revalidate: How long a stale page can be used before a fresh page must be created.
-<!--SR:!2023-11-23,61,230-->
+<!--SR:!2024-06-30,215,250-->
 
 
 

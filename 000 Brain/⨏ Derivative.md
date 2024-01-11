@@ -15,7 +15,7 @@ i.e.
 2. Derivative of velocity with respect to time is acceleration.
 3. Derivative of acceleration with respect to time is jerk (and so on)
 ![[Pasted image 20230822084258.png|400]]
-<!--SR:!2023-12-28,82,270-->
+<!--SR:!2024-08-24,232,270-->
 
 
 

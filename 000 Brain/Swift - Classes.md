@@ -1,0 +1,91 @@
+---
+Created On: 2024-01-14, 11:12
+Unique ID: 202401141112
+---
+**Status:** #moc 
+
+**Tags:** #SwiftCards 
+
+# Swift - Classes
+
+
+#### In Swift, What is the difference in instantiation between Classes and Structs?
+?
+Structs come with a default property member-wise initializer, classes you don't. If you have properties in a class, you must always create your own initializer. 
+
+#### How do you Inherit a class in Swift?
+?
+Just add a `: ParentClass` to the inherited classes definition.
+```swift
+class Dog {
+    var name: String
+    var breed: String
+
+    init(name: String, breed: String) {
+        self.name = name
+        self.breed = breed
+    }
+}
+```
+```swift
+class Poodle: Dog {
+    init(name: String) {
+        super.init(name: name, breed: "Poodle")
+    }
+}
+```
+
+#### How do you override class methods in Swift?
+?
+Simply define the method in the child class, the only difference is that you must ass the `override` keyword. 
+```swift
+class Poodle: Dog {
+    override func makeNoise() {
+        print("Yip!")
+    }
+}
+```
+
+
+#### In Swift Classes, what is the `final` keyword?
+?
+The `final` keyword means that the class cannot be inherited. 
+```swift
+final class Dog {
+    var name: String
+    var breed: String
+
+    init(name: String, breed: String) {
+        self.name = name
+        self.breed = breed
+    }
+}
+```
+
+#### In swift, what is the difference between copying classes and structs?
+?
+When you copy a struct, the data is duplicated, and creates a new reference.
+When you copy a class, it is referenced, so mutating the class will update both variables pointing to the class. 
+
+#### What are de-initializers in Swift Classes?
+?
+The `deinit` method is run when the class gets destroyed (i.e. it goes out of scope and can no longer be referenced by the program)
+
+#### In Swift, the mutating keyword applies to Structs; does it also apply to Classes?
+?
+No - you can instantiate a class as a constant and change it's properties. This is valid code.
+```swift
+class Singer {
+    var name = "Taylor Swift"
+}
+
+let taylor = Singer()
+taylor.name = "Ed Sheeran"
+print(taylor.name)
+```
+To avoid changing a property within a class, define the property as constant.
+```swift
+class Singer {
+    let name = "Taylor Swift"
+}
+```

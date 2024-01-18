@@ -15,7 +15,8 @@
       "#MentalHealthCards",
       "#CareerCards",
       "#PhilosophyCards",
-      "#VimCards"
+      "#VimCards",
+      "#SwiftCards"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -49,34 +50,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2024-01-05",
-  "buryList": [
-    "1539c4e3337628",
-    "be9a4bd6c76ee",
-    "1fb343f182c059",
-    "8ccec9ad5002a",
-    "5cc5d6e1d0967",
-    "16657dd63f8239",
-    "1a7ccd2f3b45b8",
-    "d7800da7e93cc",
-    "2db526793ea54",
-    "81c99c2591d76",
-    "beda66ce7636e",
-    "1a7897861a7987",
-    "1425007278cad",
-    "15fa4c3bf058f7",
-    "17dee52c11d5c0",
-    "16381d2699e623",
-    "105c6fbfb3fab",
-    "15e9b08ae421e7",
-    "18e0468a6afe3e",
-    "d451de712670a",
-    "1d289f80fcfc65",
-    "149167e363ee63",
-    "193ed1b6294608",
-    "f2bfec6e6f132",
-    "9ff3b58163d78",
-    "ca8e77d6a675e"
-  ],
-  "historyDeck": "SoftwareCards"
+  "buryDate": "2024-01-11",
+  "buryList": [],
+  "historyDeck": "VimCards"
 }

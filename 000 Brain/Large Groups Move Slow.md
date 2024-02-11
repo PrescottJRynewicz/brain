@@ -17,7 +17,7 @@ Six handshakes to introduce 4 people.
 15 handshakes to introduce 6. 
 By doubling the group size, you have 5x the amount of potential interactions. 
 $$ Handshakes = \Sigma (n^2 + n) / 2 $$
-<!--SR:!2024-01-13,61,230-->
+<!--SR:!2024-07-29,171,230-->
 
 
 

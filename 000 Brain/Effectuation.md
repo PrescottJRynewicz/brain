@@ -18,8 +18,10 @@ Effectuation is a much better strategy when working with unstable problems, and 
 ?
 **Bird in Hand:** Create solutions with the resources available now
 **Lemonade Principle**: Unknowns are inevitable - use them to look for opportunities.
-**Crazy Quilt**: New partnerships can bring new funds and directions.
 **Affordable Loss**: You should only invest as much as you are willing to lose.
+**Crazy Quilt**: New partnerships can bring new funds and directions.
+<!--SR:!2024-02-12,2,232-->
+
 <!--SR:!2024-01-06,1,210-->
 
 

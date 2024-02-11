@@ -11,7 +11,7 @@ Unique ID: 202308231704
 #### What is an HTTP Cookie
 ?
 A cookie is a ***small*** piece of data that a web server sends to a client. The client can store this information and return it to the server later. Cookies remember **stateful** information for the stateless HTTP protocol. 
-<!--SR:!2024-02-01,98,230-->
+<!--SR:!2025-01-19,345,250-->
 
 
 #### How do you set a Cookie? 
@@ -23,13 +23,13 @@ In your web server (or any server a client is interaction with), you respond wit
 ?
 1. Session cookie: The browser determines when a session ends (and some browsers restore sessions, so the cookie would never go away).
 2. _Permanent_ cookies are deleted at a date specified by the `Expires` attribute or after a period specified by the `Max-Age` attribute.
-<!--SR:!2024-02-06,99,230-->
+<!--SR:!2024-02-11,1,190-->
 
 
 #### What is the `Secure` cookie attribute?
 ?
 This means cookies will only be sent over SSL-verified (`https`) connections.
-<!--SR:!2024-01-25,113,290-->
+<!--SR:!2025-07-09,516,310-->
 
 #### What is the `HttpOnly` cookie attribute?
 ?

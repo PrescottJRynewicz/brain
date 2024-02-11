@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5a980e2f0bf98566",
+        "id": "7373c5cf5bbacae3",
         "type": "split",
         "children": [
           {
-            "id": "ec9744973ed03b9e",
+            "id": "f7ba65503c7ccb31",
             "type": "tabs",
             "children": [
               {
-                "id": "1226c2d3d80d42ff",
+                "id": "d27a3413226f4d48",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "000 Brain/Swift UI.md",
+                    "file": "000 Brain/Science & Technology.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "1dc12ce62e91fef5",
+            "id": "d25da48a9dd14e26",
             "type": "tabs",
             "children": [
               {
-                "id": "b53436d42addeb1f",
+                "id": "cbaa715c722e0685",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -58,8 +58,8 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 181,
-                        "data": "prescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/Learning Swift.md\r\n\u001b[8C000 Brain/Swift - Classes.md\r\n\u001b[8C000 Brain/Swift - Optionals.md\r\n\u001b[8C000 Brain/Swift - Protocols.md\r\n\u001b[8C000 Brain/Swift - Structs.md\r\n\u001b[8C000 Brain/Swift UI.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % git add",
+                        "columns": 115,
+                        "data": "prescott@Prescotts-MacBook-Pro Brain % ls\r\n000 Brain\u001b[15C800 Assets\u001b[14CREADME.md\u001b[15Cvectorstore.pkl\r\n100 References\u001b[10C900 Templates\u001b[11Ctracked_files.json\r\nprescott@Prescotts-MacBook-Pro Brain % git status\r\nOn branch main\r\nYour branch is up to date with 'origin/main'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add/rm <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mdeleted:    .obsidian/plugins/brain/data.json\r\n\u001b[8Cdeleted:    .obsidian/plugins/brain/main.js\r\n\u001b[8Cdeleted:    .obsidian/plugins/brain/manifest.json\r\n\u001b[8Cdeleted:    .obsidian/plugins/brain/styles.css\r\n\u001b[8Cdeleted:    .obsidian/plugins/companion/data.json\r\n\u001b[8Cdeleted:    .obsidian/plugins/companion/main.js\r\n\u001b[8Cdeleted:    .obsidian/plugins/companion/manifest.json\r\n\u001b[8Cdeleted:    .obsidian/plugins/companion/styles.css\r\n\u001b[8Cmodified:   .obsidian/plugins/obsidian-spaced-repetition/data.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cmodified:   000 Brain/A Short History of LLMs.md\r\n\u001b[8Cmodified:   000 Brain/CSS Flex.md\r\n\u001b[8Cmodified:   000 Brain/Dial-up Internet.md\r\n\u001b[8Cmodified:   000 Brain/Donald Bradman.md\r\n\u001b[8Cmodified:   000 Brain/Dunbar's Number.md\r\n\u001b[8Cmodified:   000 Brain/Effectuation.md\r\n\u001b[8Cmodified:   000 Brain/Game Theory.md\r\n\u001b[8Cmodified:   000 Brain/Graph of Passionate and Attachment.md\r\n\u001b[8Cmodified:   000 Brain/Know Your Superpower.md\r\n\u001b[8Cmodified:   000 Brain/Krulak's Law.md\r\n\u001b[8Cmodified:   000 Brain/Large Groups Move Slow.md\r\n\u001b[8Cmodified:   000 Brain/Law of Linchpin Leverage.md\r\n\u001b[8Cmodified:   000 Brain/Learning Swift.md\r\n\u001b[8Cmodified:   000 Brain/Learning VIM Keybindings.md\r\n\u001b[8Cmodified:   000 Brain/Lindy Effect.md\r\n\u001b[8Cmodified:   000 Brain/Love letter to Los Angeles.md\r\n\u001b[8Cmodified:   000 Brain/Pareto Principle.md\r\n\u001b[8Cmodified:   000 Brain/Swift - Classes.md\r\n\u001b[8Cmodified:   000 Brain/Swift - Optionals.md\r\n\u001b[8Cmodified:   000 Brain/Swift - Structs.md\r\n\u001b[8Cmodified:   000 Brain/Swift UI.md\r\n\u001b[8Cmodified:   000 Brain/The 2008 Housing Crisis.md\r\n\u001b[8Cmodified:   000 Brain/The Lizard Brain and Their Friends.md\r\n\u001b[8Cmodified:   000 Brain/The World is Changing Quickly.md\r\n\u001b[8Cmodified:   \"000 Brain/\\342\\230\\240\\357\\270\\217 Managing Difficult or Toxic Relationships.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\252 HTTP Cookies.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\215\\276 Beware of Mimesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\217\\203\\342\\200\\215\\342\\231\\202\\357\\270\\217 Exploring and Exploiting Health Capitol.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\220\\215 Cobra Effect.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\222\\271 Efficient Market Hypothesis.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\213 Power Law Distribution.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\224\\224 Gaussian Bell Curve.md\"\r\n\u001b[8Cmodified:   \"000 Brain/\\360\\237\\226\\245\\357\\270\\217 Why do we like working?.md\"\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m000 Brain/Arts and Culture.md\r\n\u001b[8C000 Brain/Core ML.md\r\n\u001b[8C000 Brain/Geography.md\r\n\u001b[8C000 Brain/Literature.md\r\n\u001b[8C000 Brain/New Zealand History.md\r\n\u001b[8C000 Brain/Science & Technology.md\r\n\u001b[8C000 Brain/Trivia.md\r\n\u001b[8C000 Brain/Untitled 4.md\r\n\u001b[8C000 Brain/World History.md\r\n\u001b[8C000 Brain/c.md\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nprescott@Prescotts-MacBook-Pro Brain % gi",
                         "rows": 23
                       }
                     }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "only element",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6e788cf0b0bf50a1",
@@ -187,13 +186,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +205,24 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "b53436d42addeb1f",
+  "active": "cbaa715c722e0685",
   "lastOpenFiles": [
-    "000 Brain/Swift UI.md",
+    "000 Brain/Science & Technology.md",
+    "000 Brain/Trivia.md",
+    "000 Brain/World History.md",
+    "000 Brain/New Zealand History.md",
+    "000 Brain/Core ML.md",
     "000 Brain/Learning Swift.md",
-    "000 Brain/Swift - Optionals.md",
-    "000 Brain/Swift - Protocols.md",
-    "000 Brain/Swift - Classes.md",
     "000 Brain/Swift - Structs.md",
+    "000 Brain/Literature.md",
+    "000 Brain/Arts and Culture.md",
+    "000 Brain/Geography.md",
+    "000 Brain/Swift UI.md",
+    "000 Brain/c.md",
+    "000 Brain/Untitled 4.md",
+    "000 Brain/Swift - Protocols.md",
+    "000 Brain/Swift - Optionals.md",
+    "000 Brain/Swift - Classes.md",
     "000 Brain/Love letter to Los Angeles.md",
     "000 Brain/🔔 Gaussian Bell Curve.md",
     "000 Brain/Universal Rules to Live By.md",
@@ -227,16 +234,6 @@
     "000 Brain/The Lizard Brain and Their Friends.md",
     "100 References/🧘 The Creative Act.md",
     "000 Brain/Dial-up Internet.md",
-    "100 References/Quotes/Do not internalize the industrial model. You are not one of the myriad of interchangeable pieces, but a unique human being, and if you've got something to say, say it, and think well of yourself while you're learning to say it better..md",
-    "000 Brain/The Great Event Log.md",
-    "000 Brain/Extending the Dev Container Standard.md",
-    "000 Brain/Chasing the dragon.md",
-    "000 Brain/Low Thrash Decision-Making.md",
-    "000 Brain/Work at The Browser Company.md",
-    "000 Brain/2024 Career Options.md",
-    "000 Brain/Independent Contracting.md",
-    "000 Brain/Start My Own Company.md",
-    "000 Brain/Invest in Tandem.md",
     "800 Assets/IMG_7671.jpeg",
     "800 Assets/Screenshot 2023-09-28 at 10.22.43 AM.png",
     "800 Assets/Screenshot 2023-09-27 at 9.09.47 AM.png",

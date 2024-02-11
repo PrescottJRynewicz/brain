@@ -49,7 +49,7 @@ Here are some examples that trigger my anxiety
 3. Bring S/Os on the trips with us.
 4. Have a conversation with everyone in the group to let them know how I feel. 
 	1. It will be very difficult, but it would be worth scheduling some time with everybody to let them know how I feel. 
-<!--SR:!2024-02-09,102,230-->
+<!--SR:!2024-10-01,235,230-->
 
 
 

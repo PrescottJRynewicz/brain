@@ -18,7 +18,7 @@ A curve where values are grouped close to the average. It ends up looking like a
 **First Deviation**: 68%
 **Second Deviation:** 95%
 **Third Deviation:**: 99.7%
-<!--SR:!2024-02-03,75,228-->
+<!--SR:!2024-08-05,178,228-->
 
 
 #### How do you calculate the standard deviation for a gaussian distribution?

@@ -8,10 +8,11 @@ Unique ID: 202309281022
 
 # Graph of Passionate and Attachment
 
-#### What does the 2D Graph of Passion vs. Attachment Look Like
+#### Where do you want to be on the 2D Graph of Passion vs. Attachment?
 ?
+You want to be passionately detached.
 ![[Screenshot 2023-09-28 at 10.22.43 AM.png|400]]
-<!--SR:!2024-01-29,70,230-->
+<!--SR:!2024-02-10,1,210-->
 
 
 ---

@@ -12,7 +12,7 @@ Unique ID: 202310121233
 #### How Do you move halfway down or up the page?
 ?
 CNTL-D and CNTL-U
-<!--SR:!2024-02-04,68,250-->
+<!--SR:!2024-08-03,176,250-->
 
 
 #### How do operators work?
@@ -26,13 +26,13 @@ CNTL-D and CNTL-U
 `d`
 `dd` - delete line
 `D` - delete until end of line
-<!--SR:!2024-01-12,64,289-->
+<!--SR:!2025-02-13,370,309-->
 
 
 #### In Vim, what is the find-in-line operator? 
 ?
 `f`
-<!--SR:!2024-01-31,79,289-->
+<!--SR:!2025-01-27,353,309-->
 
 
 #### In Vim, what is the find unTil operator? 
@@ -51,13 +51,13 @@ CNTL-D and CNTL-U
 ?
 `y`
 `yy` - yank entire line
-<!--SR:!2024-01-08,49,250-->
+<!--SR:!2024-11-20,285,270-->
 
 #### In Vim, what is the paste operator? 
 ?
 `p` - paste
 `P` - paste before cursor
-<!--SR:!2024-01-11,52,249-->
+<!--SR:!2024-11-18,283,269-->
 
 #### In Vim, what is the lowercase operator? 
 ?
@@ -72,13 +72,13 @@ CNTL-D and CNTL-U
 #### In Vim, what is the delete character under the cursor operator? 
 ?
 `x`
-<!--SR:!2024-01-06,54,269-->
+<!--SR:!2025-01-05,331,289-->
 
 
 #### In Vim, what is the operator to indent or dedent?
 ?
 `> | <`
-<!--SR:!2024-01-09,50,249-->
+<!--SR:!2024-02-12,2,229-->
 
 #### In Vim, how do you move backward or forward words?
 ?
@@ -114,7 +114,7 @@ I - insert at the start of line
 A- Append to end of line
 o-next line
 O-previous line
-<!--SR:!2024-01-15,56,250-->
+<!--SR:!2024-11-19,284,270-->
 
 
 #### What can you do in Visual Block Mode?

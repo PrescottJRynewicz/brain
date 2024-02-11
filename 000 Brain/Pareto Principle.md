@@ -11,7 +11,7 @@ Unique ID: 202309271007
 #### What is the Pareto Principle
 ??
 It is another definition of the [[↘️ The Law of Diminishing Returns]], which says *"20% of your effort will create 80% of the effect."*
-<!--SR:!2024-01-23,89,310!2024-04-30,152,292-->
+<!--SR:!2025-05-09,455,330!2024-04-30,152,292-->
 
 #### What is the problem with perfectionism?
 ?

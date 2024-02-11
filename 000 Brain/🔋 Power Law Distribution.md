@@ -25,7 +25,7 @@ A few have most, screwing the average to be unreliable.
 3. **Natural Sciences**: Earthquake magnitudes, city populations, and the sizes of solar flares are some examples where power law distributions have been observed.
 4. **Networks and Connectivity**: In networks like the internet, the distribution of the number of links pointing to web pages or the distribution of social connections also exhibit power law behavior.
 5. **Biology**: The distribution of species' population sizes in ecosystems can sometimes follow a power law distribution.
-<!--SR:!2024-02-02,109,270-->
+<!--SR:!2024-12-08,303,270-->
 
 # References
 [GPT Convo](https://chat.openai.com/c/241f91d7-e5be-40c1-82c4-96ab6e23af44)

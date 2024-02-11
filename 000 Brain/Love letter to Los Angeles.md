@@ -38,14 +38,15 @@ Format ideas
 
 ### Ideas 
 1. My map reference of Los Angeles. 
-2. Weave in my own experience and how the city created opportunities to enrich my life more than I could ever imagine. 
-3. Finishing the story with reference to the song [Brendan](https://open.spotify.com/track/4c5OXvgTs4j6YQU6j798RS?si=cc8921f13fcc45a2)
+2. Listen to Spotify DJ to remember old feelings.
+3. Weave in my own experience and how the city created opportunities to enrich my life more than I could ever imagine. 
+4. Finishing the story with reference to the song [Brendan](https://open.spotify.com/track/4c5OXvgTs4j6YQU6j798RS?si=cc8921f13fcc45a2)
 	1. A story is only a story if there is an ending. Finality creates meaning. 
 	2. Write the closing act of the essay describing the scene at Alcove. 
 	3. Listening to Brendan.
 	4. This chapter is complete. 
 	5. I look forward to the deep nostalgia that I will get to experience upon return. 
-4. I wanna be where the people are - Ariel Joke. 
+5. I wanna be where the people are - Ariel Joke. 
 
 ---
 # References

@@ -14,7 +14,7 @@ Unique ID: 202311070944
 1. Flex Grow
 2. Flex Shrink
 3. Flex basis
-<!--SR:!2024-01-27,38,210-->
+<!--SR:!2024-07-08,150,230-->
 
 
 #### What is the Flex Grow CSS Property?
@@ -26,7 +26,7 @@ A number specifying how much the item will grow relative to the rest of the flex
 #### What is the Flex Shrink CSS Property?
 ?
 A number specifying how much the item will shrink relative to the rest of the flexible items
-<!--SR:!2024-02-10,52,250-->
+<!--SR:!2024-06-18,129,250-->
 
 #### What is the Flex Basis CSS Property?
 ?
@@ -34,7 +34,7 @@ The length of an item.
 auto = 1 1 auto
 initial = 0 1 auto
 none = 0 0 auto
-<!--SR:!2024-01-24,19,230-->
+<!--SR:!2024-06-03,115,250-->
 
 
 ---

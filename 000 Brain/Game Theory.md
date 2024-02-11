@@ -17,6 +17,6 @@ Unique ID: 202308310756
 #### What is the best strategy for winning a negative-sum game?
 ?
 Not playing at all. The best case is that you end up even, so why would you spend your time playing? 
-<!--SR:!2024-01-26,102,270-->
+<!--SR:!2024-11-29,294,270-->
 
 

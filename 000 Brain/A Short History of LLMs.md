@@ -19,7 +19,7 @@ They parse human text into tokens and then produce vectors of associated and una
 #### What advancement led to modern (circa 2023) LLMs?
 ?
 Before 2017, LLMs used RNNs or recurrent neural networks, which scanned each words in a sentence sequentially. In 2017, researchers at google published the transformer model. The transformer model processes entire blocks at once - sentences, paragraphs, articles, etc... analyzing all parts, not just individual tokens.
-<!--SR:!2024-01-24,35,210-->
+<!--SR:!2024-02-12,2,190-->
 
 #### In relation to LMMs, what is "self-attention"?
 ?

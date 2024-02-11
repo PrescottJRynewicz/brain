@@ -16,7 +16,8 @@
       "#CareerCards",
       "#PhilosophyCards",
       "#VimCards",
-      "#SwiftCards"
+      "#SwiftCards",
+      "#TriviaCards"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -50,7 +51,28 @@
     "maxLinkFactor": 1,
     "showDebugMessages": true
   },
-  "buryDate": "2024-01-11",
-  "buryList": [],
-  "historyDeck": "VimCards"
+  "buryDate": "2024-02-11",
+  "buryList": [
+    "3b454d4130519",
+    "1489d4dfec1e5",
+    "559476dc2c2ea",
+    "1cb243f31390eb",
+    "159dad90748b1a",
+    "17e00a3c215102",
+    "249d480f5be0a",
+    "a5da8a773e0f0",
+    "18c622844ac014",
+    "1ad2f186a9788c",
+    "1a7484be5490c5",
+    "ca6bc45208904",
+    "fdcdcd177d560",
+    "10a73b605b2ad",
+    "112da1cc27ed5b",
+    "161e346a01b755",
+    "1bc71ab0e4567c",
+    "3caefb047bd2a",
+    "b1550bd6f307b",
+    "8890f0b209b74"
+  ],
+  "historyDeck": "TriviaCards"
 }

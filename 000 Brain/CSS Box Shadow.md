@@ -14,7 +14,7 @@ Unique ID: 202309201016
 offset-x | offset-y | blur-radius | spread-radius | color
 ```
 Spread radius causes the shadow to spread to a larger area.
-<!--SR:!2024-02-12,54,230-->
+<!--SR:!2024-12-18,180,230-->
 
 
 

@@ -18,7 +18,7 @@ CLIDIUM
 5. Interface between units
 6. Unique Talent
 7. Managing complex situations
-<!--SR:!2024-03-09,80,210-->
+<!--SR:!2024-08-20,33,190-->
 
 
 

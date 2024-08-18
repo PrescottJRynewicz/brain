@@ -10,7 +10,7 @@ Unique ID: 202308290809
 ?
 Pareto distribution: long tail distribution.
 A few have most, screwing the average to be unreliable. 
-<!--SR:!2024-06-08,193,270-->
+<!--SR:!2024-12-18,180,270-->
 
 ![[Screenshot 2023-08-29 at 8.11.54 AM.png|200]]
 ![[Pasted image 20230829080946.png]]

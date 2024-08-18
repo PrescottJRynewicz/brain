@@ -13,7 +13,7 @@ Unique ID: 202308111531
 Mimicry between humans. Why things become popular - they are popular just because they are. 
 https://i.makeagif.com/media/10-31-2016/PvF6mm.gif
 This is an important topic to be aware of when making decisions. Are you doing something just because other people are doing it? Why are you actually doing it?
-<!--SR:!2024-07-11,153,230-->
+<!--SR:!2025-07-07,357,230-->
 
 
 

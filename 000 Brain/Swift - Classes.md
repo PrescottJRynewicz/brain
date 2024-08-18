@@ -12,7 +12,7 @@ Unique ID: 202401141112
 #### In Swift, What is the difference in instantiation between Classes and Structs, specifically for their members?
 ?
 Structs come with a default property member-wise initializer, classes you don't. If you have properties in a class, you must always create your own initializer. 
-<!--SR:!2024-02-10,1,230-->
+<!--SR:!2024-03-04,1,210-->
 
 #### How do you Inherit a class in Swift?
 ?
@@ -35,7 +35,7 @@ class Poodle: Dog {
     }
 }
 ```
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-03-04,19,270-->
 
 #### How do you override class methods in Swift?
 ?
@@ -47,7 +47,7 @@ class Poodle: Dog {
     }
 }
 ```
-<!--SR:!2024-02-10,1,230-->
+<!--SR:!2024-05-01,59,250-->
 
 
 #### In Swift Classes, what is the `final` keyword?
@@ -64,18 +64,18 @@ final class Dog {
     }
 }
 ```
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-03,61,270-->
 
 #### In swift, what is the difference between copying classes and structs?
 ?
 When you copy a struct, the data is duplicated, and creates a new reference.
 When you copy a class, it is referenced, so mutating the class will update both variables pointing to the class. 
-<!--SR:!2024-02-12,2,230-->
+<!--SR:!2024-04-01,29,230-->
 
 #### What are de-initializers in Swift Classes?
 ?
 The `deinit` method is run when the class gets destroyed (i.e. it goes out of scope and can no longer be referenced by the program)
-<!--SR:!2024-02-12,2,230-->
+<!--SR:!2024-03-31,28,230-->
 
 #### In Swift, the mutating keyword applies to Structs; does it also apply to Classes?
 ?
@@ -95,4 +95,4 @@ class Singer {
     let name = "Taylor Swift"
 }
 ```
-<!--SR:!2024-02-12,2,230-->
+<!--SR:!2024-04-02,30,230-->

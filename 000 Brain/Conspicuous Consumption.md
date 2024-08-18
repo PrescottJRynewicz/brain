@@ -10,12 +10,12 @@ Unique ID: 202308111449
 #### What does conspicuous mean? 
 ?
 Standing out to be clearly visible.
-<!--SR:!2024-04-23,172,270-->
+<!--SR:!2026-10-02,841,290-->
 
 #### What is conspicuous consumption?
 ?
 Displaying expensive purchased goods to show the people around you how well off you are. The peacock's tail of capitalism. 
-<!--SR:!2024-05-13,186,270-->
+<!--SR:!2026-09-09,818,290-->
 
 
 

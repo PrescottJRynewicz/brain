@@ -13,25 +13,34 @@ Unique ID: 202310301006
 #### How do LLMs work?
 ?
 They parse human text into tokens and then produce vectors of associated and unassociated words for each token. These vectors will contain hundreds of thousands of entries. Similar words will have similar vectors, i.e., `sea` and `ocean`.
-<!--SR:!2024-03-17,88,270-->
+<!--SR:!2024-09-25,47,230-->
 
 
 #### What advancement led to modern (circa 2023) LLMs?
 ?
 Before 2017, LLMs used RNNs or recurrent neural networks, which scanned each words in a sentence sequentially. In 2017, researchers at google published the transformer model. The transformer model processes entire blocks at once - sentences, paragraphs, articles, etc... analyzing all parts, not just individual tokens.
-<!--SR:!2024-02-12,2,190-->
+The key differences between RNN and the transformer model are
+1. Processing Method:
+	• Transformers process all tokens simultaneously, while RNNs process tokens sequentially.
+2. Efficiency:
+	• Transformers are more efficient for training on modern hardware due to parallelization.
+3. Long-Range Dependencies:
+	• Transformers handle long-range dependencies better through self-attention, whereas RNNs struggle with long sequences.
+4. Training Time:
+	• Transformers typically train faster due to their parallel nature.
+<!--SR:!2024-08-21,12,130-->
 
 #### In relation to LMMs, what is "self-attention"?
 ?
 Self-attention looks at each token in a body of text and decides which other tokens are most important to understand the tokens means.
 ![[Screenshot 2023-10-30 at 10.12.01 AM.png|400]]
-<!--SR:!2024-05-02,118,270-->
+<!--SR:!2024-10-11,63,230-->
 
 
 #### In relation to LLMs, what is greedy vs beam search?
 ?
 Greedy search is filling in the next token based on the probability of individual tokens. Beam search calculates the probability of a sequence of words, including the probabilities of all the words in the sequence. 
-<!--SR:!2024-03-05,76,250-->
+<!--SR:!2024-10-08,57,210-->
 
 
 ---

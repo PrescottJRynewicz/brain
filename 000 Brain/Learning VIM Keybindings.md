@@ -12,13 +12,13 @@ Unique ID: 202310121233
 #### How Do you move halfway down or up the page?
 ?
 CNTL-D and CNTL-U
-<!--SR:!2024-08-03,176,250-->
+<!--SR:!2025-10-31,448,250-->
 
 
 #### How do operators work?
 ?
 `{operator}{count}{motion}` || `{count}{operator}{motion}`
-<!--SR:!2024-03-18,109,270-->
+<!--SR:!2025-06-10,441,290-->
 
 
 #### In Vim, what is the delete operator? 
@@ -38,14 +38,14 @@ CNTL-D and CNTL-U
 #### In Vim, what is the find unTil operator? 
 ?
 `t`
-<!--SR:!2024-03-24,95,250-->
+<!--SR:!2025-03-01,340,270-->
 
 #### In Vim, what is the change operator? 
 ?
 `c`
 `cc` - change entire line
 `C` - change until end of line
-<!--SR:!2024-03-29,100,250-->
+<!--SR:!2026-02-21,618,270-->
 
 #### In Vim, what is the copy (yank) operator? 
 ?
@@ -62,12 +62,12 @@ CNTL-D and CNTL-U
 #### In Vim, what is the lowercase operator? 
 ?
 `gu`
-<!--SR:!2024-03-25,96,250-->
+<!--SR:!2024-11-21,240,250-->
 
 #### In Vim, what is the uppercase operator? 
 ?
 `gU`
-<!--SR:!2024-03-22,93,250-->
+<!--SR:!2024-11-16,235,250-->
 
 #### In Vim, what is the delete character under the cursor operator? 
 ?
@@ -78,7 +78,7 @@ CNTL-D and CNTL-U
 #### In Vim, what is the operator to indent or dedent?
 ?
 `> | <`
-<!--SR:!2024-02-12,2,229-->
+<!--SR:!2025-03-16,276,269-->
 
 #### In Vim, how do you move backward or forward words?
 ?
@@ -86,7 +86,7 @@ CNTL-D and CNTL-U
 `b` - back
 `e` - end of word
 `ge` - end of word backwards
-<!--SR:!2024-03-26,97,250-->
+<!--SR:!2025-02-28,339,270-->
 
 
 #### In Vim, how do you navigate around lines?
@@ -95,7 +95,7 @@ CNTL-D and CNTL-U
 `0` - start of line
 `^` - start of line after whitespace
 `$` - end of line
-<!--SR:!2024-06-01,164,270-->
+<!--SR:!2026-04-08,664,290-->
 
 
 #### What are VIM Text Objects?
@@ -104,7 +104,7 @@ w-word
 s-sentence
 p-paragraph
 "-quotes - Which are also forward seeking - which is so cool. Quotes are " ' `
-<!--SR:!2024-03-28,99,249-->
+<!--SR:!2024-08-13,28,209-->
 
 #### What are the different ways to enter insert mode?
 ?
@@ -117,11 +117,12 @@ O-previous line
 <!--SR:!2024-11-19,284,270-->
 
 
-#### What can you do in Visual Block Mode?
+#### What can you do in Visual Block Mode? How do you enter visual block mode? How do you perform operations in Visual Block Mode?
 ?
 CNTL-V to enter it. 
 This allows you to do multi cursor actions.
-<!--SR:!2024-03-30,101,250-->
+Capital `I` or `A` to insert after that.
+<!--SR:!2024-10-02,54,210-->
 
 
 ---

@@ -17,13 +17,13 @@ A cookie is a ***small*** piece of data that a web server sends to a client. The
 #### How do you set a Cookie? 
 ?
 In your web server (or any server a client is interaction with), you respond with the `Set-Cookie` header.
-<!--SR:!2024-02-18,123,270-->
+<!--SR:!2025-10-15,489,270-->
 
 #### How do you define the lifetime of a cookie?
 ?
 1. Session cookie: The browser determines when a session ends (and some browsers restore sessions, so the cookie would never go away).
 2. _Permanent_ cookies are deleted at a date specified by the `Expires` attribute or after a period specified by the `Max-Age` attribute.
-<!--SR:!2024-02-11,1,190-->
+<!--SR:!2024-09-04,35,170-->
 
 
 #### What is the `Secure` cookie attribute?
@@ -34,28 +34,28 @@ This means cookies will only be sent over SSL-verified (`https`) connections.
 #### What is the `HttpOnly` cookie attribute?
 ?
 This means that the cookie is not accessible to the `Document.cookie` Javascript API.
-<!--SR:!2024-03-12,120,230-->
+<!--SR:!2024-09-16,52,210-->
 
 #### What is the `Domain` cookie attribute?
 ?
 This specifies which domains can receive a cookie.
-<!--SR:!2024-03-11,147,290-->
+<!--SR:!2027-02-09,971,310-->
 
 #### What is the Path cookie attribute?
 ?
 This attribute specifies a path that must exist for the cookie to be sent.
-<!--SR:!2024-04-06,138,250-->
+<!--SR:!2025-08-17,430,250-->
 
 
 #### What is the `SameSite` cookie attribute?
 ?
 This attribute will only send cookies if the cookie is from the origin site.
-<!--SR:!2024-05-26,158,230-->
+<!--SR:!2024-09-07,54,230-->
 
 #### What are the options for the `SameSite` cookie attribute?
 ?
 With `Strict`, the browser only sends the cookie with requests from the cookie's origin site. `Lax` is similar, except the browser also sends the cookie when the user _navigates_ to the cookie's origin site (even if the user is coming from a different site). For example, by following a link from an external site. `None` specifies that cookies are sent on both originating and cross-site requests, but _only in secure contexts_ (i.e., if `SameSite=None` then the `Secure` attribute must also be set). If no `SameSite` attribute is set, the cookie is treated as `Lax`.
-<!--SR:!2024-02-13,106,241-->
+<!--SR:!2024-10-28,257,241-->
 
 
 

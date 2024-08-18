@@ -17,7 +17,7 @@ More money is extremely helpful when you're 18, and not helpful at all when your
 You can double your bench press in your first month of lifting, then it might take another year to add 25%.
 **Everything will plateau, and some things will even start to go negative (overtraining)**. 
 ![[Pasted image 20230811152558.png]]
-<!--SR:!2024-03-31,139,250-->
+<!--SR:!2026-07-01,748,270-->
 
 
 ---

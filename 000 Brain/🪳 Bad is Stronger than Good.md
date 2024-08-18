@@ -12,7 +12,7 @@ Unique ID: 202308111510
 Bad. For example, a single cockroach will make a bowl of cherries disgusting, but a single cherry will do nothing for a bowl of cockroaches. 
 Losing the majority of your life saving will feel immensely worse than it did to achieve those life savings. 
 Our evolution has programmed us to despise bad outcomes. 
-<!--SR:!2024-03-08,151,290-->
+<!--SR:!2024-12-18,180,290-->
 
 
 

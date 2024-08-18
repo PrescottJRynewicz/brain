@@ -11,29 +11,29 @@ Unique ID: 202401130949
 #### What is a computed property on a struct?
 ?
 It's value comes from a closure and can use other properties of the struct to get it's value.
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-04-05,33,250-->
 
 #### What Are Property Observers for Structs?
 ?
 `willSet` and `didSet`
 These are hooks that get called before of after a property is set.
-<!--SR:!2024-02-12,2,230-->
+<!--SR:!2024-04-04,32,230-->
 
 #### If A struct has a variable property, but the instance of the struct was defined as a constant, can the variable property be changed?
 ?
 No. It cannot.
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-04-08,36,250-->
 
 #### What is a mutating struct method?
 ?
 Because swift does not know how a struct will be instantiated, you have to specify if a method is going to change any of the structs properties ahead of time. 
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-02,60,270-->
 
 
 #### In Structs, what is the constructor method keyword?
 ?
 `init`
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-10,68,290-->
 
 #### What is a lazy property in Swift?
 ?
@@ -48,7 +48,7 @@ struct Person {
     }
 }
 ```
-<!--SR:!2024-02-12,2,230-->
+<!--SR:!2024-04-12,40,250-->
 
 
 #### Can Static properties on Structs be mutated?
@@ -65,4 +65,4 @@ struct Student {
     }
 }
 ```
-<!--SR:!2024-02-12,2,230-->
+<!--SR:!2024-04-03,31,230-->

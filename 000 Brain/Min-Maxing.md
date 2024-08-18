@@ -11,7 +11,7 @@ Unique ID: 202308102154
 #### What is min-maxing? 
 ?
 Essentially, focus on one critically important area or domain, and ignore the rest. 
-<!--SR:!2024-03-14,128,250-->
+<!--SR:!2026-07-21,768,270-->
 
 
 

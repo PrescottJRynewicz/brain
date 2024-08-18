@@ -13,7 +13,7 @@ Unique ID: 202308290913
 **Community:** It is impossible to avoid the truth that we are social creatures and need community. The right work provides an amazing value bubble where you can create an empathetic human connection while learning from your peers. 
 **Hierarchy:** Again, because we are social creatures, we need a sense of hierarchy. "Where do I fit in?" This is one of my primary motivators whenever I learn a new skill: how far up the pecking order can I get with 80% of the effort? When doing good work, we create or are given a sense of hierarchy. 
 **Impact:** We all want to feel special, and like we are doing something good. 
-<!--SR:!2024-05-29,161,250-->
+<!--SR:!2024-09-26,51,210-->
 
 
 #### As per author Richard Flora, name 5 out of ten reasons people enjoy their work that apply most to you?
@@ -23,7 +23,7 @@ Unique ID: 202308290913
 3. Personal and ﻿﻿﻿Professional Growth
 4. ﻿﻿﻿Money
 5. ﻿﻿﻿Stimulating colleagues and bosses. Social recognition. Community.
-<!--SR:!2024-06-14,126,190-->
+<!--SR:!2024-09-02,24,150-->
 
 
 

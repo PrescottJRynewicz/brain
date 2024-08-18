@@ -14,7 +14,7 @@ Simple, clean aesthetics have become a leading indicator of culture. Look at the
 #### What is Conspicuous Simplicity?
 ?
 Conspicuous Simplicity refers to the concept of intentionally designing products, websites, or other visual media with a minimalistic and clean aesthetic.
-<!--SR:!2024-05-28,160,250-->
+<!--SR:!2026-02-22,619,270-->
 
 
 

@@ -21,13 +21,13 @@ struct body: View {
 		}
 }
 ```
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-06,64,270-->
 
 
 #### In SwiftUI, what are Bindings?
 ?
 Bindings are elements that naturally attach a state to a view. Some Views require bindings (like pickers and sliders) because they require a piece of data to power them (i.e. slider position or picker selection).
-<!--SR:!2024-02-13,3,250-->
+<!--SR:!2024-05-07,65,270-->
 
 
 #### In SwiftUI, how do you create a binding?
@@ -50,13 +50,13 @@ let agreedToAll = Binding<Bool>(
             }
         )
 ```
-<!--SR:!2024-02-13,3,250-->
+<!--SR:!2024-04-07,35,250-->
 
 
 #### In Swift UI, what is the default click action of a button (or any view), in an alert?
 ?
 The default click action closes the alert.
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-14,72,290-->
 
 
 #### Why does SwiftUI use structs instead of classes? And what is the history of this choice?
@@ -70,7 +70,7 @@ But over time, these rules change, break, grow large, and start to make less and
 It has become evident that breaking large apps into smaller, composable pieces is much more maintainable. 
 In summary
 > **Structs suggest composition over inheritance, leading to smaller, more performant, more flexible, and easier-to-understand applications.**
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-05,63,270-->
 
 
 
@@ -95,7 +95,7 @@ Button("Hello, world!") {
 .background(.red)
 ```
 The first will not create what you expect - the size of the red box will only cover the text. This is because the red frame is painted before the new frame width is called.
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-08,66,270-->
 
 
 #### In Swift, what is the `@ViewBuilder`?
@@ -136,5 +136,5 @@ struct ContentView: View {
 }
 
 ```
-<!--SR:!2024-02-12,3,250-->
+<!--SR:!2024-05-04,62,270-->
 

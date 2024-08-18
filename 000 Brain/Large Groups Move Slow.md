@@ -10,14 +10,16 @@ Unique ID: 202309271051
 
 #### Why Do Large Groups Move Slow?
 ?
-Increasing the number of people who have input and decision-making power in a project will create exponential time increases in a project. 
-It takes three handshakes to introduce 3 people. 
-Six handshakes to introduce 4 people.
-10 Handshakes to introduce 5. 
-15 handshakes to introduce 6. 
+Calculating interactions in a growing group has a quadratic relationship with the triangular number.
+Increasing the number of people who have input and decision-making power in a project will create quadratic time increases in a project. 
+3 people = 3 handshakes
+4 people = 6 handshakes
+5 people = 10 handshakes
+6 people = 15 handshakes
 By doubling the group size, you have 5x the amount of potential interactions. 
-$$ Handshakes = \Sigma (n^2 + n) / 2 $$
-<!--SR:!2024-07-29,171,230-->
+$$ n = Group Size - 1 $$
+$$ Handshakes = (n^2 + n) / 2 $$
+<!--SR:!2024-08-17,5,170-->
 
 
 

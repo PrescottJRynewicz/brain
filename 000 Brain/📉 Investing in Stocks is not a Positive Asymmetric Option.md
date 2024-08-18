@@ -16,7 +16,7 @@ Because of the [[💹 Efficient Market Hypothesis]], it is extremely unlikely th
 #### What type of outcome symmetry does stock market investing have
 ?
 Index funds are a symmetric option - almost everyone from the lay person to the domain expert will have negative symmetric options with the risk of ruin when attempting to "game" the stock market. 
-<!--SR:!2024-07-15,192,230-->
+<!--SR:!2025-09-30,442,230-->
 
 
 

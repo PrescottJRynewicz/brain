@@ -9,7 +9,7 @@ Unique ID: 202309050935
 ## What is Effective Altruism?
 ?
 **using evidence and reason to figure out how to benefit others as much as possible, and taking action on that basis**
-<!--SR:!2024-02-11,104,250-->
+<!--SR:!2024-11-04,264,250-->
 
 ---
 # References
